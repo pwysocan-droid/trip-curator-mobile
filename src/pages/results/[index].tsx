@@ -12,8 +12,7 @@ import {fetchRegionData, resolveRegion} from '@/lib/regions'
 
 const FALLBACK_ANALYSIS: AnalysisResult = {
   vibe: 'Sun-baked Provençal village',
-  detail:
-    'Limestone architecture. Narrow streets. Mediterranean light. Small artistic communities.',
+  detail: 'A pocket of slow-light Provence where stone holds the day',
   tags: ['provence', 'artistic', 'slow-time'],
   region: 'provence',
   place: null,
