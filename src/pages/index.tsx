@@ -64,7 +64,7 @@ export default function Home() {
             IRL Generator
           </h1>
           <p className={styles.body} style={{animationDelay: '1500ms'}}>
-            When AI slop seems too good to be true upload it and we&rsquo;ll find Airbnbs to make it real.
+            When AI slop seems too good to be true upload it and we&rsquo;ll find Airbnbs that make it real.
           </p>
           {error && <p className={styles.error}>{error}</p>}
         </div>
