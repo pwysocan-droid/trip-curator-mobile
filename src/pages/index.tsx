@@ -64,10 +64,10 @@ export default function Home() {
             IRL Generator
           </h1>
           <p className={styles.body} style={{animationDelay: '800ms'}}>
-            When AI and influencer content seems too good to be true.
+            When AI slop seems too good to be true
           </p>
           <p className={styles.body} style={{animationDelay: '1400ms'}}>
-            Upload it here and we&rsquo;ll find Airbnbs that make it true.
+            upload it and we&rsquo;ll find Airbnbs to make it.
           </p>
           {error && <p className={styles.error}>{error}</p>}
         </div>
