@@ -59,26 +59,23 @@ export default function Home() {
     <div className="frame">
 
       <header className={styles.header}>
-        <h1 className={styles.title}>Trips</h1>
+        <h1 className={styles.title}>Explorer trips</h1>
       </header>
 
       <main className={styles.main}>
-        <div className={styles.empty}>
-          <div className={styles.illoBox} aria-hidden>
-            <svg viewBox="0 0 80 80" width="64" height="64" fill="none">
-              <rect x="14" y="22" width="52" height="40" rx="3" stroke="#222" strokeWidth="1.6"/>
-              <path d="M14 32h52" stroke="#222" strokeWidth="1.6"/>
-              <rect x="26" y="14" width="28" height="8" rx="1.5" stroke="#222" strokeWidth="1.6"/>
-              <circle cx="56" cy="48" r="4" stroke="#FF385C" strokeWidth="1.8"/>
-              <path d="M56 52v6" stroke="#FF385C" strokeWidth="1.8" strokeLinecap="round"/>
-            </svg>
-          </div>
-          <h2 className={styles.emptyTitle}>No trips yet</h2>
-          <p className={styles.emptyBody}>
-            Upload a travel photo and we'll curate three trips inspired by its mood,
-            place, and aesthetic.
+        <div className={styles.copy}>
+          <p className={styles.line} style={{animationDelay: '200ms'}}>
+            The real world is far more interesting
           </p>
-
+          <p className={styles.line} style={{animationDelay: '1100ms'}}>
+            than anything you&rsquo;ll find in the metaverse
+          </p>
+          <p
+            className={`${styles.line} ${styles.lineCta}`}
+            style={{animationDelay: '2000ms'}}
+          >
+            Upload your image we will take you somewhere real
+          </p>
           {error && <p className={styles.error}>{error}</p>}
         </div>
       </main>
