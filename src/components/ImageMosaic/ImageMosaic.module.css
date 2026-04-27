@@ -7,7 +7,7 @@
 
 .hero {
   width: 100%;
-  aspect-ratio: 16 / 10;
+  aspect-ratio: 16 / 6;
   border-radius: var(--r-lg);
   overflow: hidden;
   background: var(--color-surface-alt);

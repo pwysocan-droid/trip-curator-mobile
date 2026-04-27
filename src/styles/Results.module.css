@@ -47,7 +47,7 @@
 .refImage {
   position: relative;
   width: 100%;
-  aspect-ratio: 16 / 7;
+  aspect-ratio: 16 / 6;
   border-radius: var(--r-lg);
   overflow: hidden;
   margin-bottom: var(--sp-4);
