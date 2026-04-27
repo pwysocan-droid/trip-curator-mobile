@@ -176,42 +176,61 @@
 }
 
 /* ============================================================
-   See another trip
+   Trip pagination — numbered chips for jump-to-any-trip nav
    ============================================================ */
 
-.nextTripWrap {
+.tripNav {
   padding: var(--sp-6) var(--sp-5) var(--sp-3);
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 6px;
+  gap: var(--sp-2);
   border-top: 1px solid var(--color-divider);
   margin-top: var(--sp-4);
 }
 
-.nextTripLink {
+.tripNavLabel {
+  font-size: var(--fs-meta);
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-text-tertiary);
+  margin-bottom: 4px;
+}
+
+.tripChips {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+}
+
+.tripChip {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  padding: 12px 22px;
+  justify-content: center;
+  min-width: 44px;
+  height: 44px;
+  padding: 0 14px;
   border-radius: var(--r-pill);
-  background: var(--color-text);
-  color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text);
   font-size: var(--fs-small);
   font-weight: 600;
   letter-spacing: -0.005em;
   text-decoration: none;
-  transition: transform 0.15s ease, background 0.15s ease;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
 }
 
-.nextTripLink:hover {
-  background: #000;
-  transform: translateY(-1px);
+.tripChip:hover {
+  border-color: var(--color-text);
 }
 
-.nextTripHint {
-  font-size: var(--fs-meta);
-  color: var(--color-text-tertiary);
+.tripChipActive {
+  background: var(--color-text);
+  color: var(--color-surface);
+  border-color: var(--color-text);
+  pointer-events: none;
 }
 
 /* ============================================================

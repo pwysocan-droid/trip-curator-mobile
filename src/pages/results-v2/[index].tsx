@@ -99,7 +99,6 @@ export default function TripPageV2() {
 
   const trip = trips[safeIndex]
   const isFirstTrip = safeIndex === 0
-  const nextIndex = trips.length > 0 ? (safeIndex + 1) % trips.length : 0
 
   return (
     <div className="frame">
@@ -194,20 +193,26 @@ export default function TripPageV2() {
       </section>
 
       {!loading && trips.length > 1 && (
-        <div className={styles.nextTripWrap}>
-          <Link
-            href={{pathname: `/results-v2/${nextIndex}`, query: {n: nights}}}
-            className={styles.nextTripLink}
-          >
-            See another trip
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden>
-              <path d="M9 6l6 6-6 6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-            </svg>
-          </Link>
-          <p className={styles.nextTripHint}>
-            {`Trip ${nextIndex + 1} of ${trips.length}`}
-          </p>
-        </div>
+        <nav className={styles.tripNav} aria-label="Trip selector">
+          <span className={styles.tripNavLabel}>Other trips</span>
+          <div className={styles.tripChips}>
+            {trips.map((_, i) => {
+              const active = i === safeIndex
+              return (
+                <Link
+                  key={i}
+                  href={{pathname: `/results-v2/${i}`, query: {n: nights}}}
+                  className={`${styles.tripChip} ${active ? styles.tripChipActive : ''}`}
+                  aria-current={active ? 'page' : undefined}
+                  aria-label={`Trip ${i + 1}`}
+                  scroll
+                >
+                  {i + 1}
+                </Link>
+              )
+            })}
+          </div>
+        </nav>
       )}
 
       <div style={{height: 'calc(var(--tab-bar-h) + 16px)'}} />
