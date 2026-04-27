@@ -70,10 +70,7 @@ export default function Home() {
           <p className={styles.line} style={{animationDelay: '1100ms'}}>
             than anything you&rsquo;ll find in the metaverse
           </p>
-          <p
-            className={`${styles.line} ${styles.lineCta}`}
-            style={{animationDelay: '2000ms'}}
-          >
+          <p className={styles.line} style={{animationDelay: '2000ms'}}>
             Upload your image we will take you somewhere real
           </p>
           {error && <p className={styles.error}>{error}</p>}

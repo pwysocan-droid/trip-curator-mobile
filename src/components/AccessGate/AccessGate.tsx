@@ -44,8 +44,7 @@ export function AccessGate({children}: Props) {
   return (
     <div className={styles.screen}>
       <form className={styles.form} onSubmit={attempt}>
-        <div className={styles.title}>Trip Curator</div>
-        <div className={styles.sub}>Mobile Preview</div>
+        <div className={styles.title}>Explorer trips</div>
         <div className={styles.rule} />
         <label className={styles.label} htmlFor="access-input">Access</label>
         <input

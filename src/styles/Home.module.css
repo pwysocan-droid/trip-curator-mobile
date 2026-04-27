@@ -43,15 +43,6 @@
   margin-top: var(--sp-3);
 }
 
-.lineCta {
-  font-size: var(--fs-large);
-  font-weight: 500;
-  color: var(--color-text-secondary);
-  letter-spacing: -0.005em;
-  line-height: 1.4;
-  margin-top: var(--sp-6) !important;
-}
-
 @keyframes fadeUp {
   to {
     opacity: 1;
