@@ -47,10 +47,10 @@
 .refImage {
   position: relative;
   width: 100%;
-  aspect-ratio: 16 / 10;
+  aspect-ratio: 16 / 7;
   border-radius: var(--r-lg);
   overflow: hidden;
-  margin-bottom: var(--sp-5);
+  margin-bottom: var(--sp-4);
   background: var(--color-surface-alt);
 }
 
@@ -101,12 +101,11 @@
 }
 
 .detail {
-  font-size: var(--fs-large);
+  font-size: var(--fs-small);
   font-weight: 400;
   color: var(--color-text-secondary);
-  line-height: 1.35;
-  letter-spacing: -0.005em;
-  margin-bottom: var(--sp-4);
+  line-height: 1.45;
+  margin-bottom: var(--sp-3);
 }
 
 .tags {

@@ -143,15 +143,6 @@ export default function TripPage() {
           )}
 
           <div className={styles.analysisBlock}>
-            {analysis.place && (
-              <span className={styles.placeChip}>
-                <svg width="11" height="11" viewBox="0 0 12 12" fill="currentColor" aria-hidden>
-                  <path d="M6 1a3.5 3.5 0 0 0-3.5 3.5c0 2.6 3.5 6.5 3.5 6.5s3.5-3.9 3.5-6.5A3.5 3.5 0 0 0 6 1zm0 5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/>
-                </svg>
-                {analysis.place}
-              </span>
-            )}
-            <h1 className={styles.vibe}>{analysis.vibe}</h1>
             <p className={styles.detail}>{analysis.detail}</p>
             <div className={styles.tags}>
               {analysis.tags.slice(0, 5).map((tag) => (
@@ -170,7 +161,6 @@ export default function TripPage() {
             <img className={styles.compactThumb} src={heroImage} alt="Your inspiration" />
           )}
           <div className={styles.compactText}>
-            {analysis.place && <span className={styles.compactPlace}>{analysis.place}</span>}
             <span className={styles.compactVibe}>{analysis.vibe}</span>
           </div>
           <div className={styles.compactStepper}>
