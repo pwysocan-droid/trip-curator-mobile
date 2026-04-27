@@ -12,6 +12,7 @@ interface TripCardProps {
   nights: number
   index: number
   total?: number
+  heroRounded?: boolean
 }
 
 function kmLabel(km: number): string {
@@ -58,7 +59,7 @@ function ListingRow({href, imageUrl, imageAlt, type, title, meta, rating, review
   )
 }
 
-export default function TripCard({trip, nights, index, total = 3}: TripCardProps) {
+export default function TripCard({trip, nights, index, total = 3, heroRounded = false}: TripCardProps) {
   const [imageIndex, setImageIndex] = useState(0)
   const [liked, setLiked] = useState(false)
 
@@ -77,7 +78,7 @@ export default function TripCard({trip, nights, index, total = 3}: TripCardProps
     <article className={styles.card}>
 
       {/* Hero carousel — swipeable on mobile */}
-      <div className={styles.hero}>
+      <div className={`${styles.hero} ${heroRounded ? styles.heroRounded : ''}`}>
         <div className={styles.carousel}>
           {heroImages.map((img, i) => (
             <div key={i} className={styles.slide}>

@@ -17,6 +17,13 @@
   overflow: hidden;
 }
 
+/* v2 only — rounded inset hero so the carousel sits in a radius box too */
+.heroRounded {
+  width: calc(100% - var(--sp-3) * 2);
+  margin: var(--sp-3) var(--sp-3) 0;
+  border-radius: var(--r-lg);
+}
+
 .carousel {
   display: flex;
   height: 100%;
