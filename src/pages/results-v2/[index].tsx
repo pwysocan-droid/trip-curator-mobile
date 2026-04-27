@@ -189,7 +189,6 @@ export default function TripPageV2() {
             nights={nights}
             index={safeIndex}
             total={trips.length}
-            heroRounded
           />
         )}
       </section>
