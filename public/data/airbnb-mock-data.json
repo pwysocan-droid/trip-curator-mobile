@@ -1,0 +1,1805 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2026-04-15",
+    "regions": [
+      "provence"
+    ],
+    "totalListings": 27,
+    "note": "Mock dataset generated from real Airbnb listings. Design structure mirrors exact Airbnb UI patterns."
+  },
+  "stays": [
+    {
+      "id": "stay-provence-001",
+      "airbnbId": "1370309517824410852",
+      "name": "\"Le patio de Collias\" Guest House",
+      "type": "room_in_bed_breakfast",
+      "typeLabel": "Room in Collias, France",
+      "region": "provence",
+      "location": "Collias, Occitanie, France",
+      "lat": 43.9472,
+      "lng": 4.4742,
+      "guests": 1,
+      "bedroomCount": 0,
+      "beds": "1 double bed",
+      "bedDetail": "1 double bed · Private attached bathroom",
+      "baths": 1,
+      "price": 298,
+      "pricePerNight": 298,
+      "totalForFive": 1490,
+      "currency": "USD",
+      "rating": 5.0,
+      "reviewCount": 4,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Angèle",
+        "isSuperhost": true,
+        "yearsHosting": 1,
+        "totalReviews": 25,
+        "totalRating": 5.0,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Spanish",
+          "French"
+        ],
+        "work": "Hospitality",
+        "presence": "I'm happy to spend time with my guests or give them space"
+      },
+      "highlights": [
+        {
+          "title": "Exceptional check-in experience",
+          "detail": "Recent guests gave the check-in process a 5-star rating."
+        },
+        {
+          "title": "Unbeatable location",
+          "detail": "100% of guests in the past year gave this location a 5-star rating."
+        },
+        {
+          "title": "Room in a bed and breakfast",
+          "detail": "Your own room in a home, plus access to shared spaces."
+        }
+      ],
+      "description": "In the heart of the village of Collias, in a 13th century stone house, this exceptional place immerses you in a unique atmosphere, combining charm and serenity. The guest house has three bedrooms in total, with a shared summer kitchen available to guests. The Templars suite has an area of 38 m2 with a private bathroom (walk-in shower).",
+      "bedrooms": [
+        {
+          "name": "Bedroom",
+          "beds": "1 double bed"
+        }
+      ],
+      "amenities": [
+        "Lock on bedroom door",
+        "Lake access",
+        "Kitchen",
+        "Wifi",
+        "Pool",
+        "Air conditioning",
+        "Breakfast"
+      ],
+      "amenitiesTotal": 21,
+      "safetyNotReported": [
+        "Carbon monoxide alarm",
+        "Smoke alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 2,
+        "cancellation": "Free cancellation before May 2. Cancel before check-in on May 7 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5.0,
+        "accuracy": 5.0,
+        "checkin": 5.0,
+        "communication": 5.0,
+        "location": 5.0,
+        "value": 5.0
+      },
+      "reviewMentions": [
+        {
+          "tag": "Breakfast",
+          "count": 3
+        },
+        {
+          "tag": "Hospitality",
+          "count": 3
+        },
+        {
+          "tag": "Location",
+          "count": 2
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Reece",
+          "yearsOnAirbnb": 8,
+          "date": "1 week ago",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Angèle was the perfect host! We loved our stay and the place is even better than the photos. Angèle is kind, attentive and has incredible taste. Each morning breakfast was readily prepared and considered, with a variety of options. The views from the room are so sublime that we didn't want to leave."
+        },
+        {
+          "author": "Olivia",
+          "yearsOnAirbnb": 7,
+          "date": "September 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "We had a truly magical stay here. Angèle was the most wonderful host, making us feel welcomed, relaxed and well looked after. Every detail was considered from the beautiful breakfast spreads to the local recommendations. The location and house itself is breathtaking, even more so in person. I can't recommend it enough."
+        },
+        {
+          "author": "Irina",
+          "yearsOnAirbnb": 12,
+          "date": "July 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Our stay in Collias was absolutely wonderful and it truly exceeded all our expectations. From the moment we arrived, Angèle made us feel right at home. The breakfasts were delicious, everything was perfectly clean, and her tips for local outings made our trip even more special. You can really feel how much love and care she puts into hosting. Thank you, Angèle, for such a warm and memorable stay! We will come back for sure!"
+        },
+        {
+          "author": "Simon",
+          "yearsOnAirbnb": 12,
+          "date": "August 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Really beautiful building and courtyard. Perfect for relaxing in, or a base to nearby towns. Loved it."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-05-01",
+        "endDate": "2026-09-30"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=1200&q=80",
+          "alt": "Stone courtyard with pool surrounded by greenery"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=1200&q=80",
+          "alt": "Vaulted stone interior with chandelier"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1582268611958-ebfd161df9d8?w=1200&q=80",
+          "alt": "Mediterranean stone village courtyard"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80",
+          "alt": "Carved wooden door entryway"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1200&q=80",
+          "alt": "Outdoor terrace with vines"
+        }
+      ]
+    },
+    {
+      "id": "stay-provence-002",
+      "airbnbId": "1476010793500856876",
+      "name": "Prestigious duplex with rooftop terrace in the historic heart",
+      "type": "entire_rental_unit",
+      "typeLabel": "Entire rental unit in Aix-en-Provence, France",
+      "region": "provence",
+      "location": "Aix-en-Provence, Provence-Alpes-Côte d'Azur, France",
+      "lat": 43.5298,
+      "lng": 5.4474,
+      "guests": 3,
+      "bedroomCount": 1,
+      "beds": "1 bed",
+      "bedDetail": "3 guests · 1 bedroom · 1 bed · 1 bath",
+      "baths": 1,
+      "price": 261,
+      "pricePerNight": 261,
+      "totalForFive": 1306,
+      "currency": "USD",
+      "rating": 4.95,
+      "reviewCount": 21,
+      "isGuestFavorite": true,
+      "topPercent": 10,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Rikke",
+        "location": "La Ciotat, France",
+        "isSuperhost": true,
+        "yearsHosting": 8,
+        "totalReviews": 30,
+        "totalRating": 4.83,
+        "responseRate": "100%",
+        "responseTime": "within an hour"
+      },
+      "coHosts": [
+        "Olivier"
+      ],
+      "highlights": [
+        {
+          "title": "Top 10% of homes",
+          "detail": "This home is highly ranked based on ratings, reviews, and reliability."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the lockbox."
+        },
+        {
+          "title": "Beautiful area",
+          "detail": "Guests love this home's scenic location."
+        }
+      ],
+      "description": "This 80 m2 air-conditioned duplex for 3 people is conveniently located in the heart of Aix-en-Provence. It has a bathroom that opens onto the master bedroom. The superb south-facing roof terrace will allow you to make the most of the sunny days of Provence with a wonderful view of the city and the famous Sainte-Victoire.",
+      "bedrooms": [
+        {
+          "name": "Bedroom",
+          "beds": "1 bed"
+        }
+      ],
+      "amenities": [
+        "Kitchen",
+        "Wifi",
+        "Dedicated workspace",
+        "Washer",
+        "Air conditioning",
+        "Private patio or balcony",
+        "Pack 'n play/Travel crib",
+        "Hair dryer",
+        "Refrigerator"
+      ],
+      "amenitiesTotal": 51,
+      "safetyNotReported": [
+        "Carbon monoxide alarm"
+      ],
+      "safetyConfirmed": [
+        "Smoke alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 4:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 3,
+        "cancellation": "Cancel before check-in on April 19 for a partial refund. After that, your refund depends on when you cancel."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.8,
+        "accuracy": 5.0,
+        "checkin": 5.0,
+        "communication": 5.0,
+        "location": 5.0,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "View",
+          "count": 12
+        },
+        {
+          "tag": "Location",
+          "count": 13
+        },
+        {
+          "tag": "Indoor spaces",
+          "count": 8
+        },
+        {
+          "tag": "Decor",
+          "count": 4
+        },
+        {
+          "tag": "Sleep quality",
+          "count": 3
+        },
+        {
+          "tag": "Nearby",
+          "count": 3
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Jennifer",
+          "location": "Martinsburg, West Virginia",
+          "date": "1 week ago",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "We had a wonderful stay in Aix-en-Provence. Very comfortable bed, excellent city views on the roof top terrace, and within walking distance to many shops and restaurants."
+        },
+        {
+          "author": "Lisa",
+          "location": "Oslo, Norway",
+          "date": "2 weeks ago",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "A stunning place, don't let the stairs outhouse off but be prepared for them the first time you enter the house. Such a stunning modernization of a traditional city home, everything top shelf. Rikke responded super quickly…a perfect AirBnB host AND property in one of the most special cities."
+        },
+        {
+          "author": "Anna",
+          "yearsOnAirbnb": 12,
+          "date": "3 weeks ago",
+          "rating": 5,
+          "text": "We have just stayed 4 nights in Aix at Rikke's apartment and it was fabulous. Good points - location, decor of the apartment, roof terrace, great spaces (kitchen and living room, huge bathroom), so clean, very comfortable beds, lovely linen, lots of hanging space, nice touches of chocolates and wine for guests, very good communication with Rikke."
+        },
+        {
+          "author": "Stephanie",
+          "yearsOnAirbnb": 13,
+          "date": "January 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "What an unbelievably stunning place! Even more amazing than described. Beautiful and spacious, and when you get up to the second floor, even in January, you felt as if you were floating on top of Aix. We had coffee on the roof terrace and it felt wonderful."
+        },
+        {
+          "author": "Noah",
+          "location": "Port Chester, New York",
+          "date": "February 2026",
+          "context": "Stayed over a week",
+          "rating": 5,
+          "text": "Beautiful, thoughtfully designed apartment and amazing central location! Highly recommend (just make sure you are ok with a few stairs to get there)."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-04-20",
+        "endDate": "2026-10-15"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&q=80",
+          "alt": "Rooftop terrace with view of Aix-en-Provence"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=1200&q=80",
+          "alt": "Terracotta rooftops of historic Aix"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1631679706909-1844bbd07221?w=1200&q=80",
+          "alt": "Modern living room with high ceilings"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80",
+          "alt": "Kitchen and dining area with exposed beams"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=1200&q=80",
+          "alt": "Bedroom with wood-beam ceiling"
+        }
+      ]
+    },
+    {
+      "id": "stay-provence-003",
+      "airbnbId": "1445491518052487443",
+      "name": "The Hidden House",
+      "type": "entire_house",
+      "typeLabel": "Entire home in Saint-Rémy-de-Provence, France",
+      "region": "provence",
+      "location": "Saint-Rémy-de-Provence, Provence-Alpes-Côte d'Azur, France",
+      "lat": 43.7891,
+      "lng": 4.8316,
+      "guests": 4,
+      "bedroomCount": 2,
+      "beds": "2 beds",
+      "bedDetail": "4 guests · 2 bedrooms · 2 beds · 2 baths",
+      "baths": 2,
+      "price": 354,
+      "pricePerNight": 354,
+      "totalForFive": 1770,
+      "currency": "USD",
+      "rating": 5.0,
+      "reviewCount": 4,
+      "isGuestFavorite": false,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Jerome",
+        "location": "Saint-Rémy-de-Provence, France",
+        "isSuperhost": true,
+        "yearsHosting": 11,
+        "totalReviews": 142,
+        "totalRating": 4.89,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "French"
+        ]
+      },
+      "highlights": [
+        {
+          "title": "Exceptional check-in experience",
+          "detail": "Recent guests gave the check-in process a 5-star rating."
+        },
+        {
+          "title": "Beautiful and walkable",
+          "detail": "This area is scenic and easy to get around."
+        },
+        {
+          "title": "At-home coffee",
+          "detail": "Start your morning right with the espresso machine."
+        }
+      ],
+      "description": "Charming house hidden in the heart of the village. Completely renovated and air-conditioned. 1 suite on the ground floor with shower room and toilet and a reading area opening onto a small quiet garden. On the 1st floor, a beautiful living room opens onto a terrace where you can have breakfast, a cozy living room with a period fireplace and a fully equipped kitchen. On the 2nd floor, a large bedroom with a shower room bathed in light.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 bed"
+        }
+      ],
+      "amenities": [
+        "Kitchen",
+        "Wifi",
+        "Dedicated workspace",
+        "Free parking on premises",
+        "TV",
+        "Washer",
+        "Air conditioning",
+        "Private patio or balcony",
+        "Hair dryer",
+        "Espresso machine"
+      ],
+      "amenitiesTotal": 37,
+      "safetyNotReported": [
+        "Carbon monoxide alarm"
+      ],
+      "safetyConfirmed": [
+        "Smoke alarm"
+      ],
+      "houseRules": {
+        "checkin": "4:00 PM - 10:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 4,
+        "cancellation": "Free cancellation before 4:00 PM on April 15. Cancel before check-in on April 16 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5.0,
+        "accuracy": 5.0,
+        "checkin": 5.0,
+        "communication": 5.0,
+        "location": 5.0,
+        "value": 5.0
+      },
+      "reviewMentions": [
+        {
+          "tag": "Quiet",
+          "count": 2
+        },
+        {
+          "tag": "Location",
+          "count": 2
+        },
+        {
+          "tag": "Hospitality",
+          "count": 2
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Sze",
+          "yearsOnAirbnb": 14,
+          "date": "1 week ago",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Best Airbnb we have ever stayed at. Jerome was an incredible host. He was very welcoming and friendly. He made us feel right at home at his stunning house that looked even better in real life. He gave us amazing recommendations and offered assistance when we needed help."
+        },
+        {
+          "author": "Kim",
+          "location": "Dallas, Texas",
+          "date": "September 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The perfect hidden place :) loved it! Quiet and removed but also perfectly located with access to the city center dining and shopping. Will return again soon."
+        },
+        {
+          "author": "Olivier",
+          "yearsOnAirbnb": 3,
+          "date": "December 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "A charming accommodation, tastefully decorated, equipped with all the necessary equipment. Located near a parking lot, within the city center and yet quiet. This hidden house is aptly named… You feel better than good there and Jérôme gives you special attention. I'm already talking about it around me. A must!"
+        },
+        {
+          "author": "Tiberiu",
+          "location": "Hod Hasharon, Israel",
+          "date": "July 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Excellent place. The hosts arranged a table for us at their restaurant on our arrival day, July 14, day of Bastille in France."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-04-16",
+        "endDate": "2026-10-30"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=1200&q=80",
+          "alt": "Bright living room with exposed beams"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=80",
+          "alt": "Living area with period fireplace"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600121848594-d8644e57abab?w=1200&q=80",
+          "alt": "Stone archway interior"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1551776235-dde6d482980b?w=1200&q=80",
+          "alt": "Workspace by window with chair"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=1200&q=80",
+          "alt": "Stone-walled bedroom with French doors"
+        }
+      ]
+    },
+    {
+      "id": "stay-provence-004",
+      "airbnbId": "1605083325923118787",
+      "name": "The Luberon House",
+      "type": "entire_house",
+      "region": "provence",
+      "location": "Gordes, Provence-Alpes-Côte d'Azur, France",
+      "lat": 43.9117,
+      "lng": 5.2298,
+      "guests": 6,
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "1 bed"
+        }
+      ],
+      "beds": "2 king beds + 1 bed",
+      "baths": 3,
+      "price": 1020,
+      "pricePerNight": 1020,
+      "totalForFive": 5100,
+      "currency": "USD",
+      "rating": 5.0,
+      "reviews": [
+        {
+          "author": "Tamara",
+          "yearsOnAirbnb": 13,
+          "rating": 5,
+          "text": "Incredible! Everything about our stay in this stunning property was spot on. Our concierge, Denis, was a delight and very helpful with many insider tips on the area. My husband comes from a 5 star Hôtel background, and could not find fault."
+        },
+        {
+          "author": "Jeff",
+          "location": "Regina, Canada",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "We could not have asked for a better stay for our time in Provence. Everything about the property was absolutely perfect. The property is extremely well equipped and is in a great location. The attention to detail in decorating, linens, etc was all very appreciated."
+        }
+      ],
+      "isNew": true,
+      "host": {
+        "name": "Elodie",
+        "location": "Marseille, France",
+        "avatar": "https://placeholder.com/40",
+        "isSuperhost": false,
+        "monthsHosting": 2,
+        "responseRate": "100%",
+        "responseTime": "within a few hours"
+      },
+      "coHosts": [
+        "Denis"
+      ],
+      "badges": [
+        "new",
+        "mountain_and_valley_views",
+        "beautiful_and_walkable"
+      ],
+      "description": "In the heart of Gordes, this beautiful 17th century house has been completely renovated. The balcony has amazing views of the Luberon. With its historic architecture, high ceilings and stone basin dug into the rock of Gordes, heated, filtered and purified, the house is ideally located near the shops of a lively village. All bedrooms as well as the living room have AC.",
+      "neighborhoodHighlights": "The neighborhood is very quiet and away from all traffic, cafe terraces or restaurant or passageway. The village shops, restaurants and cafes are quickly accessible (150 meters away).",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1583878764716-9a8e4ab3d12e?w=1200&q=80",
+          "alt": "Dining room with arched windows and mountain view"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=1200&q=80",
+          "alt": "Gordes village at sunset from valley"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1552733407-5d5c46c3bb3b?w=1200&q=80",
+          "alt": "Freestanding stone bathtub"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1200&q=80",
+          "alt": "Historic stone archway interior"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200&q=80",
+          "alt": "Living area with stone walls"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600585152915-d208bec867a1?w=1200&q=80",
+          "alt": "Arched window at sunset"
+        }
+      ],
+      "amenities": [
+        "Mountain view",
+        "Valley view",
+        "Kitchen",
+        "Wifi",
+        "Dedicated workspace",
+        "Free street parking",
+        "Private indoor pool – available all year, open 24 hours, heated",
+        "TV",
+        "Free washer – In unit",
+        "Smoke alarm",
+        "Air conditioning – all bedrooms and living room",
+        "Must climb stairs"
+      ],
+      "houseRules": {
+        "checkin": "After 4:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 6,
+        "cancellation": "Free cancellation for 24 hours. Cancel before May 2 for a partial refund."
+      },
+      "datesAvailable": {
+        "startDate": "2026-05-01",
+        "endDate": "2026-11-30"
+      },
+      "ratingBreakdown": {
+        "cleanliness": null,
+        "accuracy": null,
+        "checkin": null,
+        "communication": null,
+        "location": null,
+        "value": null
+      }
+    },
+    {
+      "id": "stay-provence-005",
+      "airbnbId": "930932",
+      "name": "The suite at Eze village Sea View",
+      "type": "entire_home",
+      "typeLabel": "Entire home in Èze, France",
+      "region": "provence",
+      "location": "Èze, Provence-Alpes-Côte d'Azur, France",
+      "lat": 43.728,
+      "lng": 7.3613,
+      "guests": 2,
+      "bedroomCount": 1,
+      "beds": "1 king bed",
+      "bedDetail": "2 guests · 1 bedroom · 1 bed · 1 bath",
+      "baths": 1,
+      "price": 389,
+      "pricePerNight": 389,
+      "totalForFive": 1945,
+      "currency": "USD",
+      "rating": 4.97,
+      "reviewCount": 148,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Sylviane",
+        "location": "Èze, France",
+        "isSuperhost": true,
+        "yearsHosting": 13,
+        "totalReviews": 151,
+        "totalRating": 4.97,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "bio": "We are a French couple, travelers all over the world for a very long time because of passion and desire to discover new horizons, always eager to meet people who often search for magical places that remain in our memory but always sensitive to authenticity. We are optimists, love life and always appreciate discovering our vast world. Hospitality is part of our philosophy of life."
+      },
+      "highlights": [
+        {
+          "title": "Top 5% of homes",
+          "detail": "This home is highly ranked based on ratings, reviews, and reliability."
+        },
+        {
+          "title": "Outdoor entertainment",
+          "detail": "The alfresco dining and outdoor seating are great for summer trips."
+        },
+        {
+          "title": "Great check-in experience",
+          "detail": "Recent guests loved the smooth start to this stay."
+        }
+      ],
+      "description": "Half way from Nice and Monaco, in Eze pedestrian medieval village, charming suite in a XVI century small house with a roof terrace overlooking the Mediterranean sea. Living and sitting room with fireplace on the first level, then the bedroom and a semi-opened bathroom with a lighted bath and shower. A magic and romantic accommodation right in the middle of the old village of Eze, famous for its hand craft, its art galleries, its restaurants and the exotic garden at the top.",
+      "neighborhoodHighlights": "The suite is one of the few situated inside the pedestrian medieval village and overlooking the sea.",
+      "bedrooms": [
+        {
+          "name": "Bedroom",
+          "beds": "1 king bed"
+        }
+      ],
+      "amenities": [
+        "Bay view",
+        "Sea view",
+        "Beach access",
+        "Wifi",
+        "Dedicated workspace",
+        "Free parking on premises",
+        "TV with standard cable",
+        "Air conditioning",
+        "Bathtub",
+        "Private patio or balcony"
+      ],
+      "amenitiesTotal": 37,
+      "safetyConfirmed": [
+        "Carbon monoxide alarm",
+        "Smoke alarm"
+      ],
+      "safetyNotes": [
+        "Not suitable for children and infants"
+      ],
+      "houseRules": {
+        "checkin": "2:00 PM - 7:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 2,
+        "cancellation": "Free cancellation for 24 hours. Cancel before July 6 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5.0,
+        "accuracy": 5.0,
+        "checkin": 4.9,
+        "communication": 5.0,
+        "location": 5.0,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "View",
+          "count": 92
+        },
+        {
+          "tag": "Location",
+          "count": 73
+        },
+        {
+          "tag": "Hospitality",
+          "count": 83
+        },
+        {
+          "tag": "Bathroom",
+          "count": 20
+        },
+        {
+          "tag": "Sleep quality",
+          "count": 14
+        },
+        {
+          "tag": "Beach",
+          "count": 4
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Tom",
+          "location": "Orinda, California",
+          "date": "October 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "We had originally booked an Airbnb during our long trip so we could do laundry without fully understanding what Eze France was — the location was an amazing positive surprise and the housecleaner did our laundry for us! Finding the exact spot to meet is challenging given Eze is a walking only village but the hosts were very kind and helped us navigate. Would highly recommend this."
+        },
+        {
+          "author": "Bonnie",
+          "location": "Buffalo, New York",
+          "date": "October 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "If Eze is where you want to be, I cannot imagine a better location. As other reviewers have stated, the terrace is a big bonus. Bed is comfortable too. We got a little antsy with all the tourists in town during the day and took a walk down to the beach, visiting some of the other towns below. Spent every evening on the terrace :)"
+        },
+        {
+          "author": "Sarah",
+          "location": "Denver, Colorado",
+          "date": "August 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Staying at Sylviane's home was the highlight of our trip. Truly in the most perfect spot, right in the middle of the village it was really cool to be there at night when it was more quiet. You can't beat the private terrace, we would spend every minute possible there looking at the water and the boats! 10/10 will be staying here again!"
+        },
+        {
+          "author": "Claire",
+          "yearsOnAirbnb": 12,
+          "date": "May 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Fred and Sylviane's Suite in the Village is a little piece of heaven. Nothing can prepare you for the breathtaking view from the private terrace in the rooftops!! Fred met us on arrival and took us up to the 16th Century cottage, simply lovely, elegantly furnished and perfect for a romantic getaway."
+        },
+        {
+          "author": "Laura",
+          "yearsOnAirbnb": 7,
+          "date": "September 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "This is an extraordinary place to stay, which is both luxurious and quirky. It is in the heart of the old town, so it is both convenient for, and a sanctuary from, the bustling streets. The 180 degree view of the Mediterranean was addictive."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-06-01",
+        "endDate": "2026-09-30"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1543248939-4296e1fea89b?w=1200&q=80",
+          "alt": "Mediterranean coastline view from Eze"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=80",
+          "alt": "Free-standing bathtub with sea view"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?w=1200&q=80",
+          "alt": "Stone fireplace in vaulted room"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1200&q=80",
+          "alt": "Rooftop terrace breakfast with sea view"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1200&q=80",
+          "alt": "Cozy bedroom with sconces and king bed"
+        }
+      ]
+    },
+    {
+      "id": "stay-provence-006",
+      "airbnbId": "1114609683975891445",
+      "name": "Villa Medjé, Corniche Kennedy 100 m from the sea",
+      "type": "entire_home",
+      "typeLabel": "Entire home in Marseille, France",
+      "region": "provence",
+      "location": "Marseille, Provence-Alpes-Côte d'Azur, France",
+      "lat": 43.2727,
+      "lng": 5.3506,
+      "guests": 4,
+      "bedroomCount": 2,
+      "beds": "2 queen beds",
+      "bedDetail": "4 guests · 2 bedrooms · 2 beds · 1.5 baths",
+      "baths": 1.5,
+      "price": 568,
+      "pricePerNight": 568,
+      "totalForFive": 2840,
+      "currency": "USD",
+      "rating": 5.0,
+      "reviewCount": 38,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Pénélope",
+        "location": "Marseille, France",
+        "isSuperhost": false,
+        "yearsHosting": 2,
+        "responseRate": "100%",
+        "responseTime": "within an hour"
+      },
+      "coHosts": [
+        "Yohann",
+        "Pauline"
+      ],
+      "highlights": [
+        {
+          "title": "Top 5% of homes",
+          "detail": "This home is highly ranked based on ratings, reviews, and reliability."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the lockbox."
+        },
+        {
+          "title": "Beautiful area",
+          "detail": "Guests love this home's scenic location."
+        }
+      ],
+      "description": "Villa Medjé is the experience of an authentic and warm Marseille house close to the sea (100 m) and the shops of Malmousque Cove, a well-kept secret. Right there, nestled between plane trees and umbrella pines, in the heights of the valleys of the corniche, Villa Medjé offers an exceptional bird's eye view of the Mediterranean. 100 m2 of happiness to be privatized.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 queen bed"
+        }
+      ],
+      "amenities": [
+        "Beach access",
+        "Kitchen",
+        "Wifi",
+        "Free street parking",
+        "TV",
+        "Washer",
+        "Free dryer – In unit",
+        "Central air conditioning",
+        "Private patio or balcony",
+        "Luggage dropoff allowed"
+      ],
+      "amenitiesTotal": 55,
+      "safetyConfirmed": [
+        "Carbon monoxide alarm",
+        "Smoke alarm"
+      ],
+      "houseRules": {
+        "checkin": "3:00 PM - 6:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 4,
+        "cancellation": "Free cancellation for 24 hours. Cancel before April 26 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5.0,
+        "accuracy": 5.0,
+        "checkin": 5.0,
+        "communication": 5.0,
+        "location": 5.0,
+        "value": 5.0
+      },
+      "reviewMentions": [
+        {
+          "tag": "View",
+          "count": 15
+        },
+        {
+          "tag": "Decor",
+          "count": 12
+        },
+        {
+          "tag": "Location",
+          "count": 17
+        },
+        {
+          "tag": "Hospitality",
+          "count": 20
+        },
+        {
+          "tag": "Indoor spaces",
+          "count": 9
+        },
+        {
+          "tag": "Beach",
+          "count": 3
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Anya",
+          "yearsOnAirbnb": 10,
+          "date": "2 weeks ago",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Thank you Penelope. We had such a beautiful stay. Great location, right on the beach. Peaceful home, beautiful decor — photos don't quite do it justice. Each room had its own personality. The view of the sea from the main bedroom was the cherry on top. Highly recommend."
+        },
+        {
+          "author": "Rayhannah",
+          "location": "Bolinas, California",
+          "date": "September 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "We loved staying here! It has everything we needed. It's a lovely place to be, so close to the water and Pénélope is an awesome host. The house has high quality linens and very comfortable beds. There is a small hill to get to the home that may deter some with mobility issues, but we found our stay to be perfect and would love to come back."
+        },
+        {
+          "author": "Liam",
+          "yearsOnAirbnb": 11,
+          "date": "July 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Villa Medje is an absolutely amazing and beautiful spot with all the details of a boutique hotel (Aesop in the bathrooms, beautiful and tasteful furniture). It's a quick walk to Malmosque which has a lot of very cool places to eat at and Penelope was a very friendly and accommodating host. Would absolutely recommend this place! A real gem in Marseille."
+        },
+        {
+          "author": "Beck",
+          "location": "New York, New York",
+          "date": "June 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Penelope's home was absolutely beautiful. Picturesque and whimsical. She went above and beyond with communicating, and I was so appreciative of that from start to finish. I would stay here again and highly recommend it to anyone who is visiting Marseille and appreciates thoughtful architecture, interiors, and hospitality."
+        },
+        {
+          "author": "Lauren",
+          "location": "New York, United States",
+          "date": "May 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Wow what a dream! Penelope's place is truly something special, we didn't want to leave. It is beautifully designed, it has a wonderful location overlooking the water, check-in was easy, beds were comfy. I could really go on and on about how lovely this place is! Don't hesitate to book, it will make your trip to Marseille feel like a dream."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-05-01",
+        "endDate": "2026-10-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=1200&q=80",
+          "alt": "Open window with Mediterranean sea view"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1200&q=80",
+          "alt": "Pale shutters and Marseille architecture"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200&q=80",
+          "alt": "Tiled kitchen with Mediterranean light"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1597040663242-b32a85d83be1?w=1200&q=80",
+          "alt": "Garden with Mediterranean foliage"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600566753086-00f18fe6ba43?w=1200&q=80",
+          "alt": "Wrought-iron balcony with sea glimpse"
+        }
+      ]
+    },
+    {
+      "id": "stay-provence-007",
+      "airbnbId": "583223875206322185",
+      "name": "New! Beautiful luxury apartment in cv",
+      "type": "entire_rental_unit",
+      "typeLabel": "Entire rental unit in Aix-en-Provence, France",
+      "region": "provence",
+      "location": "Aix-en-Provence, Provence-Alpes-Côte d'Azur, France",
+      "lat": 43.5283,
+      "lng": 5.4498,
+      "guests": 4,
+      "bedroomCount": 2,
+      "beds": "1 king bed + 1 queen bed",
+      "bedDetail": "4 guests · 2 bedrooms · 2 beds · 2 baths",
+      "baths": 2,
+      "price": 571,
+      "pricePerNight": 571,
+      "totalForFive": 2856,
+      "currency": "USD",
+      "rating": 4.98,
+      "reviewCount": 53,
+      "isGuestFavorite": true,
+      "topPercent": 1,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Noémie Et Bénédicte",
+        "isSuperhost": false,
+        "yearsHosting": 6,
+        "responseRate": "100%",
+        "bio": "Born in the 80s. Where I went to school: Aix en Provence."
+      },
+      "coHosts": [
+        "Kaylen",
+        "Marc"
+      ],
+      "highlights": [
+        {
+          "title": "Top 1% of homes",
+          "detail": "This home is one of the highest ranked based on ratings, reviews, and reliability."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the lockbox."
+        },
+        {
+          "title": "Dedicated workspace",
+          "detail": "A common area with wifi that's well-suited for working."
+        }
+      ],
+      "description": "Enjoy spacious, elegant accommodation in the heart of the historic center of Aix-en-Provence. Carefully decorated, you will enjoy its calm and large volumes. This spacious apartment is conveniently located in the heart of the historic city center. You will enjoy its generous volumes: a living and dining room with large glass doors looking onto a lovely square.",
+      "neighborhoodHighlights": "The accommodation is located on Place des 3 Ormeaux, a stone's throw from Place des Précheurs and Place de la Mairie. The accommodation is in a perfect location to enjoy the historic center on foot. You can enjoy all the activities of the city center: restaurants, bars, market, museums…, accessible at the foot of the building.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 queen bed"
+        }
+      ],
+      "amenities": [
+        "Kitchen",
+        "Wifi",
+        "Dedicated workspace",
+        "TV",
+        "Free washer – In unit",
+        "Free dryer – In unit",
+        "Central air conditioning",
+        "Bathtub",
+        "Private patio or balcony"
+      ],
+      "amenitiesTotal": 41,
+      "safetyNotReported": [
+        "Carbon monoxide alarm"
+      ],
+      "safetyConfirmed": [
+        "Smoke alarm"
+      ],
+      "safetyNotes": [
+        "Must climb stairs"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 4,
+        "cancellation": "Cancel before check-in on April 15 for a partial refund. After that, your refund depends on when you cancel."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5.0,
+        "accuracy": 5.0,
+        "checkin": 4.8,
+        "communication": 4.8,
+        "location": 5.0,
+        "value": 5.0
+      },
+      "reviewMentions": [
+        {
+          "tag": "Location",
+          "count": 49
+        },
+        {
+          "tag": "Indoor spaces",
+          "count": 26
+        },
+        {
+          "tag": "Kitchen",
+          "count": 15
+        },
+        {
+          "tag": "Walkability",
+          "count": 14
+        },
+        {
+          "tag": "Nearby",
+          "count": 14
+        },
+        {
+          "tag": "Air conditioning",
+          "count": 7
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Anna",
+          "location": "Chicago, Illinois",
+          "date": "September 2025",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "The place was great and very central so we could walk within 10 min everywhere. There are also great restaurants just in front or within minutes. The place is also very spacious which was great with my 2 year old toddler to run around. It also very quiet location. The host was very responsive and helpful, I'd highly recommend this place and would love to come back!"
+        },
+        {
+          "author": "Sophia",
+          "location": "Brookline, Massachusetts",
+          "date": "August 2025",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "This apartment was really beautiful and charming. The big glass doors in the living room look on a lovely square. The apartment was clean and accessible, and the hosts were so organized with check in information that our later than expected arrival was no problem. Really an excellent stay, thank you!!"
+        },
+        {
+          "author": "Winship",
+          "location": "Virginia Beach, Virginia",
+          "date": "June 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "This apartment was beautiful. Lots of windows. Lovely furniture. Kitchen and baths are like new and well equipped! The apartment is large and would be great for a family or two couples each with en suite baths. It also has a powder room. We walked everywhere."
+        },
+        {
+          "author": "Paul",
+          "monthsOnAirbnb": 6,
+          "date": "November 2025",
+          "context": "Stayed about a week",
+          "rating": 5,
+          "text": "A beautiful, well equipped apartment in the best location in Aix. Would highly recommend to anyone."
+        },
+        {
+          "author": "Marj",
+          "location": "West Kelowna, Canada",
+          "date": "October 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "A beautiful apartment in a great location! This is the perfect apartment for two couples travelling together. The bedrooms were spaced well apart from each other and each had their own private full bathroom. The large walk-in closets were an added bonus for storing luggage, etc. This place has all the charm you'd want from an apartment in France."
+        },
+        {
+          "author": "Gina",
+          "location": "Decatur, Georgia",
+          "date": "September 2025",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "Amazing property! Beautiful location and sprawling layout. The apartment itself was extremely well maintained and had amazing attention to detail. It was as on a quiet street in a beautiful neighborhood. We would highly recommend and would definitely stay here again."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-04-15",
+        "endDate": "2026-10-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1567016376408-0226e4d0c1ea?w=1200&q=80",
+          "alt": "Elegant dining room with global decor"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=1200&q=80",
+          "alt": "Living room with blue couch"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1200&q=80",
+          "alt": "King bedroom with warm wood floors"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=1200&q=80",
+          "alt": "Queen bedroom with French doors"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1505691723518-36a5ac3b2d63?w=1200&q=80",
+          "alt": "Round dining table with French doors"
+        }
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "id": "exp-provence-001",
+      "name": "Forage French truffles with a hunter",
+      "type": "local_flavors",
+      "region": "provence",
+      "location": "Carpentras, France",
+      "lat": 44.0554,
+      "lng": 5.0491,
+      "price": 145,
+      "duration": "3 hours",
+      "groupSize": "Up to 6 guests, ages 8+",
+      "rating": 4.97,
+      "reviews": 82,
+      "host": {
+        "name": "Laurent",
+        "bio": "Third-generation truffle hunter working the oak groves of the Vaucluse with his dog Ulysse. Passionate about the ecology of the black truffle."
+      },
+      "description": "Walk the oak forests of the Ventoux foothills with Laurent and his trained dog as they hunt fresh black truffles. Taste shavings on warm bread with local olive oil at the end of the hunt.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1774853974216-af9446111a65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxibGFjayUyMHRydWZmbGUlMjBmb3Jlc3QlMjBkb2d8ZW58MHwwfHx8MTc3NjI4OTI2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "A shaggy dog with a topknot sits in heather"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1613292539606-3faed34c73c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxibGFjayUyMHRydWZmbGUlMjBmb3Jlc3QlMjBkb2d8ZW58MHwwfHx8MTc3NjI4OTI2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "black long coat small dog on snow covered ground during daytime"
+        }
+      ]
+    },
+    {
+      "id": "exp-provence-002",
+      "name": "Food tour through Old Nice",
+      "type": "local_flavors",
+      "region": "provence",
+      "location": "Nice, France",
+      "lat": 43.6961,
+      "lng": 7.2756,
+      "price": 85,
+      "duration": "3 hours",
+      "groupSize": "Up to 8 guests",
+      "rating": 4.95,
+      "reviews": 214,
+      "host": {
+        "name": "Céline",
+        "bio": "Niçoise food writer and former pastry cook. Grew up above a bakery in Vieux Nice and still does her marketing at Cours Saleya."
+      },
+      "description": "Taste your way through Vieux Nice: socca fresh off the wood-fired plancha, pan bagnat at a 90-year-old counter, candied citrus at a family confiserie, and a glass of Bellet white from the hills behind the city.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1772957041304-d1ee00925620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxmcmVuY2glMjBtYXJrZXQlMjBvdXRkb29yfGVufDB8MHx8fDE3NzYyODkzMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "People blurred at a busy outdoor market stall."
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1743364971107-4a1057d1eb86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxmcmVuY2glMjBtYXJrZXQlMjBvdXRkb29yfGVufDB8MHx8fDE3NzYyODkzMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "Books are displayed on the seine riverbank in paris."
+        }
+      ]
+    },
+    {
+      "id": "exp-provence-003",
+      "name": "Bake croissants on a rooftop in Antibes",
+      "type": "local_flavors",
+      "region": "provence",
+      "location": "Antibes, France",
+      "lat": 43.5804,
+      "lng": 7.1251,
+      "price": 72,
+      "duration": "2.5 hours",
+      "groupSize": "Up to 6 guests",
+      "rating": 4.92,
+      "reviews": 147,
+      "host": {
+        "name": "Margaux",
+        "bio": "Pastry chef trained at École Lenôtre. Runs a micro-bakery out of her family apartment overlooking the old port."
+      },
+      "description": "Learn the fold-and-turn of classic French viennoiserie on a sunny rooftop above the Antibes old port. Shape and bake your own croissants, eat them warm with apricot jam and coffee.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1737700088850-d0b53f9d39ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxjcm9pc3NhbnQlMjBwYXN0cnklMjBiYWtpbmd8ZW58MHwwfHx8MTc3NjI4OTI3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "A piece of chocolate dessert on a plate with a spoon"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1574694571857-6e28ed21dfe2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxjcm9pc3NhbnQlMjBwYXN0cnklMjBiYWtpbmd8ZW58MHwwfHx8MTc3NjI4OTI3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "tray of brown croissant breads"
+        }
+      ]
+    },
+    {
+      "id": "exp-provence-004",
+      "name": "Visit a wine cave and taste wines from Bandol",
+      "type": "local_flavors",
+      "region": "provence",
+      "location": "Bandol, France",
+      "lat": 43.1352,
+      "lng": 5.7535,
+      "price": 95,
+      "duration": "2 hours",
+      "groupSize": "Up to 8 guests, ages 18+",
+      "rating": 4.96,
+      "reviews": 63,
+      "host": {
+        "name": "Philippe",
+        "bio": "Fourth-generation winemaker at a small family domaine just above the Bandol coast. Certified organic since 2011."
+      },
+      "description": "Descend into a limestone cave cut into the hillside and taste six Bandol wines — from crisp rosés to structured Mourvèdre reds — with local tapenade and fougasse.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1516314477696-a6f8b681f331?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxiYW5kb2wlMjB2aW5leWFyZCUyMHByb3ZlbmNlfGVufDB8MHx8fDE3NzYyODkyNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "tall trees"
+        }
+      ]
+    },
+    {
+      "id": "exp-provence-005",
+      "name": "Sail the French Riviera on a classic motor yacht",
+      "type": "get_outside",
+      "region": "provence",
+      "location": "Cannes, France",
+      "lat": 43.5512,
+      "lng": 7.0161,
+      "price": 195,
+      "duration": "4 hours",
+      "groupSize": "Up to 8 guests",
+      "rating": 4.94,
+      "reviews": 58,
+      "host": {
+        "name": "Antoine",
+        "bio": "Captain with 20+ years on the Côte d’Azur. Restores classic motor yachts and knows every cove between Cannes and Saint-Tropez."
+      },
+      "description": "Cruise the Lérins Islands on a restored 1960s motor yacht. Swim in turquoise coves, aperitif on deck at sunset, and dock back at Cannes as the old port lights come on.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1752884991294-cd424478903a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxjbGFzc2ljJTIweWFjaHQlMjBtZWRpdGVycmFuZWFuJTIwcml2aWVyYXxlbnwwfDB8fHwxNzc2Mjg5MjcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "Scenic view of a harbor filled with yachts."
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1752884991178-c767ae83fb6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxjbGFzc2ljJTIweWFjaHQlMjBtZWRpdGVycmFuZWFuJTIwcml2aWVyYXxlbnwwfDB8fHwxNzc2Mjg5MjcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "Monaco's harbor is filled with boats and buildings."
+        }
+      ]
+    },
+    {
+      "id": "exp-provence-006",
+      "name": "Horse trek through the Camargue wetlands",
+      "type": "get_outside",
+      "region": "provence",
+      "location": "Arles, France",
+      "lat": 43.5228,
+      "lng": 4.6319,
+      "price": 120,
+      "duration": "Half day",
+      "groupSize": "Up to 6 guests, ages 12+",
+      "rating": 4.91,
+      "reviews": 94,
+      "host": {
+        "name": "Marie-Hélène",
+        "bio": "Gardiane and breeder of Camargue horses. Her family has ridden this land since her grandfather’s time."
+      },
+      "description": "Ride the white horses of the Camargue across salt marshes and rice fields, watching pink flamingos take off as you pass. Ends with a pastis and tellines at the family manade.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1561189056-5eefabd6c31c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxjYW1hcmd1ZSUyMHdoaXRlJTIwaG9yc2VzfGVufDB8MHx8fDE3NzYyODkyNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "three white horses walking"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1708493068824-2bf14c0a4f0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxjYW1hcmd1ZSUyMHdoaXRlJTIwaG9yc2VzfGVufDB8MHx8fDE3NzYyODkyNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "a couple of white horses standing next to each other"
+        }
+      ]
+    },
+    {
+      "id": "exp-provence-007",
+      "name": "Calanques Côte Bleue walk and swim",
+      "type": "get_outside",
+      "region": "provence",
+      "location": "Ensuès-la-Redonne, France",
+      "lat": 43.336,
+      "lng": 5.2228,
+      "price": 65,
+      "duration": "4 hours",
+      "groupSize": "Up to 8 guests, ages 10+",
+      "rating": 4.93,
+      "reviews": 121,
+      "host": {
+        "name": "Julien",
+        "bio": "Marseillais hiking guide and open-water swimmer. Leads small groups into the less-trafficked calanques west of the city."
+      },
+      "description": "Hike along the white limestone cliffs of the Côte Bleue, descend into a quiet calanque, and swim in clear Mediterranean water. Picnic lunch of regional cheese and fougasse included.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1686860437093-f698f95eb90c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxjYWxhbnF1ZXMlMjBtYXJzZWlsbGUlMjB0dXJxdW9pc2V8ZW58MHwwfHx8MTc3NjI4OTI3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "an aerial view of a rocky cliff with a lake in the middle"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1636311632960-a69f5d7d0f58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxjYWxhbnF1ZXMlMjBtYXJzZWlsbGUlMjB0dXJxdW9pc2V8ZW58MHwwfHx8MTc3NjI4OTI3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "a group of boats that are sitting in the water"
+        }
+      ]
+    },
+    {
+      "id": "exp-provence-008",
+      "name": "Perfumer workshop in Grasse",
+      "type": "local_culture",
+      "region": "provence",
+      "location": "Grasse, France",
+      "lat": 43.6584,
+      "lng": 6.9225,
+      "price": 110,
+      "duration": "2 hours",
+      "groupSize": "Up to 10 guests",
+      "rating": 4.89,
+      "reviews": 76,
+      "host": {
+        "name": "Sophie",
+        "bio": "Fifth-generation nose trained at the Grasse Institute of Perfumery. Blends bespoke fragrances for private clients across Europe."
+      },
+      "description": "In a century-old atelier in the perfume capital of the world, work through 30+ raw materials — jasmine absolute, Provençal lavender, neroli — and blend a 50ml personal fragrance to take home.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1775420241869-5894e61c600a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxwZXJmdW1lJTIwYm90dGxlcyUyMGFwb3RoZWNhcnl8ZW58MHwwfHx8MTc3NjI4OTI3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "Several bottles of amber and red liquid displayed"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1566334195234-8b68906b0c73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxwZXJmdW1lJTIwYm90dGxlcyUyMGFwb3RoZWNhcnl8ZW58MHwwfHx8MTc3NjI4OTI3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "several assorted-color glass decanters"
+        }
+      ]
+    },
+    {
+      "id": "exp-provence-009",
+      "name": "Pétanque in the park",
+      "type": "local_culture",
+      "region": "provence",
+      "location": "Aix-en-Provence, France",
+      "lat": 43.5297,
+      "lng": 5.4474,
+      "price": 36,
+      "duration": "1 hour",
+      "groupSize": "Up to 10 guests, ages 2+",
+      "rating": 4.98,
+      "reviews": 55,
+      "host": {
+        "name": "Édouard",
+        "bio": "Experienced pétanque player with 30+ years of practice, offering a cultural perspective on this traditional Provençal pastime."
+      },
+      "description": "Meet your coach at Parc Rambot in Aix-en-Provence to learn the rules and techniques of pétanque, play a friendly match, and enjoy local Pastis and French music after the game. Hosted in English.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1661664479238-b4f418baa19a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxwZXRhbnF1ZSUyMGJvdWxlc3xlbnwwfDB8fHwxNzc2Mjg5Mjc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "a wooden cross with a skull on it"
+        }
+      ]
+    },
+    {
+      "id": "exp-provence-010",
+      "name": "Taste and discover wine in the vineyards",
+      "type": "local_flavors",
+      "region": "provence",
+      "location": "La Tour-d'Aigues, France",
+      "lat": 43.7267,
+      "lng": 5.549,
+      "price": 75,
+      "duration": "2 hours",
+      "groupSize": "Up to 6 guests, ages 18+",
+      "rating": null,
+      "reviews": 0,
+      "host": {
+        "name": "Axel",
+        "bio": "Organic winemaker in the Luberon since 2024, sharing his passion for wine, nature, and gastronomy from his estate."
+      },
+      "description": "Discover and taste the organic wines of Axel's Luberon estate. Walk through the vineyards, learn the full winemaking process from production to tasting. Hosted in French.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1726419075973-fcbf87dae612?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHx2aW5leWFyZCUyMHJvd3MlMjBmcmFuY2V8ZW58MHwwfHx8MTc3NjI4OTMwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "A lush green field under a cloudy blue sky"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1717240049346-b6a9f43f4e1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHx2aW5leWFyZCUyMHJvd3MlMjBmcmFuY2V8ZW58MHwwfHx8MTc3NjI4OTMwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "a vineyard with a house in the background"
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "svc-provence-001",
+      "name": "Romantic photo session on the French Riviera",
+      "type": "photography",
+      "region": "provence",
+      "location": "Nice, France",
+      "lat": 43.6961,
+      "lng": 7.2756,
+      "priceRange": "$150 / group",
+      "cuisine": "Portrait photography",
+      "rating": 4.97,
+      "reviews": 184,
+      "host": {
+        "name": "Camille",
+        "bio": "Portrait photographer based in Nice. Ten years shooting couples and weddings along the Côte d’Azur; work featured in Condé Nast Traveler."
+      },
+      "description": "A 90-minute couples portrait session along the Promenade des Anglais and the pastel facades of Vieux Nice. 40 edited photos delivered within a week.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1730841871351-3b88dc38475e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxjb3VwbGUlMjByaXZpZXJhJTIwbmljZSUyMGdvbGRlbiUyMGhvdXJ8ZW58MHwwfHx8MTc3NjI4OTI3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "A man and a woman are kissing in front of a bridge"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1553530593-5520fef79557?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxjb3VwbGUlMjByaXZpZXJhJTIwbmljZSUyMGdvbGRlbiUyMGhvdXJ8ZW58MHwwfHx8MTc3NjI4OTI3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "silhouette of man and woman sitting on ledge during golden hour"
+        }
+      ]
+    },
+    {
+      "id": "svc-provence-002",
+      "name": "Photoshoot in Menton with a local photographer",
+      "type": "photography",
+      "region": "provence",
+      "location": "Menton, France",
+      "lat": 43.7747,
+      "lng": 7.4993,
+      "priceRange": "$127 / group",
+      "cuisine": "Lifestyle & portrait photography",
+      "rating": 4.95,
+      "reviews": 92,
+      "host": {
+        "name": "Lucie",
+        "bio": "Mentonnaise photographer working in natural light. Shoots for local hotels and an editorial column on Riviera craftsmanship."
+      },
+      "description": "One-hour shoot through the yellow and ochre streets of old Menton, ending at the lemon gardens. Ideal for families, couples, and solo travelers. 30 edited photos included.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1760201356128-a45af5daf0c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxtZWRpdGVycmFuZWFuJTIwY29hc3RhbCUyMHRvd24lMjBwYXN0ZWx8ZW58MHwwfHx8MTc3NjI4OTMwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "Colorful buildings on a hillside with mountains behind."
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1759387206352-a14aaafaa79a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxtZWRpdGVycmFuZWFuJTIwY29hc3RhbCUyMHRvd24lMjBwYXN0ZWx8ZW58MHwwfHx8MTc3NjI4OTMwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "Historic european town with tall bell tower."
+        }
+      ]
+    },
+    {
+      "id": "svc-provence-003",
+      "name": "Themed costume photos by Justin",
+      "type": "photography",
+      "region": "provence",
+      "location": "Avignon, France",
+      "lat": 43.9493,
+      "lng": 4.8055,
+      "priceRange": "$185 / group",
+      "cuisine": "Themed portrait photography",
+      "rating": 4.88,
+      "reviews": 47,
+      "host": {
+        "name": "Justin",
+        "bio": "Photographer and costume designer. Owns a small wardrobe of period pieces and styles each shoot around a historical or cinematic theme."
+      },
+      "description": "Choose a theme — Belle Époque, 1960s Riviera, or 19th-century Provençal — and Justin styles the wardrobe, scouts the location, and shoots a 2-hour editorial portrait session in and around Avignon’s ramparts.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1703708038979-a6a1da47d967?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxhdmlnbm9uJTIwZnJhbmNlJTIwcmFtcGFydHN8ZW58MHwwfHx8MTc3NjI4OTI3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "a view of a village from a high point of view"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1652882428473-289580d1c247?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxhdmlnbm9uJTIwZnJhbmNlJTIwcmFtcGFydHN8ZW58MHwwfHx8MTc3NjI4OTI3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "a small village on top of a hill"
+        }
+      ]
+    },
+    {
+      "id": "svc-provence-004",
+      "name": "Gourmet dining by Jacopo",
+      "type": "chef",
+      "region": "provence",
+      "location": "Menton, France",
+      "lat": 43.7765,
+      "lng": 7.501,
+      "priceRange": "From $145 / guest",
+      "cuisine": "Italian-Provençal",
+      "rating": 4.96,
+      "reviews": 71,
+      "host": {
+        "name": "Jacopo",
+        "bio": "Italian chef raised in Liguria, trained in Milan and Paris. Cooks a cross-border menu rooted in both sides of the French-Italian Riviera."
+      },
+      "description": "A four-course tasting prepared in your villa kitchen. Hand-rolled pansotti in walnut cream, local denti crudo with Menton lemon, slow-cooked veal cheek with Barbaresco reduction, chestnut mousse. Wine pairing optional.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1727375713897-b43ddc35b560?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxmaW5lJTIwZGluaW5nJTIwY2hlZiUyMHBsYXRpbmclMjBwYXN0YXxlbnwwfDB8fHwxNzc2Mjg5Mjc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "A close up of a plate of food on a table"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1642165515377-d70233b83b00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxmaW5lJTIwZGluaW5nJTIwY2hlZiUyMHBsYXRpbmclMjBwYXN0YXxlbnwwfDB8fHwxNzc2Mjg5Mjc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "a chef preparing food in a restaurant kitchen"
+        }
+      ]
+    },
+    {
+      "id": "svc-provence-005",
+      "name": "Creative healthy cuisine by Ishita",
+      "type": "chef",
+      "region": "provence",
+      "location": "Aix-en-Provence, France",
+      "lat": 43.5297,
+      "lng": 5.4474,
+      "priceRange": "From $95 / guest",
+      "cuisine": "Modern healthy · plant-forward",
+      "rating": 4.93,
+      "reviews": 52,
+      "host": {
+        "name": "Ishita",
+        "bio": "Chef with a background in Ayurvedic cooking and fine-dining service in London. Now based in Aix, building menus around Provençal market produce."
+      },
+      "description": "A vegetable-led tasting menu cooked in your home — charred leeks with hazelnut, millet risotto with seasonal herbs, Provençal vegetable tian, miso-roasted apricots. Naturally gluten-free, dairy optional.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1587207850226-ba5ac4c96c9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxwbGFudCUyMGJhc2VkJTIwZ291cm1ldCUyMHBsYXRlfGVufDB8MHx8fDE3NzYyODkyNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "sliced cucumber on white ceramic plate"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1594980681623-3f9ab030f1d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxwbGFudCUyMGJhc2VkJTIwZ291cm1ldCUyMHBsYXRlfGVufDB8MHx8fDE3NzYyODkyNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "sliced cucumber and tomato on white ceramic plate"
+        }
+      ]
+    },
+    {
+      "id": "svc-provence-006",
+      "name": "Eco-committed farm-to-table chef",
+      "type": "chef",
+      "region": "provence",
+      "location": "Lourmarin, France",
+      "lat": 43.7636,
+      "lng": 5.3636,
+      "priceRange": "From $110 / guest",
+      "cuisine": "Farm-to-table Provençal",
+      "rating": 4.91,
+      "reviews": 38,
+      "host": {
+        "name": "Noël",
+        "bio": "Chef-farmer running a small market garden in the Luberon. Menus are drawn from whatever was picked that morning — zero-waste, no air-freighted ingredients."
+      },
+      "description": "Noël arrives with a basket of produce harvested the same morning and cooks a five-course dinner around it. Menu is revealed at the table, and every trimming is composted back to his garden.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1702506183879-398318b92f6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxwcm92ZW5jZSUyMG1hcmtldCUyMHZlZ2V0YWJsZXMlMjBmYXJtfGVufDB8MHx8fDE3NzYyODkyNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "a variety of vegetables are on display at a market"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1666480141485-d1a86796ca85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxwcm92ZW5jZSUyMG1hcmtldCUyMHZlZ2V0YWJsZXMlMjBmYXJtfGVufDB8MHx8fDE3NzYyODkyNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "a group of baskets full of vegetables"
+        }
+      ]
+    },
+    {
+      "id": "svc-provence-007",
+      "name": "In-villa Provençal massage",
+      "type": "massage",
+      "region": "provence",
+      "location": "Gordes, France",
+      "lat": 43.9118,
+      "lng": 5.2,
+      "priceRange": "From $125 / session",
+      "cuisine": "Massage & bodywork",
+      "rating": 4.96,
+      "reviews": 109,
+      "host": {
+        "name": "Isabelle",
+        "bio": "Certified massage therapist with 12 years of practice. Uses cold-pressed olive oil and lavender from a cooperative in Sault."
+      },
+      "description": "A 75-minute deep-relaxation massage in the comfort of your villa or garden. Choose Swedish, deep-tissue, or a Provençal aromatherapy blend with local lavender and rosemary oils.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1671492248078-a4bda519c852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxtYXNzYWdlJTIwbGF2ZW5kZXIlMjBvaWwlMjBzcGF8ZW58MHwwfHx8MTc3NjI4OTI3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "a brown bottle sitting on top of a white table"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1671492241057-e0ad01ceb1c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxtYXNzYWdlJTIwbGF2ZW5kZXIlMjBvaWwlMjBzcGF8ZW58MHwwfHx8MTc3NjI4OTI3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "a couple of bottles sitting on top of a table"
+        }
+      ]
+    },
+    {
+      "id": "svc-provence-008",
+      "name": "On-location bridal hair and makeup",
+      "type": "hair_makeup",
+      "region": "provence",
+      "location": "Antibes, France",
+      "lat": 43.5804,
+      "lng": 7.1251,
+      "priceRange": "From $220 / group",
+      "cuisine": "Hair & makeup",
+      "rating": 4.98,
+      "reviews": 143,
+      "host": {
+        "name": "Léa",
+        "bio": "Hair and makeup artist for editorial and bridal work across the Côte d’Azur. Assists on shoots for Vogue Paris and Chanel Cruise."
+      },
+      "description": "Léa comes to your villa or hotel on the morning of the event. Trials, two looks per person, touch-up kit to take with you. Specializes in natural, luminous bridal looks that hold through a Mediterranean summer.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1481530890859-b32ae6d6018a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxicmlkZSUyMG1ha2V1cCUyMG5hdHVyYWwlMjBsaWdodHxlbnwwfDB8fHwxNzc2Mjg5Mjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "grayscale photo of girl in white sleeveless dress holding bouquet of flowers"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1755069969242-8b234921db29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxicmlkZSUyMG1ha2V1cCUyMG5hdHVyYWwlMjBsaWdodHxlbnwwfDB8fHwxNzc2Mjg5Mjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "Bride looks at groom during wedding ceremony"
+        }
+      ]
+    },
+    {
+      "id": "svc-provence-009",
+      "name": "Mediterranean Dishes by Robin-Joël",
+      "type": "chef",
+      "region": "provence",
+      "location": "Cannes, France",
+      "lat": 43.5528,
+      "lng": 7.0174,
+      "priceRange": "From $71 / guest",
+      "cuisine": "Mediterranean",
+      "rating": null,
+      "reviews": 0,
+      "host": {
+        "name": "Robin-Joël",
+        "bio": "Private chef with 15 years of experience including Michelin-starred restaurants; trained at Santos-Dumont vocational high school in Saint-Cloud."
+      },
+      "description": "Bespoke Mediterranean cuisine prepared at your home, inspired by seasonal market produce. Four menus: Farmers' Market ($71), Seasonal Set ($89), Signature ($136), and Gourmet experience ($189) — each showcasing fresh, local ingredients and refined technique.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1572453800999-e8d2d1589b7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxtZWRpdGVycmFuZWFuJTIwcGxhdGVkJTIwZGlzaCUyMGVsZWdhbnR8ZW58MHwwfHx8MTc3NjI4OTI4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "cooked food"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1675670601305-3e04ec45430f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxtZWRpdGVycmFuZWFuJTIwcGxhdGVkJTIwZGlzaCUyMGVsZWdhbnR8ZW58MHwwfHx8MTc3NjI4OTI4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "a plate of food on a black table"
+        }
+      ]
+    },
+    {
+      "id": "svc-provence-010",
+      "name": "Provence Lavender Photo Session",
+      "type": "photography",
+      "region": "provence",
+      "location": "Valensole, France",
+      "lat": 43.8369,
+      "lng": 6.0756,
+      "priceRange": "From $95 / guest · Minimum $189 to book",
+      "cuisine": "Portrait & reportage photography",
+      "rating": 4.99,
+      "reviews": 137,
+      "host": {
+        "name": "Elodie",
+        "bio": "Qualified professional photographer with 15 years of experience in portrait, fashion, and reportage. Has worked with Jacquemus and Vogue US, and exhibited at Le Bon Marché Rive Gauche in Paris."
+      },
+      "description": "Private photo sessions in the Valensole lavender fields, ideal for elegant and romantic portraits. Choose Lavender Fields shoot ($95, 45 min), Pregnancy/Couple’s shoot ($189, 1 hr), or Family Session ($219, 45 min). Shot in golden-hour light.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1629402757298-b9feef9b35ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwxfHxsYXZlbmRlciUyMGZpZWxkJTIwcG9ydHJhaXR8ZW58MHwwfHx8MTc3NjI4OTMwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "woman in white crew neck t-shirt and blue and white floral skirt sitting on green"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1696477193436-3ff6bc54ed95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MjYwNDF8MHwxfHNlYXJjaHwyfHxsYXZlbmRlciUyMGZpZWxkJTIwcG9ydHJhaXR8ZW58MHwwfHx8MTc3NjI4OTMwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+          "alt": "a field full of purple flowers with a mountain in the background"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+/* ============================================================
+   Stay/Experience/Service detail — mobile single-column
+   Sticky bottom CTA bar replaces the desktop sidebar
+   ============================================================ */
+
+.page {
+  background: var(--color-surface);
+  min-height: 100vh;
+  padding-bottom: calc(var(--bottom-cta-h) + var(--sp-4) + env(safe-area-inset-bottom, 0px));
+}
+
+.loading {
+  padding: var(--sp-9);
+  text-align: center;
+  color: var(--color-text-secondary);
+}
+
+/* Top bar — overlays the photo on mobile */
+.topBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--sp-3) var(--sp-4);
+}
+
+.backBtn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--color-surface);
+  color: var(--color-text);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow-sm);
+  text-decoration: none;
+  /* Hide visual text but keep it for screen readers */
+  font-size: 0;
+  border: none;
+  cursor: pointer;
+}
+
+.backBtn::before {
+  content: "←";
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.backBtn:hover {
+  box-shadow: var(--shadow-md);
+}
+
+/* ============================================================
+   Photo grid — single hero on mobile, scroll-snap gallery
+   ============================================================ */
+
+.photoGrid {
+  position: relative;
+  display: flex;
+  width: 100%;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  margin-bottom: 0;
+}
+
+.photoGrid::-webkit-scrollbar { display: none; }
+
+.photoMain {
+  flex: 0 0 100%;
+  scroll-snap-align: start;
+  height: 320px;
+  background: var(--color-surface-alt);
+  overflow: hidden;
+}
+
+.photoMain img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.photoSide {
+  display: contents;
+}
+
+.photoThumb {
+  flex: 0 0 100%;
+  scroll-snap-align: start;
+  height: 320px;
+  background: var(--color-surface-alt);
+  overflow: hidden;
+}
+
+.photoThumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* ============================================================
+   Layout — single column on mobile
+   ============================================================ */
+
+.layout {
+  padding: var(--sp-5);
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.content { min-width: 0; }
+
+/* ============================================================
+   Title block
+   ============================================================ */
+
+.titleBlock {
+  margin-bottom: var(--sp-4);
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 600;
+  color: var(--color-text);
+  margin-bottom: var(--sp-2);
+  line-height: 1.25;
+  letter-spacing: -0.015em;
+}
+
+.meta {
+  font-size: var(--fs-small);
+  color: var(--color-text);
+  margin-bottom: 4px;
+}
+
+.stats {
+  font-size: var(--fs-small);
+  color: var(--color-text);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-bottom: var(--sp-2);
+}
+
+.dot {
+  color: var(--color-text-secondary);
+}
+
+.ratingRow {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: var(--fs-small);
+  flex-wrap: wrap;
+}
+
+.star {
+  color: var(--color-text);
+  font-size: 12px;
+}
+
+.newBadge {
+  font-size: 11px;
+  font-weight: 700;
+  background: var(--color-text);
+  color: #fff;
+  padding: 3px 8px;
+  border-radius: 4px;
+}
+
+.reviewCount {
+  color: var(--color-text);
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.gfBadge {
+  margin-left: 4px;
+  font-size: var(--fs-small);
+  font-weight: 600;
+  color: var(--color-rausch);
+}
+
+/* ============================================================
+   Dividers + sections
+   ============================================================ */
+
+.divider {
+  border: none;
+  border-top: 1px solid var(--color-divider);
+  margin: var(--sp-5) 0;
+}
+
+.section { margin-bottom: 0; }
+
+.sectionTitle {
+  font-size: var(--fs-title);
+  font-weight: 600;
+  color: var(--color-text);
+  margin-bottom: var(--sp-4);
+  letter-spacing: -0.015em;
+}
+
+.subhead {
+  font-size: var(--fs-large);
+  font-weight: 600;
+  margin: var(--sp-4) 0 var(--sp-2);
+  color: var(--color-text);
+}
+
+/* ============================================================
+   Host
+   ============================================================ */
+
+.hostBlock {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+  padding: 4px 0;
+}
+
+.hostAvatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--color-border);
+  flex-shrink: 0;
+}
+
+.hostName {
+  font-size: var(--fs-large);
+  font-weight: 600;
+  margin: 0 0 2px;
+}
+
+.hostMeta {
+  font-size: var(--fs-small);
+  color: var(--color-text-secondary);
+  margin: 0;
+}
+
+/* ============================================================
+   Highlights
+   ============================================================ */
+
+.highlights {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-4);
+}
+
+.highlight {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--sp-3);
+}
+
+.highlightIcon {
+  font-size: 20px;
+  flex-shrink: 0;
+  width: 24px;
+  text-align: center;
+  color: var(--color-text);
+}
+
+.highlightText {
+  font-size: var(--fs-body);
+  font-weight: 500;
+  text-transform: capitalize;
+  line-height: 1.35;
+}
+
+.highlightDetail {
+  font-size: var(--fs-small);
+  color: var(--color-text-secondary);
+  margin: 2px 0 0;
+  line-height: 1.5;
+}
+
+/* ============================================================
+   Description
+   ============================================================ */
+
+.description p {
+  font-size: var(--fs-body);
+  line-height: 1.6;
+  color: var(--color-text);
+  margin-bottom: var(--sp-3);
+}
+
+.neighborhood {
+  color: var(--color-text-secondary) !important;
+}
+
+/* ============================================================
+   Bedrooms — horizontal scroll
+   ============================================================ */
+
+.bedroomGrid {
+  display: flex;
+  gap: var(--sp-3);
+  overflow-x: auto;
+  padding-bottom: 4px;
+  margin: 0 calc(-1 * var(--sp-5));
+  padding-left: var(--sp-5);
+  padding-right: var(--sp-5);
+  scrollbar-width: none;
+}
+
+.bedroomGrid::-webkit-scrollbar { display: none; }
+
+.bedroomCard {
+  border: 1px solid var(--color-border);
+  border-radius: var(--r-md);
+  padding: var(--sp-5);
+  min-width: 160px;
+  flex-shrink: 0;
+}
+
+.bedroomIcon {
+  font-size: 22px;
+  margin-bottom: var(--sp-2);
+}
+
+.bedroomName {
+  font-size: var(--fs-small);
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+
+.bedroomBeds {
+  font-size: var(--fs-small);
+  color: var(--color-text-secondary);
+  margin: 0;
+}
+
+/* ============================================================
+   Amenities
+   ============================================================ */
+
+.amenityGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--sp-3) var(--sp-4);
+}
+
+.amenity {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+  font-size: var(--fs-small);
+}
+
+.amenityIcon {
+  color: var(--color-text-secondary);
+  flex-shrink: 0;
+}
+
+.amenityShowAll {
+  margin-top: var(--sp-4);
+  font-size: var(--fs-small);
+  font-weight: 600;
+  color: var(--color-text);
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* ============================================================
+   Reviews
+   ============================================================ */
+
+.mentions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-bottom: var(--sp-5);
+}
+
+.mentionsLabel {
+  font-size: var(--fs-meta);
+  color: var(--color-text-secondary);
+}
+
+.mention {
+  font-size: var(--fs-meta);
+  background: var(--color-surface-alt);
+  border: 1px solid var(--color-border);
+  border-radius: var(--r-pill);
+  padding: 4px 10px;
+  color: var(--color-text);
+}
+
+.reviewList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-6);
+}
+
+.review {}
+
+.reviewHeader {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+  margin-bottom: var(--sp-3);
+}
+
+.reviewAvatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--color-border);
+  flex-shrink: 0;
+}
+
+.reviewAuthor {
+  font-size: var(--fs-small);
+  font-weight: 600;
+  margin: 0 0 2px;
+}
+
+.reviewMeta {
+  font-size: var(--fs-meta);
+  color: var(--color-text-secondary);
+  margin: 0;
+}
+
+.reviewText {
+  font-size: var(--fs-small);
+  line-height: 1.6;
+  color: var(--color-text);
+  margin: 0;
+}
+
+/* ============================================================
+   Map
+   ============================================================ */
+
+.mapLocation {
+  font-size: var(--fs-small);
+  color: var(--color-text-secondary);
+  margin-bottom: var(--sp-3);
+}
+
+.mapContainer {
+  height: 280px;
+  border-radius: var(--r-md);
+  overflow: hidden;
+  border: 1px solid var(--color-divider);
+}
+
+/* ============================================================
+   Things to know
+   ============================================================ */
+
+.rulesGrid {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-5);
+}
+
+.rulesHeading {
+  font-size: var(--fs-body);
+  font-weight: 600;
+  margin-bottom: var(--sp-2);
+}
+
+.rulesGrid p {
+  font-size: var(--fs-small);
+  color: var(--color-text);
+  margin-bottom: 6px;
+  line-height: 1.5;
+}
+
+.rareBadge {
+  background: var(--color-surface-tint);
+  color: var(--color-rausch-deep);
+  font-size: var(--fs-meta);
+  font-weight: 600;
+  padding: var(--sp-2) var(--sp-3);
+  border-radius: var(--r-sm);
+  margin-bottom: var(--sp-3);
+  text-align: center;
+}
+
+/* ============================================================
+   Sticky bottom CTA bar — replaces desktop sidebar
+   ============================================================ */
+
+.sidebar {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: var(--frame-max);
+  background: var(--color-surface);
+  border-top: 1px solid var(--color-divider);
+  z-index: 40;
+  padding: var(--sp-3) var(--sp-5) calc(var(--sp-3) + env(safe-area-inset-bottom, 0px));
+  box-shadow: var(--shadow-sticky);
+}
+
+.bookingCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--sp-4);
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.bookingPrice {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+  margin-bottom: 0;
+}
+
+.priceAmount {
+  font-size: var(--fs-large);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+}
+
+.priceUnit {
+  font-size: var(--fs-meta);
+  color: var(--color-text-secondary);
+}
+
+.bookingDates,
+.guestBox,
+.priceBreakdown,
+.noCharge,
+.dateBox,
+.dateLabel,
+.dateValue {
+  display: none; /* Mobile: dates and guest details collapse — Reserve opens a sheet */
+}
+
+.reserveBtn {
+  background: linear-gradient(to right, var(--color-rausch-hover), var(--color-rausch-deep));
+  color: #fff;
+  border: none;
+  border-radius: var(--r-sm);
+  padding: 14px 28px;
+  font-size: var(--fs-body);
+  font-weight: 600;
+  cursor: pointer;
+  font-family: inherit;
+  flex-shrink: 0;
+  white-space: nowrap;
+  transition: filter 0.15s ease, transform 0.15s ease;
+}
+
+.reserveBtn:hover { filter: brightness(0.96); }
+.reserveBtn:active { transform: scale(0.97); }
+
+.priceRow {
+  display: flex;
+  justify-content: space-between;
+  font-size: var(--fs-small);
+  margin-bottom: var(--sp-2);
+}
+
+/* ============================================================
+   Desktop: keep mobile frame look — no special layout
+   The frame itself is centered via the .frame wrapper if used.
+   But these detail pages don't use .frame — they're full-screen.
+   On wide viewports we cap the content width.
+   ============================================================ */
+
+@media (min-width: 768px) {
+  .layout {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  .photoMain,
+  .photoThumb {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  .sidebar {
+    max-width: 720px;
+  }
+
+  .amenityGrid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}

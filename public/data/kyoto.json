@@ -1,0 +1,2286 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2026-04-15",
+    "regions": [
+      "kyoto"
+    ],
+    "totalListings": 30,
+    "note": "Kyoto mock dataset. Stays, experiences, and services modeled on real Airbnb Kyoto listings. Image URLs are Unsplash Source placeholders — replace with curated photo IDs before launch."
+  },
+  "stays": [
+    {
+      "id": "stay-kyoto-001",
+      "airbnbId": "768492715814583912",
+      "name": "Authentic Japanese Villa in Kyoto The Lodge MIWA",
+      "type": "entire_villa",
+      "typeLabel": "Entire villa in Kyoto, Japan",
+      "region": "kyoto",
+      "location": "Kitayama, Kyoto Prefecture, Japan",
+      "lat": 35.198,
+      "lng": 135.453,
+      "guests": 4,
+      "bedroomCount": 2,
+      "beds": "1 bed",
+      "bedDetail": "4 guests · 2 bedrooms · 1 bed · 1 bath",
+      "baths": 1,
+      "price": 319,
+      "pricePerNight": 319,
+      "totalForFive": 1597,
+      "currency": "USD",
+      "rating": 4.97,
+      "reviewCount": 78,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "The Lodge MIWA Reception",
+        "isSuperhost": true,
+        "yearsHosting": 6,
+        "totalReviews": 78,
+        "totalRating": 4.97,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Japanese"
+        ],
+        "work": "Hospitality",
+        "presence": "Co-hosted with Takeshi; on-site support available throughout your stay"
+      },
+      "highlights": [
+        {
+          "title": "Top 5% of homes",
+          "detail": "This home is highly ranked based on ratings, reviews, and reliability."
+        },
+        {
+          "title": "Unwind in the hot tub",
+          "detail": "This is one of the few places in the area with this amenity."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the lockbox."
+        }
+      ],
+      "description": "The lodge is located in a small village at Kitayama, the \"north mountain\" of Kyoto — left behind by modernization, with original Japanese landscape, history, and tradition intact. A private bridge to the Lodge keeps it calm, quiet, and apart from the village. A beautiful wooden bath and Hammam face the garden, and the house sits at the meeting point of two mountain creeks, nestled against a lush forest.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "Futon"
+        }
+      ],
+      "amenities": [
+        "Mountain view",
+        "Kitchen",
+        "Wifi",
+        "Dedicated workspace",
+        "Free parking on premises",
+        "Private hot tub - available all year, open 24 hours",
+        "Washer",
+        "Free dryer – In unit",
+        "Bathtub"
+      ],
+      "amenitiesTotal": 44,
+      "safetyNotReported": [
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 12:00 PM",
+        "maxGuests": 4,
+        "cancellation": "Free cancellation before May 19. Cancel before June 11 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "checkin": 5,
+        "communication": 5,
+        "location": 4.9,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Location",
+          "count": 34
+        },
+        {
+          "tag": "Hospitality",
+          "count": 25
+        },
+        {
+          "tag": "Getting around",
+          "count": 18
+        },
+        {
+          "tag": "Bathroom",
+          "count": 16
+        },
+        {
+          "tag": "Kitchen",
+          "count": 12
+        },
+        {
+          "tag": "Nearby",
+          "count": 10
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Beatrice",
+          "yearsOnAirbnb": 9,
+          "date": "January 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The Lodge MIWA is an absolute gem. We felt at home from the moment we arrived at this sweet, so authentic and wonderful 'Minka'. The little village, the surroundings, its comfort and warmth made us not want to leave. We so much enjoyed and appreciated that we were able to rent a car for the day to explore the outskirts of Kyoto and the Kitayama mountains."
+        },
+        {
+          "author": "Rebecca",
+          "yearsOnAirbnb": 10,
+          "date": "March 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "This was a wonderful stay for our honeymoon. It is fairly secluded but the best way to experience Japan. The hosts were kind and very responsive. They went out of their way to book restaurants and taxi. Having a rental was a bonus. Highly recommend."
+        },
+        {
+          "author": "Emy",
+          "yearsOnAirbnb": 10,
+          "date": "January 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Perfect place to reset and relax. Love aesthetic home, furniture and even their kitchenware — loving their ceramics plate bowl and cup. I really enjoy rest, relax, cook and eat with a view. We were very lucky to get up with snow."
+        },
+        {
+          "author": "Tim",
+          "yearsOnAirbnb": 8,
+          "date": "October 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "I travel for a living (and a hobby), and this place is by far one of the most amazing places I've ever stayed at. We rented a car and drove from the center of Kyoto. The drive here is worth the stay alone. In the nearest town is an A5 Wagyu butcher with amazing prices. If you're on the fence about this place, it's worth every dollar and second."
+        },
+        {
+          "author": "Freia",
+          "yearsOnAirbnb": 7,
+          "date": "November 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "A perfect reset in the middle of a busy trip. The home was unbelievably beautiful, the bed was unbelievably comfortable. I feel lucky to have stayed here, it was very special."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-05-01",
+        "endDate": "2026-10-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1728200696554-d469313c15f5?w=1200&q=80",
+          "alt": "A river with several small boats in it"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1768947813899-8c5012e9abce?w=1200&q=80",
+          "alt": "Japanese village nestled among autumn trees and hills."
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1557751007-2dbd64e6afae?w=1200&q=80",
+          "alt": "river during daytime"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1619317570157-7970e36543e6?w=1200&q=80",
+          "alt": "brown wooden house on green grass field near river during daytime"
+        }
+      ]
+    },
+    {
+      "id": "stay-kyoto-002",
+      "airbnbId": "1135103786591404546",
+      "name": "【Kyotofish·Shirakawa】Riverside Machiya",
+      "type": "entire_townhouse",
+      "typeLabel": "Entire townhouse in Higashiyama-ku, Japan",
+      "region": "kyoto",
+      "location": "Higashiyama-ku, Kyoto, Japan",
+      "lat": 35.0065,
+      "lng": 135.7752,
+      "guests": 3,
+      "bedroomCount": 2,
+      "beds": "2 beds",
+      "bedDetail": "3 guests · 2 bedrooms · 2 beds · 1.5 baths",
+      "baths": 1.5,
+      "price": 413,
+      "pricePerNight": 413,
+      "totalForFive": 2063,
+      "currency": "USD",
+      "rating": 4.91,
+      "reviewCount": 68,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Karen",
+        "isSuperhost": true,
+        "yearsHosting": 9,
+        "totalReviews": 7132,
+        "totalRating": 4.81,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Japanese"
+        ],
+        "work": "Founder of Kyotofish",
+        "presence": "Kyotofish restores traditional Kyoto machiya and carefully brings them back to life as places to stay."
+      },
+      "highlights": [
+        {
+          "title": "Unwind in the hot tub",
+          "detail": "This is one of the few places in the area with this amenity."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the keypad."
+        },
+        {
+          "title": "Calm and convenient location",
+          "detail": "Guests say this area is peaceful and it's easy to get around."
+        }
+      ],
+      "description": "Located beside the Shirakawa stream, one of Kyoto's most beautiful waterways. Cherry trees and willow branches on the opposite bank create a natural garden view through the seasons. This restored machiya preserves its traditional structure while offering modern comfort — a rare riverside townhouse in the most poetic heart of Kyoto's Shirakawa district, tucked in a tranquil corner of the city.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 futon"
+        }
+      ],
+      "amenities": [
+        "Courtyard view",
+        "Garden view",
+        "Waterfront",
+        "Kitchen",
+        "Wifi",
+        "Dedicated workspace",
+        "Private hot tub - available all year, open 24 hours",
+        "TV with standard cable",
+        "Free washer – In unit",
+        "Free dryer – In unit"
+      ],
+      "amenitiesTotal": 58,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 4:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 3,
+        "cancellation": "Free cancellation before May 4. Cancel before check-in on May 5 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.9,
+        "accuracy": 4.9,
+        "checkin": 4.8,
+        "communication": 4.9,
+        "location": 5,
+        "value": 4.7
+      },
+      "reviewMentions": [
+        {
+          "tag": "Location",
+          "count": 45
+        },
+        {
+          "tag": "Hospitality",
+          "count": 14
+        },
+        {
+          "tag": "Nearby",
+          "count": 13
+        },
+        {
+          "tag": "River",
+          "count": 11
+        },
+        {
+          "tag": "Walkability",
+          "count": 10
+        },
+        {
+          "tag": "Heating",
+          "count": 4
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Victor",
+          "yearsOnAirbnb": 0,
+          "date": "2 weeks ago",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "I paid a pretty steep premium for this stay given its sakura season. And I'm happy to report that it was worth every penny. If 'Kyoto townhouse during Sakura season' had a stereotype, then this is it. Wanna sit by the Shirakawa River and have Sakura petals fall on you? Stay here."
+        },
+        {
+          "author": "Lisa",
+          "yearsOnAirbnb": 0,
+          "date": "3 weeks ago",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Karen quickly responded to my questions. We loved sitting on the balcony enjoying the water. The beds were comfortable and it was overall a nice place. I would stay here again."
+        },
+        {
+          "author": "Stephanie",
+          "yearsOnAirbnb": 0,
+          "date": "March 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "A beautiful home right on the water! Such a pleasure to stay here after busy days exploring all Kyoto has to offer. Excellent location, highly walkable, and nice interiors. Karen was helpful and responsive throughout. Thank you for a wonderful stay!"
+        },
+        {
+          "author": "Gabriella",
+          "yearsOnAirbnb": 8,
+          "date": "December 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The apartment is in a very quiet and private area. There are a lot of good restaurants and cafes nearby. The apartment is very stylish: everything is new, convenient, and clean. The terrace facing the river is nice, especially in the warmer months. Karen is a good host, she was really helpful and got back to us quickly when we had questions."
+        },
+        {
+          "author": "Ebtissam",
+          "yearsOnAirbnb": 0,
+          "date": "2 weeks ago",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Absolutely adored this home. It was a place of peace and refuge during our wonderful trip to Kyoto, well decorated and had all the amenities we needed. What a great spot to relax and unwind at."
+        },
+        {
+          "author": "Lo",
+          "yearsOnAirbnb": 16,
+          "date": "December 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Beautiful Space. Super clean and warm. Lovely views of the canal. Honestly would stay here again. It's also very central and there are plenty of cute coffee shops near by."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-05-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1769921359930-0ee608639b1c?w=1200&q=80",
+          "alt": "Two traditional japanese buildings with warm sunlight."
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1732827192006-f1e0c7a74d88?w=1200&q=80",
+          "alt": "A view of a building from the street"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1762178906730-e52323de1ab0?w=1200&q=80",
+          "alt": "Traditional japanese buildings with autumn foliage in background"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1712367655833-999e4cfc8b08?w=1200&q=80",
+          "alt": "a tall wooden building sitting in the middle of a forest"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1569415097756-423e72a60224?w=1200&q=80",
+          "alt": "brown and white wooden house surrounded by trees"
+        }
+      ]
+    },
+    {
+      "id": "stay-kyoto-003",
+      "airbnbId": "15751754",
+      "name": "LUXURY TOWNHOUSE IN GEISHA DISTRICT, GION",
+      "type": "entire_home",
+      "typeLabel": "Entire home in Kyoto, Japan",
+      "region": "kyoto",
+      "location": "Miyagawa-chō, Kyoto, Kyoto Prefecture, Japan",
+      "lat": 35.0023,
+      "lng": 135.7717,
+      "guests": 5,
+      "bedroomCount": 3,
+      "beds": "3 beds",
+      "bedDetail": "5 guests · 3 bedrooms · 3 beds · 1.5 baths",
+      "baths": 1.5,
+      "price": 642,
+      "pricePerNight": 642,
+      "totalForFive": 3208,
+      "currency": "USD",
+      "rating": 4.98,
+      "reviewCount": 372,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Chris And Chie",
+        "isSuperhost": true,
+        "yearsHosting": 12,
+        "totalReviews": 1750,
+        "totalRating": 4.97,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Japanese"
+        ],
+        "work": "Boutique machiya restoration; @kyoto.hanare",
+        "presence": "Lives in Kyoto; renovates traditional Japanese houses with a team of award-winning architects and artisans."
+      },
+      "highlights": [
+        {
+          "title": "Top 5% of homes",
+          "detail": "This home is highly ranked based on ratings, reviews, and reliability."
+        },
+        {
+          "title": "Unwind in the hot tub",
+          "detail": "This is one of the few places in the area with this amenity."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the lockbox."
+        }
+      ],
+      "description": "Located in Miyagawachō, one of Japan's last remaining thriving hanamachi (\"flower towns\" or geisha districts), a short walk south from Gion and steps from the restaurants of Kawaramachi and the banks of the Kamo-gawa. The property has been extensively renovated by a team of award-winning boutique hotel architects to the highest standards of comfort, luxury, and safety — a fully licensed vacation rental.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "2 futons"
+        }
+      ],
+      "amenities": [
+        "City skyline view",
+        "Courtyard view",
+        "Kitchen",
+        "Wifi",
+        "Dedicated workspace",
+        "Private hot tub",
+        "HDTV with Amazon Prime Video, Fire TV, Netflix",
+        "Free washer – In unit",
+        "Free dryer – In unit",
+        "AC - split type ductless system"
+      ],
+      "amenitiesTotal": 42,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 5,
+        "cancellation": "Free cancellation for 24 hours. Cancel before April 26 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "checkin": 5,
+        "communication": 5,
+        "location": 5,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Location",
+          "count": 259
+        },
+        {
+          "tag": "Walkability",
+          "count": 113
+        },
+        {
+          "tag": "Nearby",
+          "count": 99
+        },
+        {
+          "tag": "Decor",
+          "count": 93
+        },
+        {
+          "tag": "Family",
+          "count": 80
+        },
+        {
+          "tag": "Quiet",
+          "count": 63
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Douglas",
+          "yearsOnAirbnb": 0,
+          "date": "2 weeks ago",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "This is a great place to stay! Perfectly pristine home with a lot of character and in a great location. It's on a quiet street that's removed from the main tourist areas — but still easy to get everywhere. There's even a playground just down the block for kids!"
+        },
+        {
+          "author": "Jesse",
+          "yearsOnAirbnb": 3,
+          "date": "January 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "We loved our stay here! It was luxurious and located in an area of Kyoto with lots of traditional charm. The place was clean and had everything we needed for our stay and the host was very responsive and helpful. We highly recommend Chris and Chie's place for a quintessential Kyoto experience!"
+        },
+        {
+          "author": "Grace",
+          "yearsOnAirbnb": 9,
+          "date": "January 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Chris and Chie have done an amazing job with this house! The spaciousness from the high ceilings, big bathroom and amazing lounge makes you feel like you're in a very large house. The bed is very comfortable and we loved looking into the Japanese garden that was in the centre of the house."
+        },
+        {
+          "author": "Megan",
+          "yearsOnAirbnb": 0,
+          "date": "December 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "We absolutely loved staying in Chris and Chie's home. It was spotless, spacious, cozy, and clean in a perfect, walkable neighborhood. The hosts were extremely communicative and quick to respond to any inquiry. The soaking tub overlooking the beautiful Japanese maple was used daily as the weather was cold and it was a wonderful way to wind down from our sightseeing."
+        },
+        {
+          "author": "Christina",
+          "yearsOnAirbnb": 0,
+          "date": "December 2025",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "The place is situated on a quiet street with beautiful surroundings and the train station is within walkable distance just a few minutes away. The house is as described and as shown in the pictures with a traditional Japanese vibe. There are also some nice restaurants near by. My family had a great time."
+        },
+        {
+          "author": "Charles",
+          "yearsOnAirbnb": 0,
+          "date": "December 2025",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "A traditionally renovated house within walking distance of Gion and Pontocho districts. Perfect for families with kids 3+ years old. Loved staying here, it felt really special."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-05-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1771030667899-e7a6938b2e81?w=1200&q=80",
+          "alt": "Traditional japanese hallway with sliding doors and wooden railings"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1740238519827-43f150ef9347?w=1200&q=80",
+          "alt": "A room that has some doors in it"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1650208532541-572697b3dd40?w=1200&q=80",
+          "alt": "a large empty room"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1771030669954-a02e803c68a7?w=1200&q=80",
+          "alt": "Traditional japanese kitchen with shoji screens"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1645438357200-2860a2aa576b?w=1200&q=80",
+          "alt": "a room with a chair, a table and a painting on the wall"
+        }
+      ]
+    },
+    {
+      "id": "stay-kyoto-004",
+      "airbnbId": "kyoto-riverfront-pontocho",
+      "name": "In Kyoto's Very Heart: Luxury Riverfront Stay",
+      "type": "entire_rental_unit",
+      "typeLabel": "Entire rental unit in Kyoto, Japan",
+      "region": "kyoto",
+      "location": "Pontochō, Nakagyō-ku, Kyoto, Japan",
+      "lat": 35.0076,
+      "lng": 135.7714,
+      "guests": 4,
+      "bedroomCount": 2,
+      "beds": "2 beds",
+      "bedDetail": "4 guests · 2 bedrooms · 2 beds · 1 bath",
+      "baths": 1,
+      "price": 475,
+      "pricePerNight": 475,
+      "totalForFive": 2377,
+      "currency": "USD",
+      "rating": 5,
+      "reviewCount": 52,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Hiroko",
+        "isSuperhost": true,
+        "yearsHosting": 7,
+        "totalReviews": 320,
+        "totalRating": 4.96,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Japanese"
+        ],
+        "work": "Boutique vacation rentals",
+        "presence": "On-site check-in and concierge for restaurant bookings along the river."
+      },
+      "highlights": [
+        {
+          "title": "Riverfront views",
+          "detail": "Floor-to-ceiling windows open directly over the Kamogawa."
+        },
+        {
+          "title": "Walk to everything",
+          "detail": "Pontochō lanterns, Gion, and Nishiki Market are all within 10 minutes on foot."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the keypad."
+        }
+      ],
+      "description": "A top-floor rental unit tucked into Pontochō's wooden lanes with a private balcony hanging over the Kamogawa river. Watch herons fish at dawn and the kawadoko dining platforms light up after dusk. Renovated in 2023 with natural oak, washi lighting, and a deep ofuro soaking tub.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 double bed"
+        }
+      ],
+      "amenities": [
+        "Riverfront",
+        "City skyline view",
+        "Kitchen",
+        "Wifi",
+        "Washer",
+        "Dryer",
+        "Ofuro soaking tub",
+        "AC - split type ductless system",
+        "Smart TV",
+        "Nespresso machine"
+      ],
+      "amenitiesTotal": 39,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 4,
+        "cancellation": "Free cancellation for 48 hours. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "checkin": 5,
+        "communication": 5,
+        "location": 5,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "River view",
+          "count": 38
+        },
+        {
+          "tag": "Location",
+          "count": 32
+        },
+        {
+          "tag": "Walkability",
+          "count": 24
+        },
+        {
+          "tag": "Quiet",
+          "count": 14
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Priya",
+          "yearsOnAirbnb": 6,
+          "date": "February 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Waking up to the river below and the hills beyond was the best start to every day. The location is unbeatable — you step out of the building and you're already in Pontochō."
+        },
+        {
+          "author": "Marcus",
+          "yearsOnAirbnb": 8,
+          "date": "January 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Immaculate and quiet despite being in the thick of it. The soaking tub after long sightseeing days was a lifesaver."
+        },
+        {
+          "author": "Yui",
+          "yearsOnAirbnb": 4,
+          "date": "December 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Perfect for a couple. The balcony over the river is the whole point, and it delivers."
+        },
+        {
+          "author": "Anders",
+          "yearsOnAirbnb": 11,
+          "date": "November 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Hiroko was an exceptional host — restaurant recommendations on every lane. You will not find a better location in Kyoto."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-05-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1757829315841-d5384dbfb560?w=1200&q=80",
+          "alt": "Traditional japanese room with open doorway to garden"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1740238520058-a6fd688cc82b?w=1200&q=80",
+          "alt": "An open door leading to a room with wooden floors"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1609850280339-b85f1fd5d351?w=1200&q=80",
+          "alt": "brown wooden framed glass window"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1715136500915-6d730a31968f?w=1200&q=80",
+          "alt": "the entrance to a restaurant with chinese writing on it"
+        }
+      ]
+    },
+    {
+      "id": "stay-kyoto-005",
+      "airbnbId": "choan-shoen-central",
+      "name": "【New Open】Choan-Shoen｜Central Kyoto｜Small Groups",
+      "type": "entire_townhouse",
+      "typeLabel": "Entire townhouse in Nakagyō-ku, Japan",
+      "region": "kyoto",
+      "location": "Nakagyō-ku, Kyoto, Japan",
+      "lat": 35.0116,
+      "lng": 135.765,
+      "guests": 6,
+      "bedroomCount": 2,
+      "beds": "3 beds",
+      "bedDetail": "6 guests · 2 bedrooms · 3 beds · 1.5 baths",
+      "baths": 1.5,
+      "price": 423,
+      "pricePerNight": 423,
+      "totalForFive": 2114,
+      "currency": "USD",
+      "rating": 4.9,
+      "reviewCount": 22,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": true,
+      "isRareFind": false,
+      "host": {
+        "name": "Shōta",
+        "isSuperhost": true,
+        "yearsHosting": 4,
+        "totalReviews": 186,
+        "totalRating": 4.92,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Japanese"
+        ],
+        "work": "Heritage property restoration",
+        "presence": "I meet small groups at check-in and share a hand-drawn neighborhood map."
+      },
+      "highlights": [
+        {
+          "title": "Newly opened",
+          "detail": "Fully renovated townhouse, opened to guests in early 2026."
+        },
+        {
+          "title": "Central Kyoto",
+          "detail": "5-minute walk to Nishiki Market and Karasuma subway line."
+        },
+        {
+          "title": "Great for small groups",
+          "detail": "Sleeps six comfortably across two floors."
+        }
+      ],
+      "description": "A freshly restored two-story machiya in central Nakagyō, steps from Nishiki Market. Exposed dark timber, a tsuboniwa courtyard garden visible from the dining room, and a quiet second-floor reading nook under the original roof beams.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 double bed + 1 futon"
+        }
+      ],
+      "amenities": [
+        "Courtyard view",
+        "Kitchen",
+        "Wifi",
+        "Washer",
+        "Dryer",
+        "Hinoki bathtub",
+        "AC",
+        "Heated floors",
+        "Smart TV",
+        "Dedicated workspace"
+      ],
+      "amenitiesTotal": 46,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 4:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 6,
+        "cancellation": "Free cancellation before check-in for a full refund within the first 48 hours of booking."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 4.9,
+        "checkin": 4.9,
+        "communication": 5,
+        "location": 4.9,
+        "value": 4.8
+      },
+      "reviewMentions": [
+        {
+          "tag": "Location",
+          "count": 16
+        },
+        {
+          "tag": "Decor",
+          "count": 12
+        },
+        {
+          "tag": "Cleanliness",
+          "count": 9
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Daniela",
+          "yearsOnAirbnb": 5,
+          "date": "March 2026",
+          "context": "Stayed with friends",
+          "rating": 5,
+          "text": "The restoration is really thoughtful — old beams, modern kitchen, proper soaking tub. Nishiki is five minutes on foot and Shōta had great dinner recs."
+        },
+        {
+          "author": "Jun",
+          "yearsOnAirbnb": 9,
+          "date": "February 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Perfect central base for six. Sleeping arrangements worked well and the courtyard garden is a lovely touch."
+        },
+        {
+          "author": "Elsa",
+          "yearsOnAirbnb": 3,
+          "date": "January 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Quiet despite the central location. Heated floors were a welcome surprise in winter."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-05-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1200&q=80",
+          "alt": "two women in purple and pink kimono standing on street"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1200&q=80",
+          "alt": "pagoda surrounded by trees"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?w=1200&q=80",
+          "alt": "Mount Fuji, Japan"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1649129683265-15a9aaf99f49?w=1200&q=80",
+          "alt": "a group of people standing in front of a building"
+        }
+      ]
+    },
+    {
+      "id": "stay-kyoto-006",
+      "airbnbId": "kitano-soho-5f",
+      "name": "Penthouse with private garden: Kitano Soho 5F",
+      "type": "entire_rental_unit",
+      "typeLabel": "Entire rental unit in Kamigyō-ku, Japan",
+      "region": "kyoto",
+      "location": "Kitano, Kamigyō-ku, Kyoto, Japan",
+      "lat": 35.0315,
+      "lng": 135.7353,
+      "guests": 4,
+      "bedroomCount": 2,
+      "beds": "2 beds",
+      "bedDetail": "4 guests · 2 bedrooms · 2 beds · 1 bath",
+      "baths": 1,
+      "price": 359,
+      "pricePerNight": 359,
+      "totalForFive": 1797,
+      "currency": "USD",
+      "rating": 4.93,
+      "reviewCount": 61,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Ren",
+        "isSuperhost": true,
+        "yearsHosting": 5,
+        "totalReviews": 412,
+        "totalRating": 4.91,
+        "responseRate": "99%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Japanese"
+        ],
+        "work": "Architect; designs compact urban dwellings",
+        "presence": "Self check-in with keypad; I'm a message away."
+      },
+      "highlights": [
+        {
+          "title": "Private rooftop garden",
+          "detail": "A rare amenity — planted terrace with views to Kitano Tenmangū."
+        },
+        {
+          "title": "Architect-designed",
+          "detail": "Top-floor penthouse in a five-story boutique building."
+        },
+        {
+          "title": "Quiet residential street",
+          "detail": "Peaceful Kitano neighborhood, 8-minute walk to the shrine."
+        }
+      ],
+      "description": "A top-floor penthouse in a compact architect-designed building with a wrap-around planted terrace. Simple white walls, larch floors, and a wide Japanese-style low bed. Ten minutes on foot from Kitano Tenmangū and the plum groves that bloom in February.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 double bed"
+        }
+      ],
+      "amenities": [
+        "Private rooftop garden",
+        "City skyline view",
+        "Kitchen",
+        "Wifi",
+        "Washer",
+        "Dryer",
+        "AC",
+        "Smart TV",
+        "Espresso machine",
+        "Dedicated workspace"
+      ],
+      "amenitiesTotal": 35,
+      "safetyNotReported": [
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 4,
+        "cancellation": "Free cancellation before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 4.9,
+        "checkin": 4.9,
+        "communication": 5,
+        "location": 4.8,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Rooftop",
+          "count": 22
+        },
+        {
+          "tag": "Design",
+          "count": 18
+        },
+        {
+          "tag": "Quiet",
+          "count": 15
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Clara",
+          "yearsOnAirbnb": 7,
+          "date": "February 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Came for the plum blossoms at Kitano and this penthouse was the ideal base. The rooftop garden is gorgeous at sunset."
+        },
+        {
+          "author": "Tomás",
+          "yearsOnAirbnb": 4,
+          "date": "January 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Beautifully designed apartment. Slightly removed from the main tourist areas which was exactly what we wanted."
+        },
+        {
+          "author": "Mei",
+          "yearsOnAirbnb": 2,
+          "date": "December 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Spotless, serene, and the terrace is the best feature. Bus to Kinkaku-ji was easy from the corner."
+        },
+        {
+          "author": "Jack",
+          "yearsOnAirbnb": 10,
+          "date": "November 2025",
+          "context": "Stayed a few nights",
+          "rating": 4,
+          "text": "Loved the apartment. A little further from the east-side temples than expected but the neighborhood was lovely."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-05-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1744251330131-975444ccedf1?w=1200&q=80",
+          "alt": "A window offers a beautiful view of nature."
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1739076184852-3efa0996e71a?w=1200&q=80",
+          "alt": "A room with a chair and a window in it"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1612923278358-2a9f9fe03abd?w=1200&q=80",
+          "alt": "brown wooden framed glass window"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1691747151331-f6a2730f319d?w=1200&q=80",
+          "alt": "a view of a city with tall buildings"
+        }
+      ]
+    },
+    {
+      "id": "stay-kyoto-007",
+      "airbnbId": "kyoto-machiya-garden-bath",
+      "name": "Kyoto Machiya: 6 min Taxi to Station | Garden Bath",
+      "type": "entire_townhouse",
+      "typeLabel": "Entire townhouse in Shimogyō-ku, Japan",
+      "region": "kyoto",
+      "location": "Shimogyō-ku, Kyoto, Japan",
+      "lat": 34.9892,
+      "lng": 135.7585,
+      "guests": 6,
+      "bedroomCount": 3,
+      "beds": "4 beds",
+      "bedDetail": "6 guests · 3 bedrooms · 4 beds · 2 baths",
+      "baths": 2,
+      "price": 547,
+      "pricePerNight": 547,
+      "totalForFive": 2734,
+      "currency": "USD",
+      "rating": 5,
+      "reviewCount": 34,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Aiko",
+        "isSuperhost": true,
+        "yearsHosting": 8,
+        "totalReviews": 540,
+        "totalRating": 4.95,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Japanese"
+        ],
+        "work": "Machiya restoration and traditional craft",
+        "presence": "Self check-in; local housekeeper available on request."
+      },
+      "highlights": [
+        {
+          "title": "Open-air garden bath",
+          "detail": "Private ofuro soaking tub under the sky, surrounded by bamboo."
+        },
+        {
+          "title": "Close to Kyoto Station",
+          "detail": "Only a 6-minute taxi ride to Kyoto Station and the Shinkansen."
+        },
+        {
+          "title": "Sleeps six",
+          "detail": "Three bedrooms across two floors for families or small groups."
+        }
+      ],
+      "description": "A rare three-bedroom machiya with a private open-air garden bath. Fully restored with original kawara tile roof, dark timber, and tatami rooms on the second floor. Six minutes by taxi to Kyoto Station, fifteen minutes on foot to Higashi Hongan-ji.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "2 futons"
+        }
+      ],
+      "amenities": [
+        "Garden view",
+        "Private outdoor bath",
+        "Kitchen",
+        "Wifi",
+        "Washer",
+        "Dryer",
+        "Heated floors",
+        "Smart TV",
+        "Dedicated workspace",
+        "Free parking (paid nearby)"
+      ],
+      "amenitiesTotal": 51,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 4:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 6,
+        "cancellation": "Free cancellation before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "checkin": 5,
+        "communication": 5,
+        "location": 5,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Outdoor bath",
+          "count": 28
+        },
+        {
+          "tag": "Family",
+          "count": 16
+        },
+        {
+          "tag": "Space",
+          "count": 14
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Helena",
+          "yearsOnAirbnb": 11,
+          "date": "March 2026",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "The garden bath is magical at night. Enormous house for a family of six, beautifully restored, and so close to the station."
+        },
+        {
+          "author": "Diego",
+          "yearsOnAirbnb": 6,
+          "date": "February 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Every detail is considered. Tatami rooms upstairs, spotless kitchen, and the outdoor bath overlooks bamboo."
+        },
+        {
+          "author": "Satomi",
+          "yearsOnAirbnb": 8,
+          "date": "January 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Perfect base for our family. Aiko was responsive and helpful with restaurant bookings."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-05-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1730277446333-df9ff34ef09b?w=1200&q=80",
+          "alt": "A building with a bunch of plants in front of it"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1610375233612-d6a66ac3af99?w=1200&q=80",
+          "alt": "text"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1764227972240-2e98426aa9b1?w=1200&q=80",
+          "alt": "Traditional japanese wooden buildings on a street."
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1730277446333-df9ff34ef09b?w=1200&q=80",
+          "alt": "A building with a bunch of plants in front of it"
+        }
+      ]
+    },
+    {
+      "id": "stay-kyoto-008",
+      "airbnbId": "indigo-house-gion-upper",
+      "name": "Indigo House Gion (Upper Level)",
+      "type": "entire_rental_unit",
+      "typeLabel": "Entire rental unit in Higashiyama-ku, Japan",
+      "region": "kyoto",
+      "location": "Gion, Higashiyama-ku, Kyoto, Japan",
+      "lat": 35.0035,
+      "lng": 135.7765,
+      "guests": 3,
+      "bedroomCount": 1,
+      "beds": "2 beds",
+      "bedDetail": "3 guests · 1 bedroom · 2 beds · 1 bath",
+      "baths": 1,
+      "price": 377,
+      "pricePerNight": 377,
+      "totalForFive": 1886,
+      "currency": "USD",
+      "rating": 5,
+      "reviewCount": 41,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Naoki",
+        "isSuperhost": true,
+        "yearsHosting": 6,
+        "totalReviews": 268,
+        "totalRating": 4.97,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Japanese"
+        ],
+        "work": "Textile dyer and property host",
+        "presence": "The indigo walls and fabrics were all dyed in my workshop in Tango."
+      },
+      "highlights": [
+        {
+          "title": "In the heart of Gion",
+          "detail": "Two-minute walk to Hanamikōji and Yasaka Shrine."
+        },
+        {
+          "title": "Indigo-dyed interiors",
+          "detail": "Original aizome textiles and wall finishes throughout."
+        },
+        {
+          "title": "Top 5% of homes",
+          "detail": "Highly ranked for ratings, reviews, and reliability."
+        }
+      ],
+      "description": "Upper-level rental in a beautifully restored Gion townhouse decorated with traditional aizome indigo-dyed textiles. Low-slung beds, a small tatami reading corner, and a deep hinoki tub. One of the closest walkable stays to Yasaka Shrine.",
+      "bedrooms": [
+        {
+          "name": "Bedroom",
+          "beds": "1 queen bed + 1 single bed"
+        }
+      ],
+      "amenities": [
+        "Kitchen",
+        "Wifi",
+        "Washer",
+        "Dryer",
+        "Hinoki bathtub",
+        "AC",
+        "Smart TV",
+        "Dedicated workspace",
+        "Heated floors",
+        "Indigo-dyed bedding"
+      ],
+      "amenitiesTotal": 38,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 3,
+        "cancellation": "Free cancellation before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "checkin": 5,
+        "communication": 5,
+        "location": 5,
+        "value": 5
+      },
+      "reviewMentions": [
+        {
+          "tag": "Location",
+          "count": 31
+        },
+        {
+          "tag": "Decor",
+          "count": 22
+        },
+        {
+          "tag": "Host",
+          "count": 11
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Lucia",
+          "yearsOnAirbnb": 8,
+          "date": "February 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The indigo fabrics make this place feel like a small gallery. Location in Gion is as good as it gets."
+        },
+        {
+          "author": "Owen",
+          "yearsOnAirbnb": 5,
+          "date": "January 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Naoki dyed everything himself — the blues are extraordinary. Thoughtful, quiet, and walking distance to everything east of the river."
+        },
+        {
+          "author": "Ana",
+          "yearsOnAirbnb": 9,
+          "date": "December 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Beautiful home in the best part of Gion. The hinoki tub is a real treat."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-05-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1597730763269-c49ab9f9db0f?w=1200&q=80",
+          "alt": "man in black jacket and black pants standing beside red suv during daytime"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1594795716460-c816b5193a34?w=1200&q=80",
+          "alt": "brown wooden house under white sky during daytime"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1707905644785-389b878bff99?w=1200&q=80",
+          "alt": "a tall orange building with a staircase leading up to it"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1690221065305-b37ff12d98d2?w=1200&q=80",
+          "alt": "a large building with lights on top of it"
+        }
+      ]
+    },
+    {
+      "id": "stay-kyoto-009",
+      "airbnbId": "oya-tamaran-3ldk",
+      "name": "Oya Tamaran: 200㎡ Kyoto townhouse with large garden, kaiseki & geisha experience",
+      "type": "entire_townhouse",
+      "typeLabel": "Entire townhouse in Kyoto, Japan",
+      "region": "kyoto",
+      "location": "Nakagyō-ku, Kyoto, Japan",
+      "lat": 35.0105,
+      "lng": 135.7689,
+      "guests": 9,
+      "bedroomCount": 3,
+      "beds": "5 beds",
+      "bedDetail": "9 guests · 3 bedrooms · 5 beds · 2 baths",
+      "baths": 2,
+      "price": 537,
+      "pricePerNight": 537,
+      "totalForFive": 2683,
+      "currency": "USD",
+      "rating": 5,
+      "reviewCount": 26,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Kenzō",
+        "isSuperhost": true,
+        "yearsHosting": 10,
+        "totalReviews": 612,
+        "totalRating": 4.96,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Japanese"
+        ],
+        "work": "Concierge for private kaiseki and geisha bookings",
+        "presence": "I arrange in-house kaiseki dinners and private maiko visits on request."
+      },
+      "highlights": [
+        {
+          "title": "200㎡ townhouse with a rare large garden",
+          "detail": "Full traditional garden with stone lanterns and a koi pond."
+        },
+        {
+          "title": "Private kaiseki and geisha experience",
+          "detail": "Optional in-house kaiseki dinners and private maiko visits can be arranged."
+        },
+        {
+          "title": "Sleeps up to 9",
+          "detail": "Floor heating throughout; parking for one car included."
+        }
+      ],
+      "description": "An exceptional 200㎡ three-bedroom townhouse organized around a full traditional garden — a rarity inside Kyoto's city blocks. Tatami tea room, long engawa corridor overlooking the pond, and a large kitchen set up for private dinners. Kenzō can arrange in-house kaiseki chefs and private geisha-district visits.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 queen bed + 1 single bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "2 futons"
+        }
+      ],
+      "amenities": [
+        "Large private garden",
+        "Koi pond",
+        "Tea room",
+        "Kitchen",
+        "Wifi",
+        "Washer",
+        "Dryer",
+        "Floor heating throughout",
+        "Parking on premises (1 car)",
+        "Smart TV"
+      ],
+      "amenitiesTotal": 62,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 4:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 9,
+        "cancellation": "Free cancellation before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "checkin": 5,
+        "communication": 5,
+        "location": 4.9,
+        "value": 5
+      },
+      "reviewMentions": [
+        {
+          "tag": "Garden",
+          "count": 21
+        },
+        {
+          "tag": "Kaiseki",
+          "count": 14
+        },
+        {
+          "tag": "Space",
+          "count": 18
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Pauline",
+          "yearsOnAirbnb": 12,
+          "date": "March 2026",
+          "context": "Stayed with a group",
+          "rating": 5,
+          "text": "We arranged a private kaiseki dinner for eight on our first night and a maiko visit on the second — Kenzō handled everything. The garden alone is worth the trip."
+        },
+        {
+          "author": "Matt",
+          "yearsOnAirbnb": 7,
+          "date": "January 2026",
+          "context": "Stayed with a group",
+          "rating": 5,
+          "text": "Extraordinary house. The engawa looking onto the koi pond was where we spent every morning."
+        },
+        {
+          "author": "Ami",
+          "yearsOnAirbnb": 6,
+          "date": "December 2025",
+          "context": "Stayed with a group",
+          "rating": 5,
+          "text": "We have stayed in many Kyoto machiya — this one is in a different category. The scale and the garden are unmatched."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-05-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1730277446333-df9ff34ef09b?w=1200&q=80",
+          "alt": "A building with a bunch of plants in front of it"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1610375233612-d6a66ac3af99?w=1200&q=80",
+          "alt": "text"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1764227972240-2e98426aa9b1?w=1200&q=80",
+          "alt": "Traditional japanese wooden buildings on a street."
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1730277446333-df9ff34ef09b?w=1200&q=80",
+          "alt": "A building with a bunch of plants in front of it"
+        }
+      ]
+    },
+    {
+      "id": "stay-kyoto-010",
+      "airbnbId": "kyotofish-honmachi-meiji",
+      "name": "【Kyotofish·Honmachi】Meiji Grand Machiya",
+      "type": "entire_townhouse",
+      "typeLabel": "Entire townhouse in Higashiyama-ku, Japan",
+      "region": "kyoto",
+      "location": "Honmachi, Higashiyama-ku, Kyoto, Japan",
+      "lat": 34.9862,
+      "lng": 135.7729,
+      "guests": 6,
+      "bedroomCount": 3,
+      "beds": "3 beds",
+      "bedDetail": "6 guests · 3 bedrooms · 3 beds · 2 baths",
+      "baths": 2,
+      "price": 550,
+      "pricePerNight": 550,
+      "totalForFive": 2751,
+      "currency": "USD",
+      "rating": 4.97,
+      "reviewCount": 48,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Karen",
+        "isSuperhost": true,
+        "yearsHosting": 9,
+        "totalReviews": 7132,
+        "totalRating": 4.81,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Japanese"
+        ],
+        "work": "Founder of Kyotofish",
+        "presence": "Kyotofish restores traditional Kyoto machiya and carefully brings them back to life as places to stay."
+      },
+      "highlights": [
+        {
+          "title": "Meiji-era grand machiya",
+          "detail": "Restored late-19th-century townhouse with original timber and tile."
+        },
+        {
+          "title": "Walk to Kiyomizu and Sanjūsangen-dō",
+          "detail": "Fifteen minutes on foot to Kiyomizu-dera via the Higashiyama lanes."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the keypad."
+        }
+      ],
+      "description": "A Meiji-era machiya in Higashiyama's quiet Honmachi district, restored by the Kyotofish team. Three bedrooms across two floors, a tsuboniwa courtyard at the heart of the plan, and a long wooden corridor that still creaks underfoot — a sound locals call uguisu-bari, the nightingale floor.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "1 futon"
+        }
+      ],
+      "amenities": [
+        "Courtyard view",
+        "Garden view",
+        "Kitchen",
+        "Wifi",
+        "Dedicated workspace",
+        "Washer",
+        "Dryer",
+        "Hinoki bathtub",
+        "AC",
+        "Heated floors"
+      ],
+      "amenitiesTotal": 56,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 4:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 6,
+        "cancellation": "Free cancellation before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 4.9,
+        "checkin": 5,
+        "communication": 5,
+        "location": 5,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Location",
+          "count": 29
+        },
+        {
+          "tag": "Restoration",
+          "count": 18
+        },
+        {
+          "tag": "Walkability",
+          "count": 15
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Nadia",
+          "yearsOnAirbnb": 7,
+          "date": "March 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "A serious restoration — the scale and the original details make this feel like a small museum you're allowed to sleep in. Walk to Kiyomizu in the morning before the crowds."
+        },
+        {
+          "author": "Paul",
+          "yearsOnAirbnb": 13,
+          "date": "February 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Wonderful home for our family of five. Heated floors in winter were a game changer."
+        },
+        {
+          "author": "Julia",
+          "yearsOnAirbnb": 6,
+          "date": "January 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Karen and team are consummate hosts. The Meiji-era detailing is beautifully preserved."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-05-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1730277446333-df9ff34ef09b?w=1200&q=80",
+          "alt": "A building with a bunch of plants in front of it"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1610375233612-d6a66ac3af99?w=1200&q=80",
+          "alt": "text"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1764227972240-2e98426aa9b1?w=1200&q=80",
+          "alt": "Traditional japanese wooden buildings on a street."
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1730277446333-df9ff34ef09b?w=1200&q=80",
+          "alt": "A building with a bunch of plants in front of it"
+        }
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "id": "exp-kyoto-001",
+      "name": "Kaiseki cooking class in a Gion machiya",
+      "type": "local_flavors",
+      "region": "kyoto",
+      "location": "Gion, Kyoto, Japan",
+      "lat": 35.0037,
+      "lng": 135.7788,
+      "price": 165,
+      "duration": "3.5 hours",
+      "groupSize": "Up to 6 guests, ages 12+",
+      "rating": 4.97,
+      "reviews": 164,
+      "host": {
+        "name": "Akiko",
+        "bio": "Third-generation Kyoto chef trained in kaiseki at a ryotei in Pontocho. Teaches out of her restored 120-year-old machiya townhouse two blocks from Hanamikoji."
+      },
+      "description": "Cook a seven-course seasonal kaiseki menu in a traditional Gion machiya — dashi from scratch, hassun plating, a simmered dish, and matcha wagashi to finish. Eat what you make at a low sunken table overlooking a private garden.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1730277446333-df9ff34ef09b?w=1200&q=80",
+          "alt": "A building with a bunch of plants in front of it"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1610375233612-d6a66ac3af99?w=1200&q=80",
+          "alt": "text"
+        }
+      ]
+    },
+    {
+      "id": "exp-kyoto-002",
+      "name": "Sake tasting at a Fushimi brewery",
+      "type": "local_flavors",
+      "region": "kyoto",
+      "location": "Fushimi, Kyoto, Japan",
+      "lat": 34.9333,
+      "lng": 135.7611,
+      "price": 88,
+      "duration": "2 hours",
+      "groupSize": "Up to 8 guests, ages 20+",
+      "rating": 4.94,
+      "reviews": 212,
+      "host": {
+        "name": "Kenji",
+        "bio": "Fifth-generation toji (master brewer) at a small Fushimi brewery founded in 1868. Certified sake sommelier and educator for the Japan Sake Association."
+      },
+      "description": "Tour a working Fushimi brewery still using traditional koji rooms, then taste seven sakes — from crisp junmai to a barrel-aged koshu — paired with pickles and Kyoto tofu. Kenji walks you through water, rice, and fermentation as you drink.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1768162126092-dee93b79ec20?w=1200&q=80",
+          "alt": "Chef preparing takoyaki at a street food stall."
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1734106239670-0d8a26ab1e89?w=1200&q=80",
+          "alt": "A couple of people standing in front of a store"
+        }
+      ]
+    },
+    {
+      "id": "exp-kyoto-003",
+      "name": "Nishiki Market food tour with a Kyoto native",
+      "type": "local_flavors",
+      "region": "kyoto",
+      "location": "Nakagyo, Kyoto, Japan",
+      "lat": 35.0051,
+      "lng": 135.7644,
+      "price": 78,
+      "duration": "3 hours",
+      "groupSize": "Up to 8 guests",
+      "rating": 4.96,
+      "reviews": 348,
+      "host": {
+        "name": "Yuki",
+        "bio": "Kyoto food writer born two streets from Nishiki. Has shopped at the same tsukemono and dashi stalls since childhood and writes a column on Kyoto home cooking."
+      },
+      "description": "Graze through Nishiki's 400-year-old covered market: yuba straight from the maker, hand-pressed soy milk doughnuts, tako tamago, hamo croquettes, fresh warabi mochi. Ends with matcha and a quiet tea shop off the main lane.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1677061856997-24ff121b1f98?w=1200&q=80",
+          "alt": "a man standing next to another man in a store"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1677061856846-f4ac2f3fc071?w=1200&q=80",
+          "alt": "a man standing in front of a table filled with fish"
+        }
+      ]
+    },
+    {
+      "id": "exp-kyoto-004",
+      "name": "Wagashi workshop with a Higashiyama confectioner",
+      "type": "local_flavors",
+      "region": "kyoto",
+      "location": "Higashiyama, Kyoto, Japan",
+      "lat": 34.9948,
+      "lng": 135.785,
+      "price": 65,
+      "duration": "2 hours",
+      "groupSize": "Up to 6 guests, ages 8+",
+      "rating": 4.92,
+      "reviews": 119,
+      "host": {
+        "name": "Haruka",
+        "bio": "Wagashi artisan who apprenticed seven years at a 300-year-old Kyoto confectionery. Now runs a small studio near Kiyomizu-dera making seasonal sweets for tea houses."
+      },
+      "description": "Shape four seasonal nerikiri — camellia, plum, chrysanthemum, maple leaf — using traditional triangular spatulas and bamboo tools. Learn the symbolism tied to each, then eat them with thick matcha in the tatami tearoom.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1758779527897-bb4097eb0445?w=1200&q=80",
+          "alt": "Two golden fried dumplings on a plate"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1758779527960-777b21adcdea?w=1200&q=80",
+          "alt": "Person using chopsticks to pick up fried food."
+        }
+      ]
+    },
+    {
+      "id": "exp-kyoto-005",
+      "name": "Tea ceremony with a master in Uji",
+      "type": "local_culture",
+      "region": "kyoto",
+      "location": "Uji, Kyoto, Japan",
+      "lat": 34.8847,
+      "lng": 135.7997,
+      "price": 95,
+      "duration": "90 minutes",
+      "groupSize": "Up to 4 guests, ages 10+",
+      "rating": 4.98,
+      "reviews": 142,
+      "host": {
+        "name": "Mariko",
+        "bio": "Urasenke-trained tea master with 25 years of practice. Leads private chanoyu in her family's 1890s teahouse in Uji, the birthplace of Japanese matcha."
+      },
+      "description": "In a small tatami room overlooking a moss garden, Mariko leads a full chanoyu — from the silent whisk of koicha thick tea to sweets sourced from a nearby confectioner. Intimate, unhurried, and conducted mostly in silence.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1760429109678-9801a68e4be4?w=1200&q=80",
+          "alt": "Two people stand before a brightly lit japanese shrine."
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1760429109678-9801a68e4be4?w=1200&q=80",
+          "alt": "Two people stand before a brightly lit japanese shrine."
+        }
+      ]
+    },
+    {
+      "id": "exp-kyoto-006",
+      "name": "Zen meditation and calligraphy with a monk",
+      "type": "local_culture",
+      "region": "kyoto",
+      "location": "Daitoku-ji, Kyoto, Japan",
+      "lat": 35.0435,
+      "lng": 135.7463,
+      "price": 72,
+      "duration": "2.5 hours",
+      "groupSize": "Up to 10 guests, ages 14+",
+      "rating": 4.95,
+      "reviews": 88,
+      "host": {
+        "name": "Ryōshin",
+        "bio": "Ordained Rinzai Zen priest at a Daitoku-ji subtemple. Studied shodō calligraphy under a master in Kyoto for 15 years and leads practice sessions for visitors."
+      },
+      "description": "A 30-minute seated zazen session in a 400-year-old temple hall, followed by a shodō calligraphy practice with sumi ink and bamboo brush. Ends with tea in the rock garden and a Q&A with Ryōshin on monastic life.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1643981083274-0ab1b3131c51?w=1200&q=80",
+          "alt": "a person writing on a piece of paper with a pencil"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1569415097250-f2911a7ad61f?w=1200&q=80",
+          "alt": "person sitting on floor facing at trees during daytime"
+        }
+      ]
+    },
+    {
+      "id": "exp-kyoto-007",
+      "name": "Private kimono styling and Gion stroll",
+      "type": "local_culture",
+      "region": "kyoto",
+      "location": "Gion, Kyoto, Japan",
+      "lat": 35.0037,
+      "lng": 135.7788,
+      "price": 110,
+      "duration": "3 hours",
+      "groupSize": "Up to 4 guests, ages 10+",
+      "rating": 4.93,
+      "reviews": 176,
+      "host": {
+        "name": "Chiyo",
+        "bio": "Kimono stylist trained at a kitsuke school in Kyoto. Sources vintage silk kimonos from estates across western Japan and styles for weddings and editorial shoots."
+      },
+      "description": "Chiyo selects a vintage kimono and obi matched to the season, styles you properly — full kitsuke with nagajuban and tabi — then walks you through Shirakawa's lantern-lit lanes with a tea stop at a quiet machiya.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1614075814002-82399f318dc3?w=1200&q=80",
+          "alt": "woman in white and black floral long sleeve shirt with pink flower headband"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1586434722766-b46308f072ed?w=1200&q=80",
+          "alt": "2 women in kimono standing on sidewalk during daytime"
+        }
+      ]
+    },
+    {
+      "id": "exp-kyoto-008",
+      "name": "Arashiyama bamboo bike ride and river lunch",
+      "type": "get_outside",
+      "region": "kyoto",
+      "location": "Arashiyama, Kyoto, Japan",
+      "lat": 35.0094,
+      "lng": 135.6674,
+      "price": 98,
+      "duration": "Half day",
+      "groupSize": "Up to 6 guests, ages 12+",
+      "rating": 4.91,
+      "reviews": 104,
+      "host": {
+        "name": "Takeshi",
+        "bio": "Former competitive cyclist and certified outdoor guide. Grew up in Saga and knows every back lane between the bamboo grove and the Hozu River."
+      },
+      "description": "Ride quiet farm lanes through Saga-Arano, coast through the bamboo grove before the crowds, and stop at a riverside Tenryu-ji teahouse for tofu lunch overlooking the Hozu. Hybrid bikes and helmets included.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1722294750029-f9f0ba2fb14e?w=1200&q=80",
+          "alt": "A small building on the side of a river"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1731312838108-18527f75fca6?w=1200&q=80",
+          "alt": "A group of people walking across a bridge"
+        }
+      ]
+    },
+    {
+      "id": "exp-kyoto-009",
+      "name": "Kurama to Kibune forest hike and onsen",
+      "type": "get_outside",
+      "region": "kyoto",
+      "location": "Kurama, Kyoto, Japan",
+      "lat": 35.1197,
+      "lng": 135.7705,
+      "price": 85,
+      "duration": "5 hours",
+      "groupSize": "Up to 6 guests, ages 10+",
+      "rating": 4.94,
+      "reviews": 67,
+      "host": {
+        "name": "Hiroshi",
+        "bio": "Mountain guide based in Kyoto's northern villages. Leads small-group forest walks across the Kitayama range and has hiked the Kumano Kodo for 20 years."
+      },
+      "description": "Cedar-lined forest trail from Kurama-dera over the ridge down to Kibune shrine, ending with a private onsen soak at a small inn. Vegetarian shojin bento lunch at the summit included.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1752146507085-629427064390?w=1200&q=80",
+          "alt": "People stroll along a river path with a mountain backdrop."
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1734359180557-51f6e6ea10cc?w=1200&q=80",
+          "alt": "A cemetery with many headstones and trees in the background"
+        }
+      ]
+    },
+    {
+      "id": "exp-kyoto-010",
+      "name": "Fushimi Inari dawn hike with a shrine scholar",
+      "type": "get_outside",
+      "region": "kyoto",
+      "location": "Fushimi, Kyoto, Japan",
+      "lat": 34.9671,
+      "lng": 135.7727,
+      "price": 68,
+      "duration": "3 hours",
+      "groupSize": "Up to 8 guests, ages 8+",
+      "rating": 4.96,
+      "reviews": 193,
+      "host": {
+        "name": "Naomi",
+        "bio": "Shinto scholar and licensed Kyoto guide. Completed graduate work on Inari folk belief at Kyoto University and has climbed the mountain over 400 times."
+      },
+      "description": "Meet at 5:30am and climb the full 4km loop through 10,000 vermilion torii before the first tour buses arrive. Naomi explains the fox mythology, votive stones, and forgotten sub-shrines most visitors walk past.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1710512494696-d899ceb9e945?w=1200&q=80",
+          "alt": "the sun is setting over the mountains in the distance"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1625049578192-201c43fc754b?w=1200&q=80",
+          "alt": "man in black jacket standing on sidewalk during daytime"
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "svc-kyoto-001",
+      "name": "Private kimono photoshoot in Gion",
+      "type": "photography",
+      "region": "kyoto",
+      "location": "Gion, Kyoto, Japan",
+      "lat": 35.0037,
+      "lng": 135.7788,
+      "priceRange": "From $185 / group",
+      "cuisine": "Portrait photography",
+      "rating": 4.97,
+      "reviews": 241,
+      "host": {
+        "name": "Brono",
+        "bio": "Kyoto-based editorial photographer specializing in kimono portraiture. Twelve years shooting weddings and campaigns across Japan; work featured in Kinfolk Japan."
+      },
+      "description": "A 90-minute styled portrait session through Hanamikoji and Shirakawa. Kimono rental, full kitsuke dressing, and hairstyling included. 50 edited photos delivered within a week.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1547647496-1ef40ef62bc4?w=1200&q=80",
+          "alt": "geisha costume"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1593405844957-3854dae97a19?w=1200&q=80",
+          "alt": "woman in black and white floral kimono walking on sidewalk during daytime"
+        }
+      ]
+    },
+    {
+      "id": "svc-kyoto-002",
+      "name": "Hidden Kyoto backstreets photoshoot",
+      "type": "photography",
+      "region": "kyoto",
+      "location": "Nishijin, Kyoto, Japan",
+      "lat": 35.0304,
+      "lng": 135.7516,
+      "priceRange": "$155 / group",
+      "cuisine": "Lifestyle & reportage photography",
+      "rating": 4.95,
+      "reviews": 168,
+      "host": {
+        "name": "Hiroaki Callens",
+        "bio": "Belgian-Japanese photographer working in natural light and film. Based in Kyoto for 15 years; shoots documentary commissions for Japanese craft publications."
+      },
+      "description": "A 2-hour walk-and-shoot through the weaver's district of Nishijin and the side lanes of Kamigyo — away from the tourist routes. Candid portraits in alleys, shrine courtyards, and old sento bathhouses. 40 edited photos delivered.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1720060928323-595c78d09716?w=1200&q=80",
+          "alt": "A car driving down a street next to tall buildings"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1663056323273-d1c7955fd1aa?w=1200&q=80",
+          "alt": "a bicycle parked outside a building"
+        }
+      ]
+    },
+    {
+      "id": "svc-kyoto-003",
+      "name": "Fushimi Inari torii portrait session",
+      "type": "photography",
+      "region": "kyoto",
+      "location": "Fushimi, Kyoto, Japan",
+      "lat": 34.9671,
+      "lng": 135.7727,
+      "priceRange": "$170 / group",
+      "cuisine": "Portrait photography",
+      "rating": 4.94,
+      "reviews": 129,
+      "host": {
+        "name": "Aya",
+        "bio": "Portrait photographer who grew up in Fushimi and knows every quiet stretch of the torii path. Shoots primarily at dawn and blue hour."
+      },
+      "description": "A dawn portrait session inside the vermilion tunnels of Fushimi Inari before the crowds arrive. Includes kimono rental option, 90 minutes of shooting, and 35 edited images. Best for couples and solo travelers.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1681419801930-d21a0c9aef77?w=1200&q=80",
+          "alt": "a man standing in front of a row of orange pillars"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1769921409985-3f7ff9afa534?w=1200&q=80",
+          "alt": "Framed portraits displayed in a window"
+        }
+      ]
+    },
+    {
+      "id": "svc-kyoto-004",
+      "name": "Arashiyama nature photo walk",
+      "type": "photography",
+      "region": "kyoto",
+      "location": "Arashiyama, Kyoto, Japan",
+      "lat": 35.0094,
+      "lng": 135.6674,
+      "priceRange": "$140 / group",
+      "cuisine": "Landscape & portrait photography",
+      "rating": 4.92,
+      "reviews": 96,
+      "host": {
+        "name": "Takumi",
+        "bio": "Landscape photographer based in western Kyoto. Shoots for Japanese travel magazines and runs small workshops on composition and natural light."
+      },
+      "description": "Morning photo walk through the Arashiyama bamboo grove, Tenryu-ji's gardens, and the Togetsukyo bridge. 2 hours of shooting, gentle direction on posing, and 30 edited images delivered in a week.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1740815881912-1d240a44c5fd?w=1200&q=80",
+          "alt": "Boats dock along a river, surrounded by nature."
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1565362458384-9bad71cfc92d?w=1200&q=80",
+          "alt": "photography of river during daytime"
+        }
+      ]
+    },
+    {
+      "id": "svc-kyoto-005",
+      "name": "Private kaiseki tasting by Chef Masaru",
+      "type": "chef",
+      "region": "kyoto",
+      "location": "Higashiyama, Kyoto, Japan",
+      "lat": 34.9948,
+      "lng": 135.785,
+      "priceRange": "From $220 / guest",
+      "cuisine": "Traditional kaiseki",
+      "rating": 4.98,
+      "reviews": 83,
+      "host": {
+        "name": "Masaru",
+        "bio": "Kaiseki chef with 20 years at two-Michelin-star ryotei in Kyoto and Tokyo. Now cooks private omakase dinners in guests' ryokans and machiya rentals."
+      },
+      "description": "A nine-course seasonal kaiseki prepared in your accommodation's kitchen. Seasonal hassun, sashimi from Kyoto Central Market, grilled dish over binchōtan, seasonal rice finale. Sake pairing optional.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1600775081940-f849231d06d6?w=1200&q=80",
+          "alt": "black metal fence near brown concrete building during daytime"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1723382056183-823d065ae8ed?w=1200&q=80",
+          "alt": "A building that has a lot of lights on it"
+        }
+      ]
+    },
+    {
+      "id": "svc-kyoto-006",
+      "name": "Modern plant-forward Japanese dinner by Chef Emi",
+      "type": "chef",
+      "region": "kyoto",
+      "location": "Nakagyo, Kyoto, Japan",
+      "lat": 35.0116,
+      "lng": 135.7681,
+      "priceRange": "From $125 / guest",
+      "cuisine": "Modern Japanese · plant-forward",
+      "rating": 4.94,
+      "reviews": 61,
+      "host": {
+        "name": "Emi",
+        "bio": "Chef trained in shojin cuisine at a Rinzai temple and in modern Japanese kitchens in Copenhagen. Builds menus around Kyoto market vegetables and fermentation."
+      },
+      "description": "A six-course plant-led tasting menu cooked in your home — dashi-cured daikon, charred eggplant with walnut miso, seasonal tempura, koji-aged tofu, yuzu sorbet. Naturally vegan, dairy-free.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1699615171631-9e6d7bd35cd9?w=1200&q=80",
+          "alt": "a person sitting on a bench in front of a forest"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1699615171421-8fd416dcb613?w=1200&q=80",
+          "alt": "a dark room with a red light in the middle of it"
+        }
+      ]
+    },
+    {
+      "id": "svc-kyoto-007",
+      "name": "Private sushi omakase at home with Chef Tanaka",
+      "type": "chef",
+      "region": "kyoto",
+      "location": "Shimogyo, Kyoto, Japan",
+      "lat": 34.9955,
+      "lng": 135.7605,
+      "priceRange": "From $195 / guest",
+      "cuisine": "Edomae sushi",
+      "rating": 4.96,
+      "reviews": 74,
+      "host": {
+        "name": "Tanaka",
+        "bio": "Edomae sushi chef trained in Ginza, now based in Kyoto. Sources fish daily from Kyoto Central Market and ages select cuts using traditional kombu-jime techniques."
+      },
+      "description": "A 15-course omakase prepared at your kitchen counter. Seasonal sashimi, nigiri in classical order, a tamago finish, and miso soup with clams. Sake and tea pairings available.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1677061857063-0cc67bf01f63?w=1200&q=80",
+          "alt": "a chef preparing sushi in a restaurant"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1677061856931-45438e986705?w=1200&q=80",
+          "alt": "a person standing in a kitchen preparing food"
+        }
+      ]
+    },
+    {
+      "id": "svc-kyoto-008",
+      "name": "In-ryokan shiatsu and acupressure",
+      "type": "massage",
+      "region": "kyoto",
+      "location": "Higashiyama, Kyoto, Japan",
+      "lat": 34.9948,
+      "lng": 135.785,
+      "priceRange": "From $135 / session",
+      "cuisine": "Shiatsu & acupressure",
+      "rating": 4.97,
+      "reviews": 152,
+      "host": {
+        "name": "Midori",
+        "bio": "Licensed shiatsu therapist with 15 years of practice. Trained at the Japan Shiatsu College in Tokyo and now works with Kyoto ryokans offering in-room treatments."
+      },
+      "description": "A 75-minute shiatsu and acupressure session in your ryokan room or rental. Uses traditional meridian points and gentle stretches — no oils, practiced over loose clothing. Deeply restorative after long temple days.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1577791812962-da56eb45f0be?w=1200&q=80",
+          "alt": "yellow Chinese text"
+        },
+        {
+          "url": "https://images.unsplash.com/flagged/photo-1565080636132-56952ee2861c?w=1200&q=80",
+          "alt": "woman siting inside room"
+        }
+      ]
+    },
+    {
+      "id": "svc-kyoto-009",
+      "name": "Bridal hair and makeup with kimono styling",
+      "type": "hair_makeup",
+      "region": "kyoto",
+      "location": "Gion, Kyoto, Japan",
+      "lat": 35.0037,
+      "lng": 135.7788,
+      "priceRange": "From $280 / group",
+      "cuisine": "Hair & makeup",
+      "rating": 4.98,
+      "reviews": 117,
+      "host": {
+        "name": "Sakura",
+        "bio": "Bridal stylist specializing in traditional Japanese and Western looks. Assists on Kyoto ryokan weddings and editorial shoots for Japanese bridal magazines."
+      },
+      "description": "On-location hair and makeup for weddings and special events. Includes trial, kitsuke kimono dressing if desired, two looks per person, and a touch-up kit. Specializes in luminous looks that hold through Kyoto's humid summers.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1519779695369-e0c6fcead615?w=1200&q=80",
+          "alt": "Oioi building"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1593405844957-3854dae97a19?w=1200&q=80",
+          "alt": "woman in black and white floral kimono walking on sidewalk during daytime"
+        }
+      ]
+    },
+    {
+      "id": "svc-kyoto-010",
+      "name": "Pontocho night photo walk",
+      "type": "photography",
+      "region": "kyoto",
+      "location": "Pontocho, Kyoto, Japan",
+      "lat": 35.0076,
+      "lng": 135.7714,
+      "priceRange": "$145 / group",
+      "cuisine": "Night & editorial photography",
+      "rating": 4.93,
+      "reviews": 108,
+      "host": {
+        "name": "Daichi",
+        "bio": "Editorial night photographer. Shoots neon and lantern scenes across Japan; contributor to Monocle and Wallpaper* travel features."
+      },
+      "description": "A 2-hour after-dark photo walk through Pontocho's narrow lantern-lit alley and along the Kamogawa river. Blue-hour portraits, neon reflections, and candid street frames. 35 edited images delivered.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1665371424834-690bc3959447?w=1200&q=80",
+          "alt": "a dog walking down a sidewalk"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1750346141354-6c6476607992?w=1200&q=80",
+          "alt": "A narrow, lantern-lit alleyway at night."
+        }
+      ]
+    }
+  ]
+}

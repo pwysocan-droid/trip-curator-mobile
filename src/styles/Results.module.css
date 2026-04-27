@@ -1,0 +1,294 @@
+/* ============================================================
+   Top bar — sticky header
+   ============================================================ */
+
+.topBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--sp-3) var(--sp-4);
+  background: var(--color-surface);
+  border-bottom: 1px solid var(--color-divider);
+  position: sticky;
+  top: 0;
+  z-index: 30;
+}
+
+.backBtn, .shareBtn {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  color: var(--color-text);
+  transition: background 0.15s ease;
+}
+
+.backBtn:hover, .shareBtn:hover {
+  background: var(--color-surface-alt);
+}
+
+.topTitle {
+  font-size: var(--fs-large);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* ============================================================
+   Inspiration block
+   ============================================================ */
+
+.inspiration {
+  padding: var(--sp-5);
+  border-bottom: 1px solid var(--color-divider);
+}
+
+.refImage {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  border-radius: var(--r-lg);
+  overflow: hidden;
+  margin-bottom: var(--sp-5);
+  background: var(--color-surface-alt);
+}
+
+.refImage img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.refLabel {
+  position: absolute;
+  top: var(--sp-3);
+  left: var(--sp-3);
+  background: rgba(255,255,255,0.92);
+  color: var(--color-text);
+  font-size: var(--fs-meta);
+  font-weight: 600;
+  padding: 5px 10px;
+  border-radius: var(--r-pill);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.analysisBlock {
+  margin-bottom: var(--sp-5);
+}
+
+.placeChip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: var(--fs-meta);
+  font-weight: 600;
+  color: var(--color-rausch);
+  padding: 5px 10px;
+  background: var(--color-surface-tint);
+  border-radius: var(--r-pill);
+  margin-bottom: var(--sp-3);
+}
+
+.vibe {
+  font-size: var(--fs-display);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.15;
+  margin-bottom: var(--sp-3);
+  color: var(--color-text);
+}
+
+.detail {
+  font-size: var(--fs-body);
+  color: var(--color-text-secondary);
+  line-height: 1.55;
+  margin-bottom: var(--sp-4);
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.tag {
+  font-size: var(--fs-meta);
+  color: var(--color-text);
+  background: var(--color-surface-alt);
+  border: 1px solid var(--color-divider);
+  padding: 4px 10px;
+  border-radius: var(--r-pill);
+  font-weight: 500;
+}
+
+.stepperWrap { /* sits below analysis */ }
+
+/* ============================================================
+   Compact inspiration — for trip pages 2..N
+   ============================================================ */
+
+.compactInspiration {
+  display: grid;
+  grid-template-columns: 56px 1fr auto;
+  align-items: center;
+  gap: var(--sp-3);
+  padding: var(--sp-3) var(--sp-4);
+  border-bottom: 1px solid var(--color-divider);
+  background: var(--color-surface);
+}
+
+.compactThumb {
+  width: 56px;
+  height: 56px;
+  border-radius: var(--r-md);
+  object-fit: cover;
+  background: var(--color-surface-alt);
+}
+
+.compactText {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.compactPlace {
+  font-size: var(--fs-meta);
+  font-weight: 600;
+  color: var(--color-rausch);
+  letter-spacing: 0.01em;
+}
+
+.compactVibe {
+  font-size: var(--fs-small);
+  font-weight: 600;
+  color: var(--color-text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.compactStepper {
+  /* Stepper renders its own pill — no label in compact mode */
+}
+
+/* ============================================================
+   See another trip
+   ============================================================ */
+
+.nextTripWrap {
+  padding: var(--sp-6) var(--sp-5) var(--sp-3);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  border-top: 1px solid var(--color-divider);
+  margin-top: var(--sp-4);
+}
+
+.nextTripLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 12px 22px;
+  border-radius: var(--r-pill);
+  background: var(--color-text);
+  color: var(--color-surface);
+  font-size: var(--fs-small);
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  text-decoration: none;
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+
+.nextTripLink:hover {
+  background: #000;
+  transform: translateY(-1px);
+}
+
+.nextTripHint {
+  font-size: var(--fs-meta);
+  color: var(--color-text-tertiary);
+}
+
+/* ============================================================
+   Results header
+   ============================================================ */
+
+.resultsHead {
+  padding: var(--sp-6) var(--sp-5) var(--sp-3);
+}
+
+.resultsTitle {
+  font-size: var(--fs-title);
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  margin-bottom: 4px;
+}
+
+.resultsSub {
+  font-size: var(--fs-small);
+  color: var(--color-text-secondary);
+}
+
+/* ============================================================
+   Feed
+   ============================================================ */
+
+.feed {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Skeleton loader */
+.skeleton {
+  padding: var(--sp-5);
+}
+
+.skelHero {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  border-radius: var(--r-md);
+  background: linear-gradient(90deg, var(--color-surface-alt), #EEE, var(--color-surface-alt));
+  background-size: 200% 100%;
+  animation: shimmer 1.4s infinite;
+  margin-bottom: var(--sp-4);
+}
+
+.skelLines {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-2);
+}
+
+.skelLine {
+  height: 14px;
+  border-radius: 4px;
+  background: linear-gradient(90deg, var(--color-surface-alt), #EEE, var(--color-surface-alt));
+  background-size: 200% 100%;
+  animation: shimmer 1.4s infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: 100% 0; }
+  100% { background-position: -100% 0; }
+}
+
+.empty {
+  padding: var(--sp-9) var(--sp-5);
+  text-align: center;
+  color: var(--color-text-secondary);
+}
+
+.emptyBtn {
+  margin-top: var(--sp-4);
+  padding: 10px 20px;
+  border: 1px solid var(--color-text);
+  border-radius: var(--r-sm);
+  font-weight: 600;
+  font-size: var(--fs-small);
+  color: var(--color-text);
+  background: var(--color-surface);
+}

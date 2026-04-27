@@ -1,0 +1,18 @@
+{
+  "regions": [
+    {
+      "id": "provence",
+      "name": "Provence",
+      "country": "France",
+      "file": "airbnb-mock-data.json",
+      "aliases": ["provence-alpes-côte d'azur", "french riviera", "côte d'azur", "luberon", "aix-en-provence", "arles", "avignon", "cannes", "nice", "marseille", "menton"]
+    },
+    {
+      "id": "kyoto",
+      "name": "Kyoto",
+      "country": "Japan",
+      "file": "kyoto.json",
+      "aliases": ["京都", "gion", "higashiyama", "arashiyama", "fushimi", "uji", "kitayama", "pontocho", "nishiki"]
+    }
+  ]
+}
