@@ -65,13 +65,13 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.copy}>
           <p className={styles.line} style={{animationDelay: '200ms'}}>
-            The real world is far more interesting
+            The real world is far more interesting.
           </p>
           <p className={styles.line} style={{animationDelay: '1100ms'}}>
-            than anything you&rsquo;ll find in the metaverse
+            Than anything you&rsquo;ll find in the metaverse.
           </p>
           <p className={styles.line} style={{animationDelay: '2000ms'}}>
-            Upload your image we will take you somewhere real
+            Upload your image we will take you somewhere real.
           </p>
           {error && <p className={styles.error}>{error}</p>}
         </div>
