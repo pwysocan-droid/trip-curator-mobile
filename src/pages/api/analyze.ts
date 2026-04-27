@@ -136,7 +136,7 @@ Return ONLY valid JSON — no explanation, no markdown, no code fences:
 
 {
   "vibe": "<short evocative phrase, anchored to the place if visible text reveals one>",
-  "detail": "<2-3 sentences on aesthetic qualities: light, texture, architecture, mood>",
+  "detail": "<ONE short evocative line — a top-line invitation, not analysis. ~8 to 14 words. No commas. Inspires the trip. Avoid dryly listing aesthetic qualities.>",
   "tags": ["<3-5 lowercase tags like 'sun-baked', 'artisanal', 'coastal', 'village-center'>"],
   "region": "${region.id}",
   "place": "<specific place name from text in image, or null>",

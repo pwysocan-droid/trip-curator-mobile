@@ -101,9 +101,11 @@
 }
 
 .detail {
-  font-size: var(--fs-body);
+  font-size: var(--fs-large);
+  font-weight: 400;
   color: var(--color-text-secondary);
-  line-height: 1.55;
+  line-height: 1.35;
+  letter-spacing: -0.005em;
   margin-bottom: var(--sp-4);
 }
 
