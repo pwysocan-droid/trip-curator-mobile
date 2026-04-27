@@ -58,20 +58,16 @@ export default function Home() {
   return (
     <div className="frame">
 
-      <header className={styles.header}>
-        <h1 className={styles.title}>Explorer trips</h1>
-      </header>
-
       <main className={styles.main}>
         <div className={styles.copy}>
-          <p className={styles.line} style={{animationDelay: '200ms'}}>
-            The real world is far more interesting.
+          <h1 className={styles.headline} style={{animationDelay: '100ms'}}>
+            IRL Generator
+          </h1>
+          <p className={styles.body} style={{animationDelay: '500ms'}}>
+            When AI and influencer content seems too good to be true.
           </p>
-          <p className={styles.line} style={{animationDelay: '1100ms'}}>
-            Than anything you&rsquo;ll find in the metaverse.
-          </p>
-          <p className={styles.line} style={{animationDelay: '2000ms'}}>
-            Upload your image and we will take you somewhere real.
+          <p className={styles.body} style={{animationDelay: '900ms'}}>
+            Upload it here and we&rsquo;ll find Airbnbs that make it true.
           </p>
           {error && <p className={styles.error}>{error}</p>}
         </div>
