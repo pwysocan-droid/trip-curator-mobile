@@ -128,7 +128,15 @@ export default function TripPageV2() {
       {/* Inspiration block — full mosaic on trip 0, condensed on subsequent trips */}
       {isFirstTrip ? (
         <section className={styles.inspiration}>
-          {trip && <ImageMosaic trip={trip} nights={nights} />}
+          {trip && (
+            <ImageMosaic
+              trip={trip}
+              nights={nights}
+              analysisTags={analysis.tags}
+              vibe={analysis.vibe}
+              place={analysis.place}
+            />
+          )}
 
           <div className={styles.analysisBlock}>
             <p className={styles.detail}>{analysis.detail}</p>
