@@ -60,13 +60,13 @@ export default function Home() {
 
       <main className={styles.main}>
         <div className={styles.copy}>
-          <h1 className={styles.headline} style={{animationDelay: '100ms'}}>
+          <h1 className={styles.headline} style={{animationDelay: '200ms'}}>
             IRL Generator
           </h1>
-          <p className={styles.body} style={{animationDelay: '500ms'}}>
+          <p className={styles.body} style={{animationDelay: '800ms'}}>
             When AI and influencer content seems too good to be true.
           </p>
-          <p className={styles.body} style={{animationDelay: '900ms'}}>
+          <p className={styles.body} style={{animationDelay: '1400ms'}}>
             Upload it here and we&rsquo;ll find Airbnbs that make it true.
           </p>
           {error && <p className={styles.error}>{error}</p>}

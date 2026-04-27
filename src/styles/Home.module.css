@@ -24,7 +24,7 @@
   margin: 0 0 var(--sp-4);
   opacity: 0;
   transform: translateY(8px);
-  animation: fadeUp 480ms cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  animation: fadeUp 700ms cubic-bezier(0.22, 1, 0.36, 1) forwards;
 }
 
 .body {
@@ -36,7 +36,7 @@
   margin: 0;
   opacity: 0;
   transform: translateY(8px);
-  animation: fadeUp 480ms cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  animation: fadeUp 700ms cubic-bezier(0.22, 1, 0.36, 1) forwards;
 }
 
 .body + .body {
