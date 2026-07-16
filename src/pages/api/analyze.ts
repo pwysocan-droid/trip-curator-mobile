@@ -308,6 +308,11 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
     const message = await stream.finalMessage()
 
+    const u = message.usage as any
+    console.log(
+      `analyze usage — input: ${u.input_tokens}, cache write: ${u.cache_creation_input_tokens}, cache read: ${u.cache_read_input_tokens}, output: ${u.output_tokens}`,
+    )
+
     if (message.stop_reason === 'refusal') {
       throw new Error('Model declined the request')
     }
