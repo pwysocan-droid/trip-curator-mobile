@@ -21,6 +21,20 @@ export const REGIONS: Region[] = [
     file: 'kyoto.json',
     aliases: ['京都', 'gion', 'higashiyama', 'arashiyama', 'fushimi', 'uji', 'kitayama', 'pontocho', 'nishiki'],
   },
+  {
+    id: 'tuscany',
+    name: 'Tuscany',
+    country: 'Italy',
+    file: 'tuscany.json',
+    aliases: ['toscana', 'chianti', 'florence', 'firenze', 'siena', "val d'orcia", 'san gimignano', 'montepulciano', 'cortona', 'pienza', 'lucca', 'volterra', 'maremma'],
+  },
+  {
+    id: 'marrakech',
+    name: 'Marrakech',
+    country: 'Morocco',
+    file: 'marrakech.json',
+    aliases: ['marrakesh', 'medina', 'jemaa el-fna', 'jemaa el-fnaa', 'majorelle', 'gueliz', 'palmeraie', 'agafay', 'atlas mountains', 'ourika', 'imlil', 'riad', 'souk', 'kasbah'],
+  },
 ]
 
 export const DEFAULT_REGION = 'provence'

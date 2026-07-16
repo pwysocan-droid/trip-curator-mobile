@@ -1,0 +1,2414 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2026-07-15",
+    "regions": ["marrakech"],
+    "totalListings": 30,
+    "note": "Marrakech mock dataset modeled on real Airbnb listings. Images are verified Unsplash URLs."
+  },
+  "stays": [
+    {
+      "id": "stay-marrakech-001",
+      "airbnbId": "riad-yasmina-mouassine",
+      "name": "Riad Yasmina: Courtyard Pool in the Mouassine Medina",
+      "type": "entire_riad",
+      "typeLabel": "Entire riad in Marrakech, Morocco",
+      "region": "marrakech",
+      "location": "Mouassine, Marrakech Medina, Morocco",
+      "lat": 31.6312,
+      "lng": -7.9885,
+      "guests": 6,
+      "bedroomCount": 3,
+      "beds": "3 beds",
+      "bedDetail": "6 guests · 3 bedrooms · 3 beds · 3 baths",
+      "baths": 3,
+      "price": 212,
+      "pricePerNight": 212,
+      "totalForFive": 1060,
+      "currency": "USD",
+      "rating": 4.96,
+      "reviewCount": 187,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Youssef",
+        "isSuperhost": true,
+        "yearsHosting": 9,
+        "totalReviews": 812,
+        "totalRating": 4.94,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": ["English", "French", "Arabic"],
+        "work": "Riad restoration and hospitality",
+        "presence": "A housekeeper and cook are on site daily; Youssef greets every guest at check-in with mint tea on the roof terrace."
+      },
+      "highlights": [
+        {
+          "title": "Top 5% of homes",
+          "detail": "This home is highly ranked based on ratings, reviews, and reliability."
+        },
+        {
+          "title": "Dive right in",
+          "detail": "This is one of the few places in the medina with a private courtyard plunge pool."
+        },
+        {
+          "title": "Greeted at the door",
+          "detail": "A member of the riad team walks you in from the nearest taxi drop-off — no getting lost in the derbs."
+        }
+      ],
+      "description": "A classic 18th-century riad in the Mouassine quarter, restored over three years by local maalems. The central courtyard holds a small turquoise-tiled plunge pool shaded by orange trees, and every salon opens onto it through carved cedar doors. Breakfast of msemen, amlou, and fresh orange juice is served on the roof terrace with Koutoubia views. The Secret Garden and the souks are three minutes on foot.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Courtyard view",
+        "Private plunge pool",
+        "Rooftop terrace",
+        "Daily breakfast included",
+        "Kitchen",
+        "Wifi",
+        "Air conditioning",
+        "Hammam-style shower",
+        "Dedicated workspace",
+        "Housekeeping daily"
+      ],
+      "amenitiesTotal": 47,
+      "safetyNotReported": [
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 2:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 6,
+        "cancellation": "Free cancellation before August 1. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 4.9,
+        "checkin": 5,
+        "communication": 5,
+        "location": 4.9,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Courtyard",
+          "count": 74
+        },
+        {
+          "tag": "Hospitality",
+          "count": 61
+        },
+        {
+          "tag": "Breakfast",
+          "count": 48
+        },
+        {
+          "tag": "Location",
+          "count": 44
+        },
+        {
+          "tag": "Pool",
+          "count": 39
+        },
+        {
+          "tag": "Rooftop",
+          "count": 27
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Sophie",
+          "yearsOnAirbnb": 8,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The riad is even more beautiful than the photos. We spent every afternoon by the courtyard pool after mornings in the souks, and the team's breakfast on the roof was the best meal we had in Marrakech. Youssef arranged everything from airport transfer to a cooking class."
+        },
+        {
+          "author": "Daniel",
+          "yearsOnAirbnb": 11,
+          "date": "May 2026",
+          "context": "Stayed with friends",
+          "rating": 5,
+          "text": "Six of us had the whole riad and it felt like a private hotel. The rooms are gorgeous — carved cedar, zellige everywhere — and it stays remarkably cool and quiet despite being three minutes from the souks."
+        },
+        {
+          "author": "Amira",
+          "yearsOnAirbnb": 5,
+          "date": "March 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Being met at the taxi and walked through the derbs was such a relief on arrival. The plunge pool is small but genuinely swimmable and the orange trees smell incredible in spring."
+        },
+        {
+          "author": "Tom",
+          "yearsOnAirbnb": 9,
+          "date": "January 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "One of the best places I have stayed anywhere. The courtyard at night with the lanterns lit is unforgettable. Book the in-riad dinner at least once — the tagine was superb."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2027-01-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1719084198651-5ac167cb3e6e?w=1200&q=80",
+          "alt": "Guests around a tiled courtyard pool inside a Moroccan riad"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1539020140153-e479b8c22e70?w=1200&q=80",
+          "alt": "Decorative fountain in the middle of a riad courtyard"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1775663472406-c3a809895ef6?w=1200&q=80",
+          "alt": "Ornate wooden door opening to a tiled hallway"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1505576391880-b3f9d713dc4f?w=1200&q=80",
+          "alt": "Moroccan sitting room with planters and a patterned rug"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1760681555321-f0e05f50410c?w=1200&q=80",
+          "alt": "Intricate geometric zellige mosaic tile pattern"
+        }
+      ]
+    },
+    {
+      "id": "stay-marrakech-002",
+      "airbnbId": "dar-el-fna-terrace",
+      "name": "Dar El Fna: Historic House Steps from Jemaa el-Fnaa",
+      "type": "entire_home",
+      "typeLabel": "Entire home in Marrakech, Morocco",
+      "region": "marrakech",
+      "location": "Jemaa el-Fnaa, Marrakech Medina, Morocco",
+      "lat": 31.6265,
+      "lng": -7.988,
+      "guests": 4,
+      "bedroomCount": 2,
+      "beds": "2 beds",
+      "bedDetail": "4 guests · 2 bedrooms · 2 beds · 2 baths",
+      "baths": 2,
+      "price": 138,
+      "pricePerNight": 138,
+      "totalForFive": 690,
+      "currency": "USD",
+      "rating": 4.88,
+      "reviewCount": 231,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Fatima-Zahra",
+        "isSuperhost": true,
+        "yearsHosting": 7,
+        "totalReviews": 604,
+        "totalRating": 4.87,
+        "responseRate": "99%",
+        "responseTime": "within an hour",
+        "languages": ["English", "French", "Arabic", "Spanish"],
+        "work": "Family-run guesthouses in the old medina",
+        "presence": "My brother Mehdi manages check-in and can arrange guides, drivers, and restaurant bookings."
+      },
+      "highlights": [
+        {
+          "title": "The square on your doorstep",
+          "detail": "Two minutes on foot from Jemaa el-Fnaa, yet tucked down a quiet dead-end derb."
+        },
+        {
+          "title": "Cool marble salon",
+          "detail": "Columned ground-floor salon with a checkerboard marble floor stays cool through the summer."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the lockbox after Mehdi's welcome call."
+        }
+      ],
+      "description": "A traditional family dar a short walk from Jemaa el-Fnaa, on a quiet cul-de-sac derb that shuts out the noise of the square. The ground floor keeps its original columned salon with checkerboard marble, and the small dipping pool in the light well is a lifesaver in August. At night, climb to the terrace to hear the drummers on the square and watch the smoke rise from the food stalls.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Roof terrace with square views",
+        "Dipping pool",
+        "Kitchen",
+        "Wifi",
+        "Air conditioning",
+        "Washer",
+        "Tadelakt bathrooms",
+        "Board games and guidebooks",
+        "Baby cot on request",
+        "Long-stay discounts"
+      ],
+      "amenitiesTotal": 36,
+      "safetyNotReported": [
+        "Smoke alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 4,
+        "cancellation": "Free cancellation for 48 hours. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.9,
+        "accuracy": 4.8,
+        "checkin": 4.9,
+        "communication": 5,
+        "location": 5,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Location",
+          "count": 128
+        },
+        {
+          "tag": "Rooftop",
+          "count": 54
+        },
+        {
+          "tag": "Value",
+          "count": 41
+        },
+        {
+          "tag": "Hospitality",
+          "count": 38
+        },
+        {
+          "tag": "Quiet",
+          "count": 26
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Lucas",
+          "yearsOnAirbnb": 6,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "You cannot beat this location. We watched the square come alive every evening from the terrace and were asleep in silence ten minutes later. Mehdi's restaurant tips were all winners."
+        },
+        {
+          "author": "Ingrid",
+          "yearsOnAirbnb": 12,
+          "date": "April 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The marble salon downstairs is stunning and genuinely cool even at midday. The house is old and full of character — expect steep riad stairs — and we loved it."
+        },
+        {
+          "author": "Karim",
+          "yearsOnAirbnb": 4,
+          "date": "February 2026",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "Perfect base with children: close to everything, the little pool was a hit, and the dead-end alley meant no scooters. Fatima-Zahra checked in on us throughout."
+        },
+        {
+          "author": "Hannah",
+          "yearsOnAirbnb": 7,
+          "date": "December 2025",
+          "context": "Stayed a few nights",
+          "rating": 4,
+          "text": "Beautiful, atmospheric house in an unbeatable spot. Wifi dropped a couple of times on the terrace but was fine indoors. Would happily return."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2027-01-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1495885531856-008baf2cbaac?w=1200&q=80",
+          "alt": "Man walking past a courtyard swimming pool"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1708823082070-e778942c48b8?w=1200&q=80",
+          "alt": "Columned salon with a checkered marble floor"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1505577058444-a3dab90d4253?w=1200&q=80",
+          "alt": "Round wooden table with two leather ottomans in a Moroccan salon"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1579283135011-0974a412341a?w=1200&q=80",
+          "alt": "Crowds gathering on Jemaa el-Fnaa square at dusk"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1561642769-1bca263542e0?w=1200&q=80",
+          "alt": "Marrakech city lights at night"
+        }
+      ]
+    },
+    {
+      "id": "stay-marrakech-003",
+      "airbnbId": "villa-palmeraie-des-oliviers",
+      "name": "Villa des Oliviers: Palmeraie Estate with Heated Pool",
+      "type": "entire_villa",
+      "typeLabel": "Entire villa in Marrakech, Morocco",
+      "region": "marrakech",
+      "location": "La Palmeraie, Marrakech, Morocco",
+      "lat": 31.6787,
+      "lng": -7.9601,
+      "guests": 10,
+      "bedroomCount": 5,
+      "beds": "6 beds",
+      "bedDetail": "10 guests · 5 bedrooms · 6 beds · 5 baths",
+      "baths": 5,
+      "price": 468,
+      "pricePerNight": 468,
+      "totalForFive": 2340,
+      "currency": "USD",
+      "rating": 4.93,
+      "reviewCount": 96,
+      "isGuestFavorite": true,
+      "topPercent": 10,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Leïla",
+        "isSuperhost": true,
+        "yearsHosting": 8,
+        "totalReviews": 342,
+        "totalRating": 4.92,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": ["English", "French", "Arabic"],
+        "work": "Interior designer",
+        "presence": "A full staff — cook, gardener, and house manager — is included; Leïla plans menus with guests before arrival."
+      },
+      "highlights": [
+        {
+          "title": "Staffed villa",
+          "detail": "Cook, gardener, and house manager included in the rate; in-villa dinners on request."
+        },
+        {
+          "title": "Heated pool in an olive garden",
+          "detail": "Seventeen-meter pool surrounded by centenary olive trees and palms."
+        },
+        {
+          "title": "Free parking on premises",
+          "detail": "Gated estate with room for three cars; 20 minutes to the medina."
+        }
+      ],
+      "description": "A pisé-walled estate deep in the Palmeraie, set in two hectares of olive trees, palms, and bougainvillea. Five en-suite bedrooms open onto shaded loggias, and the 17-meter heated pool looks toward the Atlas on clear mornings. Rachida's kitchen — from Friday couscous to poolside kefta — is reason enough to stay in for dinner. Quiet, green, and a world away from the medina, which is a 20-minute drive.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 4",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 5",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Garden view",
+        "Atlas mountain view",
+        "Private heated pool",
+        "Daily housekeeping and cook",
+        "Kitchen",
+        "Wifi",
+        "Air conditioning",
+        "Free parking on premises",
+        "Outdoor dining pavilion",
+        "Pétanque court"
+      ],
+      "amenitiesTotal": 63,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 10,
+        "cancellation": "Free cancellation before August 15. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 4.9,
+        "checkin": 5,
+        "communication": 5,
+        "location": 4.8,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Pool",
+          "count": 52
+        },
+        {
+          "tag": "Staff",
+          "count": 47
+        },
+        {
+          "tag": "Food",
+          "count": 39
+        },
+        {
+          "tag": "Garden",
+          "count": 33
+        },
+        {
+          "tag": "Family",
+          "count": 24
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Charlotte",
+          "yearsOnAirbnb": 10,
+          "date": "June 2026",
+          "context": "Stayed with family",
+          "rating": 5,
+          "text": "Three generations of our family stayed a week and nobody wanted to leave. Rachida's cooking was extraordinary, the pool was warm even in the evenings, and the garden is full of birdsong."
+        },
+        {
+          "author": "James",
+          "yearsOnAirbnb": 13,
+          "date": "April 2026",
+          "context": "Stayed with friends",
+          "rating": 5,
+          "text": "Flawless. The house manager arranged drivers into the medina whenever we wanted, and coming back to a quiet olive grove after the souks was the perfect rhythm."
+        },
+        {
+          "author": "Nour",
+          "yearsOnAirbnb": 5,
+          "date": "March 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Leïla's design taste is impeccable — every room is calm and beautiful. Sunset by the pool with the Atlas in the distance is something I will not forget."
+        },
+        {
+          "author": "Oliver",
+          "yearsOnAirbnb": 8,
+          "date": "January 2026",
+          "context": "Stayed with family",
+          "rating": 4,
+          "text": "Wonderful villa and staff. You do need a car or drivers for everything, which we knew going in. Dinners at the villa beat most restaurants we tried in town."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2027-02-28"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1708804654353-7ef66cba7776?w=1200&q=80",
+          "alt": "Large swimming pool with lounge chairs around it"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1565020244281-fe53df7df170?w=1200&q=80",
+          "alt": "Villa swimming pool in bright sunlight"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1624804821465-5c7c80f99bd1?w=1200&q=80",
+          "alt": "White villa facade behind green palm trees"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1544234674-d099c6efdb0d?w=1200&q=80",
+          "alt": "Light-filled living room with layered textiles"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1546936703-c36c420d4e5c?w=1200&q=80",
+          "alt": "Earthen kasbah walls rising behind palm trees"
+        }
+      ]
+    },
+    {
+      "id": "stay-marrakech-004",
+      "airbnbId": "gueliz-artdeco-apartment",
+      "name": "Sunny Art-Deco Apartment with Balcony in Gueliz",
+      "type": "entire_rental_unit",
+      "typeLabel": "Entire rental unit in Marrakech, Morocco",
+      "region": "marrakech",
+      "location": "Gueliz, Marrakech, Morocco",
+      "lat": 31.6367,
+      "lng": -8.01,
+      "guests": 3,
+      "bedroomCount": 1,
+      "beds": "2 beds",
+      "bedDetail": "3 guests · 1 bedroom · 2 beds · 1 bath",
+      "baths": 1,
+      "price": 72,
+      "pricePerNight": 72,
+      "totalForFive": 360,
+      "currency": "USD",
+      "rating": 4.85,
+      "reviewCount": 143,
+      "isGuestFavorite": false,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Amine",
+        "isSuperhost": false,
+        "yearsHosting": 4,
+        "totalReviews": 265,
+        "totalRating": 4.83,
+        "responseRate": "98%",
+        "responseTime": "within a few hours",
+        "languages": ["English", "French", "Arabic"],
+        "work": "Architect at a Gueliz studio",
+        "presence": "Self check-in with a smart lock; I live two streets away and can drop by if anything is needed."
+      },
+      "highlights": [
+        {
+          "title": "New-town convenience",
+          "detail": "Cafés, galleries, and the Carré Eden supermarket are all under five minutes on foot."
+        },
+        {
+          "title": "Art-deco bones",
+          "detail": "1930s building with original terrazzo floors and a wraparound balcony over Rue de la Liberté."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the smart lock."
+        }
+      ],
+      "description": "A bright one-bedroom in a 1930s art-deco block in the heart of Gueliz, Marrakech's new town. Original terrazzo floors, rattan furniture, and a balcony made for morning coffee above the jacaranda trees. Majorelle Garden is a 15-minute walk, the medina a 10-minute taxi. Ideal for travelers who want café life and gallery-hopping alongside the souks.",
+      "bedrooms": [
+        {
+          "name": "Bedroom",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Living room",
+          "beds": "1 sofa bed"
+        }
+      ],
+      "amenities": [
+        "City view",
+        "Balcony",
+        "Kitchen",
+        "Wifi",
+        "Air conditioning",
+        "Washer",
+        "Elevator",
+        "Smart TV",
+        "Dedicated workspace",
+        "Espresso machine"
+      ],
+      "amenitiesTotal": 31,
+      "safetyNotReported": [
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 3,
+        "cancellation": "Free cancellation for 48 hours. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.8,
+        "accuracy": 4.9,
+        "checkin": 4.9,
+        "communication": 4.8,
+        "location": 4.9,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Location",
+          "count": 67
+        },
+        {
+          "tag": "Value",
+          "count": 43
+        },
+        {
+          "tag": "Balcony",
+          "count": 29
+        },
+        {
+          "tag": "Cafés nearby",
+          "count": 22
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Elena",
+          "yearsOnAirbnb": 7,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Exactly what we wanted — a calm, stylish base in the new town. Walking to Majorelle before the crowds was easy, and the balcony breakfast spot is lovely."
+        },
+        {
+          "author": "Mark",
+          "yearsOnAirbnb": 9,
+          "date": "March 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Great value and a genuinely charming building. Amine's café list for Gueliz was excellent. Taxis to the medina were cheap and quick."
+        },
+        {
+          "author": "Salma",
+          "yearsOnAirbnb": 3,
+          "date": "February 2026",
+          "context": "Stayed a few nights",
+          "rating": 4,
+          "text": "Comfortable and spotless. Some street noise in the early evening, as you would expect in Gueliz, but quiet by night. Would stay again."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2027-01-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1527776702328-f127392d764f?w=1200&q=80",
+          "alt": "Bright white apartment interior with wooden accents"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1527781277828-b91cf323503a?w=1200&q=80",
+          "alt": "Leather sofa with a wooden frame in a sunlit room"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1527777044900-577d9862e3bc?w=1200&q=80",
+          "alt": "Wooden dining set on a sunny terrace"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1599859725763-4a16c9468890?w=1200&q=80",
+          "alt": "Green palm tree beside a white and blue building"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1591826855906-74fad3654cee?w=1200&q=80",
+          "alt": "People sitting on wooden café chairs in the sun"
+        }
+      ]
+    },
+    {
+      "id": "stay-marrakech-005",
+      "airbnbId": "dar-zitoun-bahia",
+      "name": "Dar Zitoun: Restored Dar by the Bahia Palace",
+      "type": "entire_home",
+      "typeLabel": "Entire home in Marrakech, Morocco",
+      "region": "marrakech",
+      "location": "Riad Zitoun Jdid, Marrakech Medina, Morocco",
+      "lat": 31.6214,
+      "lng": -7.9829,
+      "guests": 5,
+      "bedroomCount": 3,
+      "beds": "4 beds",
+      "bedDetail": "5 guests · 3 bedrooms · 4 beds · 2 baths",
+      "baths": 2,
+      "price": 126,
+      "pricePerNight": 126,
+      "totalForFive": 630,
+      "currency": "USD",
+      "rating": 4.94,
+      "reviewCount": 118,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Rachid",
+        "isSuperhost": true,
+        "yearsHosting": 6,
+        "totalReviews": 388,
+        "totalRating": 4.93,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": ["English", "French", "Arabic"],
+        "work": "Carpenter and heritage restorer",
+        "presence": "I restored the cedar ceilings and doors myself; I am usually nearby and happy to share the house's story."
+      },
+      "highlights": [
+        {
+          "title": "Palace quarter",
+          "detail": "Bahia Palace, Dar Si Said, and the Mellah spice market are all within a five-minute walk."
+        },
+        {
+          "title": "Craftsman's restoration",
+          "detail": "Hand-painted cedar ceilings and zellige restored by the host, a working maalem."
+        },
+        {
+          "title": "Quiet double-patio layout",
+          "detail": "Two internal patios keep the bedrooms silent and full of light."
+        }
+      ],
+      "description": "A patient, craftsman-led restoration of a family dar in the palace quarter, between the Bahia Palace and the Mellah. Rachid rebuilt the painted cedar ceilings and cut the zellige panels in his own workshop. Two small patios — one with a fig tree, one with a fountain — bring light into every room. The Saadian Tombs and the spice souk of the Mellah are minutes away on foot.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 double bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Patio views",
+        "Courtyard fountain",
+        "Roof terrace",
+        "Kitchen",
+        "Wifi",
+        "Air conditioning",
+        "Washer",
+        "Tadelakt bathrooms",
+        "Hand-painted cedar ceilings",
+        "Welcome mint tea and pastries"
+      ],
+      "amenitiesTotal": 34,
+      "safetyNotReported": [
+        "Smoke alarm",
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 2:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 5,
+        "cancellation": "Free cancellation before August 1. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 4.9,
+        "checkin": 4.9,
+        "communication": 5,
+        "location": 4.9,
+        "value": 5
+      },
+      "reviewMentions": [
+        {
+          "tag": "Craftsmanship",
+          "count": 51
+        },
+        {
+          "tag": "Location",
+          "count": 47
+        },
+        {
+          "tag": "Host",
+          "count": 40
+        },
+        {
+          "tag": "Value",
+          "count": 31
+        },
+        {
+          "tag": "Quiet",
+          "count": 25
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Isabelle",
+          "yearsOnAirbnb": 10,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Staying in a house restored by the craftsman himself is something special. Rachid walked us through every ceiling and door — the detail is museum-quality. Perfect location for the palaces."
+        },
+        {
+          "author": "Ben",
+          "yearsOnAirbnb": 6,
+          "date": "April 2026",
+          "context": "Stayed with family",
+          "rating": 5,
+          "text": "Our kids loved the fig-tree patio and we loved how quiet the bedrooms were. Bahia Palace before opening crowds was a two-minute stroll."
+        },
+        {
+          "author": "Chiara",
+          "yearsOnAirbnb": 8,
+          "date": "February 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Extraordinary value for this level of beauty. The fountain patio at breakfast, the painted ceilings at night — it is a privilege to stay here."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2027-01-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1531230689007-0b32d7a7c33e?w=1200&q=80",
+          "alt": "Person standing at the opened carved door of a Moroccan house"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1517574394752-94986fc2c084?w=1200&q=80",
+          "alt": "Brown and white horseshoe arches in a courtyard"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1552573033-b7bb437bf953?w=1200&q=80",
+          "alt": "Green potted plant beside a traditional doorway"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1570136608977-2bed9d8c3a8f?w=1200&q=80",
+          "alt": "People passing through an arched medina passage"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1762537628452-1ba35ae454e4?w=1200&q=80",
+          "alt": "Colorful geometric mosaic tile pattern"
+        }
+      ]
+    },
+    {
+      "id": "stay-marrakech-006",
+      "airbnbId": "agafay-luxury-camp-nomade",
+      "name": "Agafay Desert Lodge Tent with Atlas Views",
+      "type": "tent",
+      "typeLabel": "Luxury tent in Agafay, Morocco",
+      "region": "marrakech",
+      "location": "Agafay Desert, Marrakech Province, Morocco",
+      "lat": 31.4362,
+      "lng": -8.1517,
+      "guests": 2,
+      "bedroomCount": 1,
+      "beds": "1 bed",
+      "bedDetail": "2 guests · 1 bedroom · 1 bed · 1 bath",
+      "baths": 1,
+      "price": 258,
+      "pricePerNight": 258,
+      "totalForFive": 1290,
+      "currency": "USD",
+      "rating": 4.9,
+      "reviewCount": 74,
+      "isGuestFavorite": true,
+      "topPercent": 10,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Hassan",
+        "isSuperhost": true,
+        "yearsHosting": 5,
+        "totalReviews": 210,
+        "totalRating": 4.89,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": ["English", "French", "Arabic", "Tamazight"],
+        "work": "Founder of a small eco-camp in the Agafay",
+        "presence": "Our Berber team lives at the camp; dinners are cooked over fire and every stay includes a sunset camel walk."
+      },
+      "highlights": [
+        {
+          "title": "Desert one hour from town",
+          "detail": "The stone desert of Agafay is a 60-minute drive from the medina — no long Sahara transfer needed."
+        },
+        {
+          "title": "Dinner under the stars",
+          "detail": "Three-course Berber dinner by the fire pit and breakfast at sunrise are included."
+        },
+        {
+          "title": "Off-grid, thoughtfully",
+          "detail": "Solar power, private bathroom with hot water, and zero light pollution for stargazing."
+        }
+      ],
+      "description": "A private lodge tent in a small eco-camp on a ridge of the Agafay, Marrakech's moonscape stone desert. Inside: a proper king bed, Berber rugs, and an en-suite bathroom with hot water; outside, a private terrace facing the snow lines of the Atlas. Days end with a camel walk to the sunset dune, dinner by the fire, and a sky thick with stars. The medina is an hour away, but it will feel like another planet.",
+      "bedrooms": [
+        {
+          "name": "Tent suite",
+          "beds": "1 king bed"
+        }
+      ],
+      "amenities": [
+        "Desert and Atlas views",
+        "Private terrace",
+        "En-suite bathroom with hot water",
+        "Dinner and breakfast included",
+        "Sunset camel walk included",
+        "Fire pit",
+        "Solar power",
+        "Heated blankets in winter",
+        "Free parking at camp",
+        "Airport transfer on request"
+      ],
+      "amenitiesTotal": 22,
+      "safetyNotReported": [
+        "Smoke alarm",
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 10:30 AM",
+        "maxGuests": 2,
+        "cancellation": "Free cancellation before August 10. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.9,
+        "accuracy": 4.8,
+        "checkin": 4.9,
+        "communication": 5,
+        "location": 5,
+        "value": 4.8
+      },
+      "reviewMentions": [
+        {
+          "tag": "Stargazing",
+          "count": 44
+        },
+        {
+          "tag": "Dinner",
+          "count": 37
+        },
+        {
+          "tag": "Sunset",
+          "count": 33
+        },
+        {
+          "tag": "Staff",
+          "count": 28
+        },
+        {
+          "tag": "Peaceful",
+          "count": 21
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Priya",
+          "yearsOnAirbnb": 9,
+          "date": "April 2026",
+          "context": "Stayed one night",
+          "rating": 5,
+          "text": "The single best night of our Morocco trip. Dinner by the fire, drumming, then total silence and the Milky Way. The tent is genuinely luxurious — hot shower and the most comfortable bed."
+        },
+        {
+          "author": "Stefan",
+          "yearsOnAirbnb": 7,
+          "date": "March 2026",
+          "context": "Stayed one night",
+          "rating": 5,
+          "text": "We almost skipped the desert because we didn't have time for the Sahara. So glad we found this — one hour from Marrakech and completely otherworldly. The sunset camel walk was beautiful, not touristy."
+        },
+        {
+          "author": "Aya",
+          "yearsOnAirbnb": 4,
+          "date": "January 2026",
+          "context": "Stayed one night",
+          "rating": 5,
+          "text": "Cold January night, warm blankets, hot tagine, endless stars. Hassan's team could not have been kinder."
+        },
+        {
+          "author": "George",
+          "yearsOnAirbnb": 12,
+          "date": "November 2025",
+          "context": "Stayed one night",
+          "rating": 4,
+          "text": "Magical experience. The track in is rough for the last twenty minutes — take their driver rather than a rental car. Otherwise perfect."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-09-01",
+        "endDate": "2027-04-30"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1677836157562-5e24481b6b69?w=1200&q=80",
+          "alt": "Lodge tent set up on open desert ground"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1613169620329-6785c004d900?w=1200&q=80",
+          "alt": "White and brown tent under a starry night sky"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1592172578991-51bac865e437?w=1200&q=80",
+          "alt": "Man in a yellow robe seated on desert sand"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1580820940344-ef6a03a3147b?w=1200&q=80",
+          "alt": "Pale desert landscape under a blue sky"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1578010505119-50ce76b771a0?w=1200&q=80",
+          "alt": "Person standing in the desert at night under the stars"
+        }
+      ]
+    },
+    {
+      "id": "stay-marrakech-007",
+      "airbnbId": "ourika-riverside-lodge",
+      "name": "Ourika Valley Riverside Lodge with Mountain Terrace",
+      "type": "entire_home",
+      "typeLabel": "Entire home in Ourika, Morocco",
+      "region": "marrakech",
+      "location": "Ourika Valley, Al Haouz, Morocco",
+      "lat": 31.3705,
+      "lng": -7.7862,
+      "guests": 6,
+      "bedroomCount": 3,
+      "beds": "4 beds",
+      "bedDetail": "6 guests · 3 bedrooms · 4 beds · 2 baths",
+      "baths": 2,
+      "price": 121,
+      "pricePerNight": 121,
+      "totalForFive": 605,
+      "currency": "USD",
+      "rating": 4.89,
+      "reviewCount": 87,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Khadija",
+        "isSuperhost": true,
+        "yearsHosting": 6,
+        "totalReviews": 194,
+        "totalRating": 4.9,
+        "responseRate": "100%",
+        "responseTime": "within a few hours",
+        "languages": ["English", "French", "Arabic", "Tamazight"],
+        "work": "Runs a women's argan cooperative in the valley",
+        "presence": "My family lives next door; we bring fresh bread and can cook dinner on request."
+      },
+      "highlights": [
+        {
+          "title": "River at the garden gate",
+          "detail": "The Ourika river runs directly below the terrace — fall asleep to the water."
+        },
+        {
+          "title": "Cool mountain air",
+          "detail": "Ten degrees cooler than Marrakech in summer, 45 minutes from the city."
+        },
+        {
+          "title": "Home cooking",
+          "detail": "Khadija's family cooks valley tagines and fresh bread on request."
+        }
+      ],
+      "description": "A stone-and-pisé lodge on the banks of the Ourika river, 45 minutes from Marrakech and ten degrees cooler in summer. The terrace hangs over the water with the High Atlas rising behind walnut and cherry orchards. Hike to the Setti Fatma waterfalls, visit Khadija's argan cooperative, or do nothing at all with a pot of mint tea and the sound of the river.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 double bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Mountain view",
+        "Riverside terrace",
+        "Garden",
+        "Fireplace",
+        "Kitchen",
+        "Wifi",
+        "Free parking on premises",
+        "Home-cooked meals on request",
+        "Hammocks in the orchard",
+        "Guided hikes can be arranged"
+      ],
+      "amenitiesTotal": 28,
+      "safetyNotReported": [
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 2:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 6,
+        "cancellation": "Free cancellation for 48 hours. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.8,
+        "accuracy": 4.9,
+        "checkin": 4.9,
+        "communication": 5,
+        "location": 4.9,
+        "value": 5
+      },
+      "reviewMentions": [
+        {
+          "tag": "River",
+          "count": 49
+        },
+        {
+          "tag": "Mountain views",
+          "count": 41
+        },
+        {
+          "tag": "Food",
+          "count": 32
+        },
+        {
+          "tag": "Hospitality",
+          "count": 30
+        },
+        {
+          "tag": "Peaceful",
+          "count": 23
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Mathilde",
+          "yearsOnAirbnb": 8,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Escaping the June heat of Marrakech to this terrace above the river was heaven. Khadija's mother's couscous is the best meal we ate in Morocco, no contest."
+        },
+        {
+          "author": "David",
+          "yearsOnAirbnb": 11,
+          "date": "April 2026",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "Kids paddled in the river, we drank tea in the hammocks, and the waterfall hike from Setti Fatma was a highlight. Very easy 45-minute drive from the city."
+        },
+        {
+          "author": "Rania",
+          "yearsOnAirbnb": 5,
+          "date": "March 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The sound of the river all night is the best sleep aid there is. Visiting the argan cooperative was fascinating — go with Khadija if she offers."
+        },
+        {
+          "author": "Peter",
+          "yearsOnAirbnb": 6,
+          "date": "February 2026",
+          "context": "Stayed a few nights",
+          "rating": 4,
+          "text": "Rustic in the best way — thick blankets, fireplace lit for us each evening. Wifi is valley wifi; plan accordingly and enjoy the disconnection."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2027-01-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1534003085889-5e1870403fdc?w=1200&q=80",
+          "alt": "Earthen houses surrounded by green trees in a mountain valley"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1560789590-ee4cc7125967?w=1200&q=80",
+          "alt": "Man with a horse in a green field looking toward the mountains"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1597662786834-8eea85ad4841?w=1200&q=80",
+          "alt": "Stone building near a snow-covered Atlas peak"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1661164358039-d4391fcc96d5?w=1200&q=80",
+          "alt": "Snow-dusted High Atlas mountain range"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1593535988128-7214bc2cbedc?w=1200&q=80",
+          "alt": "Herd of sheep grazing on a green mountain pasture"
+        }
+      ]
+    },
+    {
+      "id": "stay-marrakech-008",
+      "airbnbId": "imlil-toubkal-ecolodge",
+      "name": "Imlil Eco-Lodge: Toubkal Views and Walnut Groves",
+      "type": "entire_home",
+      "typeLabel": "Entire home in Imlil, Morocco",
+      "region": "marrakech",
+      "location": "Imlil, High Atlas, Morocco",
+      "lat": 31.1369,
+      "lng": -7.9199,
+      "guests": 4,
+      "bedroomCount": 2,
+      "beds": "3 beds",
+      "bedDetail": "4 guests · 2 bedrooms · 3 beds · 1 bath",
+      "baths": 1,
+      "price": 86,
+      "pricePerNight": 86,
+      "totalForFive": 430,
+      "currency": "USD",
+      "rating": 4.92,
+      "reviewCount": 102,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Brahim",
+        "isSuperhost": true,
+        "yearsHosting": 7,
+        "totalReviews": 276,
+        "totalRating": 4.91,
+        "responseRate": "99%",
+        "responseTime": "within a few hours",
+        "languages": ["English", "French", "Arabic", "Tamazight"],
+        "work": "Certified mountain guide, born in Imlil",
+        "presence": "I grew up in this valley and guide Toubkal treks; my family runs the lodge while I am on the mountain."
+      },
+      "highlights": [
+        {
+          "title": "Trailhead location",
+          "detail": "The classic Toubkal route and the Tizi n'Tamatert day hike both start at the door."
+        },
+        {
+          "title": "Hosted by a mountain guide",
+          "detail": "Brahim arranges mules, permits, and guided summits at honest local rates."
+        },
+        {
+          "title": "Terrace above the walnut groves",
+          "detail": "Sunset light on Jbel Toubkal from the rooftop, tea in hand."
+        }
+      ],
+      "description": "A simple, warm stone lodge at 1,740 meters in Imlil, the trekking village at the foot of Jbel Toubkal, North Africa's highest peak. Wood stoves, thick Berber blankets, and a rooftop terrace looking straight up the valley to the summit snows. Brahim — a certified guide born here — arranges everything from gentle village walks among the walnut groves to two-day Toubkal ascents.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 double bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Toubkal summit view",
+        "Rooftop terrace",
+        "Wood stove",
+        "Kitchen",
+        "Wifi",
+        "Hot showers (solar)",
+        "Trekking gear storage",
+        "Breakfast included",
+        "Guided treks arranged",
+        "Free parking in the village lot"
+      ],
+      "amenitiesTotal": 19,
+      "safetyNotReported": [
+        "Smoke alarm",
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 1:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 4,
+        "cancellation": "Free cancellation for 48 hours. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.8,
+        "accuracy": 4.9,
+        "checkin": 4.9,
+        "communication": 5,
+        "location": 5,
+        "value": 5
+      },
+      "reviewMentions": [
+        {
+          "tag": "Views",
+          "count": 58
+        },
+        {
+          "tag": "Trekking",
+          "count": 52
+        },
+        {
+          "tag": "Host",
+          "count": 45
+        },
+        {
+          "tag": "Breakfast",
+          "count": 26
+        },
+        {
+          "tag": "Value",
+          "count": 24
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Jonas",
+          "yearsOnAirbnb": 9,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Brahim organized our Toubkal summit flawlessly — mules, refuge booking, everything. Coming back to the wood stove and his mother's harira was the perfect end to the climb."
+        },
+        {
+          "author": "Alice",
+          "yearsOnAirbnb": 6,
+          "date": "April 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "You don't need to be a climber to love this place. We did easy walks through the walnut groves and villages, and the terrace view of the snowy summit is constant magic."
+        },
+        {
+          "author": "Miguel",
+          "yearsOnAirbnb": 4,
+          "date": "March 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Honest, warm, and spectacularly located. Cold nights but the blankets and stove more than cope. Best 86 dollars a night in Morocco."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2027-05-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1517226953505-3958598a3fb9?w=1200&q=80",
+          "alt": "Berber village houses stacked on a brown hillside"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1517227062101-68105352ffc7?w=1200&q=80",
+          "alt": "Villages perched on the edge of an Atlas mountainside"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1527529123414-5d8f23146309?w=1200&q=80",
+          "alt": "Bird's eye view of a High Atlas mountain peak"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1517227101214-8f7e4bab200c?w=1200&q=80",
+          "alt": "Traditional earthen-brick village in the mountains"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1527528635755-d2ed9370e552?w=1200&q=80",
+          "alt": "Aerial view of folded brown Atlas mountains"
+        }
+      ]
+    },
+    {
+      "id": "stay-marrakech-009",
+      "airbnbId": "riad-atlas-rooftop-mouassine",
+      "name": "Riad Atlas Rooftop: Plunge Pool and Koutoubia Views",
+      "type": "entire_riad",
+      "typeLabel": "Entire riad in Marrakech, Morocco",
+      "region": "marrakech",
+      "location": "Bab Doukkala, Marrakech Medina, Morocco",
+      "lat": 31.6318,
+      "lng": -7.9852,
+      "guests": 8,
+      "bedroomCount": 4,
+      "beds": "5 beds",
+      "bedDetail": "8 guests · 4 bedrooms · 5 beds · 4 baths",
+      "baths": 4,
+      "price": 176,
+      "pricePerNight": 176,
+      "totalForFive": 880,
+      "currency": "USD",
+      "rating": 4.91,
+      "reviewCount": 156,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Samira",
+        "isSuperhost": true,
+        "yearsHosting": 10,
+        "totalReviews": 927,
+        "totalRating": 4.9,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": ["English", "French", "Arabic", "Italian"],
+        "work": "Runs three riads with her sisters",
+        "presence": "Our house team is in the riad from 8am to 8pm; rooftop dinners can be booked a day ahead."
+      },
+      "highlights": [
+        {
+          "title": "A rooftop made for evenings",
+          "detail": "Lantern-lit terrace with a tiled plunge pool and a clear line to the Koutoubia minaret."
+        },
+        {
+          "title": "Room for the whole group",
+          "detail": "Four en-suite bedrooms around the patio — rent it and the house is entirely yours."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the lockbox; the team greets you next morning with breakfast."
+        }
+      ],
+      "description": "A generous four-bedroom riad near Bab Doukkala with the best rooftop in its price range: rugs, lanterns, a tiled plunge pool, and the Koutoubia minaret on the skyline. Bedrooms are set around a banana-palm patio, each with its own tadelakt bathroom. The food souk of Bab Doukkala — where locals actually shop — is around the corner, and taxis can reach the door, a rarity in the medina.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "1 double bed"
+        },
+        {
+          "name": "Bedroom 4",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Koutoubia view from the roof",
+        "Rooftop plunge pool",
+        "Patio with banana palms",
+        "Breakfast included",
+        "Kitchen",
+        "Wifi",
+        "Air conditioning",
+        "Washer",
+        "Taxi access to the door",
+        "Rooftop dinners on request"
+      ],
+      "amenitiesTotal": 41,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 8,
+        "cancellation": "Free cancellation before August 5. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.9,
+        "accuracy": 4.9,
+        "checkin": 5,
+        "communication": 5,
+        "location": 4.8,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Rooftop",
+          "count": 88
+        },
+        {
+          "tag": "Groups",
+          "count": 47
+        },
+        {
+          "tag": "Breakfast",
+          "count": 42
+        },
+        {
+          "tag": "Staff",
+          "count": 39
+        },
+        {
+          "tag": "Pool",
+          "count": 31
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Nadia",
+          "yearsOnAirbnb": 7,
+          "date": "June 2026",
+          "context": "Stayed with friends",
+          "rating": 5,
+          "text": "Eight of us for a birthday weekend and it was perfect. Sunset on that rooftop with the call to prayer echoing across the medina — chills. The team's rooftop dinner was better than any restaurant we booked."
+        },
+        {
+          "author": "Will",
+          "yearsOnAirbnb": 10,
+          "date": "April 2026",
+          "context": "Stayed with friends",
+          "rating": 5,
+          "text": "Taxi access to the door sounds like a small thing until you've dragged luggage through the souks. Brilliantly run riad, spotless rooms, and the plunge pool got daily use."
+        },
+        {
+          "author": "Francesca",
+          "yearsOnAirbnb": 5,
+          "date": "March 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Samira and her sisters run a tight ship. Breakfast on the roof — msemen, eggs, fruit, endless coffee — set up every day of our stay."
+        },
+        {
+          "author": "Adam",
+          "yearsOnAirbnb": 8,
+          "date": "January 2026",
+          "context": "Stayed a few nights",
+          "rating": 4,
+          "text": "Lovely riad, great value for four couples. Bab Doukkala is more local and less polished than the central medina, which we ended up preferring."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2027-01-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1517821099606-cef63a9bcda6?w=1200&q=80",
+          "alt": "Colorful textiles hanging on a Marrakech rooftop"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1527854176090-66db22836da9?w=1200&q=80",
+          "alt": "Wooden table and chairs on a rooftop terrace"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1640263408299-8972236d0590?w=1200&q=80",
+          "alt": "Koutoubia minaret rising above Marrakech"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1628642393776-70a715f2cc40?w=1200&q=80",
+          "alt": "Wooden door beside a green plant in a tiled patio"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1706036957257-1be06faf7486?w=1200&q=80",
+          "alt": "Blue-tiled plunge pool inside a riad"
+        }
+      ]
+    },
+    {
+      "id": "stay-marrakech-010",
+      "airbnbId": "kasbah-takerkoust-country-house",
+      "name": "Kasbah-Style Country House above Lake Takerkoust",
+      "type": "entire_home",
+      "typeLabel": "Entire home in Lalla Takerkoust, Morocco",
+      "region": "marrakech",
+      "location": "Lalla Takerkoust, Al Haouz, Morocco",
+      "lat": 31.362,
+      "lng": -8.133,
+      "guests": 7,
+      "bedroomCount": 4,
+      "beds": "5 beds",
+      "bedDetail": "7 guests · 4 bedrooms · 5 beds · 3 baths",
+      "baths": 3,
+      "price": 182,
+      "pricePerNight": 182,
+      "totalForFive": 910,
+      "currency": "USD",
+      "rating": 4.87,
+      "reviewCount": 63,
+      "isGuestFavorite": false,
+      "topPercent": null,
+      "isNew": true,
+      "isRareFind": false,
+      "host": {
+        "name": "Omar",
+        "isSuperhost": false,
+        "yearsHosting": 2,
+        "totalReviews": 71,
+        "totalRating": 4.86,
+        "responseRate": "97%",
+        "responseTime": "within a few hours",
+        "languages": ["English", "French", "Arabic"],
+        "work": "Built the house with local pisé masons over four years",
+        "presence": "A caretaker couple lives on the property; I visit most weekends and love showing guests the lake."
+      },
+      "highlights": [
+        {
+          "title": "Newly opened",
+          "detail": "Hand-built pisé kasbah finished in 2025, hosting guests since early 2026."
+        },
+        {
+          "title": "Lake and Atlas panorama",
+          "detail": "Rooftop crenellations look over Lake Takerkoust to the High Atlas wall."
+        },
+        {
+          "title": "Between desert and mountains",
+          "detail": "Agafay desert 20 minutes one way, Atlas foothill trails 20 minutes the other."
+        }
+      ],
+      "description": "A new country house built the old way — rammed pisé earth, palm-beam ceilings, and a crenellated roof terrace in the style of the southern kasbahs. It stands on a low hill above Lake Takerkoust, 45 minutes from Marrakech, between the Agafay desert and the first ridges of the Atlas. Swim in the small courtyard pool, ride horses along the lakeshore, and grill dinner under a sky with no city glow.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "1 double bed"
+        },
+        {
+          "name": "Tower room",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Lake view",
+        "Atlas mountain view",
+        "Courtyard pool",
+        "Crenellated roof terrace",
+        "Kitchen",
+        "Wifi",
+        "Free parking on premises",
+        "Barbecue and outdoor oven",
+        "Fireplace",
+        "Caretakers on site"
+      ],
+      "amenitiesTotal": 33,
+      "safetyNotReported": [
+        "Smoke alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 7,
+        "cancellation": "Free cancellation for 48 hours. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.9,
+        "accuracy": 4.8,
+        "checkin": 4.8,
+        "communication": 4.9,
+        "location": 4.8,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Views",
+          "count": 34
+        },
+        {
+          "tag": "Architecture",
+          "count": 27
+        },
+        {
+          "tag": "Stargazing",
+          "count": 19
+        },
+        {
+          "tag": "Pool",
+          "count": 16
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Camille",
+          "yearsOnAirbnb": 9,
+          "date": "May 2026",
+          "context": "Stayed with friends",
+          "rating": 5,
+          "text": "The house itself is the experience — cool earthen walls, that castle rooftop, sunset over the lake. We did Agafay quads one day and an Atlas hike the next, both twenty minutes away."
+        },
+        {
+          "author": "Reda",
+          "yearsOnAirbnb": 6,
+          "date": "April 2026",
+          "context": "Stayed with family",
+          "rating": 5,
+          "text": "Omar's caretakers were wonderful with our kids and lit the outdoor oven for a bread-baking morning. Feels remote but Marrakech is an easy 45-minute drive."
+        },
+        {
+          "author": "Laura",
+          "yearsOnAirbnb": 7,
+          "date": "March 2026",
+          "context": "Stayed a few nights",
+          "rating": 4,
+          "text": "Beautiful, atmospheric new build with a few new-house quirks — hot water took a while one morning. The views and silence more than make up for it."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2027-02-28"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1546936703-c36c420d4e5c?w=1200&q=80",
+          "alt": "Kasbah walls and towers behind palm trees"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1604569251410-025ed59f126a?w=1200&q=80",
+          "alt": "Rocky Atlas mountain under a clear blue sky"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1624805098931-098c0d918b34?w=1200&q=80",
+          "alt": "Wooden table and chairs on a sunny terrace"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1555169048-ee590a06ab39?w=1200&q=80",
+          "alt": "Building interior with rows of Moorish arches"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1527760370098-806667fa3750?w=1200&q=80",
+          "alt": "Potted green plant in front of a traditional doorway"
+        }
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "id": "exp-marrakech-001",
+      "name": "Souk food tour with a medina-born guide",
+      "type": "local_flavors",
+      "region": "marrakech",
+      "location": "Marrakech Medina, Morocco",
+      "lat": 31.6301,
+      "lng": -7.9853,
+      "price": 58,
+      "duration": "3.5 hours",
+      "groupSize": "Up to 8 guests, ages 8+",
+      "rating": 4.98,
+      "reviews": 412,
+      "host": {
+        "name": "Abdellah",
+        "bio": "Born two alleys from the spice souk, Abdellah has eaten at the same msemen stall for thirty years. Former cook, full-time storyteller, and on first-name terms with every vendor on the route."
+      },
+      "description": "Eat your way through the real medina: msemen off the griddle, olives and preserved lemons in the Mellah market, sheep's-milk jben, snail broth if you dare, and a rooftop mint tea to finish. Ten-plus tastings at stalls locals actually queue for, with the history of each quarter told between bites.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1587974928442-77dc3e0dba72?w=1200&q=80",
+          "alt": "People walking through a busy medina street"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1580746738099-1cb74f972feb?w=1200&q=80",
+          "alt": "Woven baskets stacked on display in the souk"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1669542795386-e794632a231f?w=1200&q=80",
+          "alt": "Man holding a bowl of freshly prepared Moroccan food"
+        }
+      ]
+    },
+    {
+      "id": "exp-marrakech-002",
+      "name": "Tagine cooking class in a riad kitchen",
+      "type": "local_flavors",
+      "region": "marrakech",
+      "location": "Marrakech Medina, Morocco",
+      "lat": 31.6288,
+      "lng": -7.9838,
+      "price": 75,
+      "duration": "4 hours",
+      "groupSize": "Up to 6 guests, ages 10+",
+      "rating": 4.97,
+      "reviews": 286,
+      "host": {
+        "name": "Latifa",
+        "bio": "Dada-trained home cook who ran the kitchen of a Mouassine guesthouse for fifteen years. Teaches the dishes of her grandmother's Friday table from her own riad kitchen."
+      },
+      "description": "Shop the market for saffron, preserved lemon, and the day's vegetables, then build a proper tagine from the base up — plus taktouka salad and fresh khobz baked in the neighborhood ferran, the communal wood oven. Lunch is eaten together on the patio, recipes sent home with you.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?w=1200&q=80",
+          "alt": "Steaming tagine dish served at the table"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1673283547641-16ddb83eb787?w=1200&q=80",
+          "alt": "Rows of clay tagine pots on display"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1517314626714-ac1b9a16515e?w=1200&q=80",
+          "alt": "Spread of Moroccan dishes served on a table"
+        }
+      ]
+    },
+    {
+      "id": "exp-marrakech-003",
+      "name": "Traditional hammam and black-soap ritual",
+      "type": "local_culture",
+      "region": "marrakech",
+      "location": "Marrakech Medina, Morocco",
+      "lat": 31.6289,
+      "lng": -7.9866,
+      "price": 95,
+      "duration": "2 hours",
+      "groupSize": "Up to 4 guests, ages 16+",
+      "rating": 4.95,
+      "reviews": 198,
+      "host": {
+        "name": "Najat",
+        "bio": "Third-generation hammam attendant whose grandmother worked the same neighborhood bathhouse. Now leads private rituals in a restored 17th-century hammam near the Mouassine fountain."
+      },
+      "description": "The full ritual, done properly and privately: steam under a star-pierced dome, beldi black soap, a serious kessa-glove scrub, rhassoul clay from the Atlas, and orange-blossom tea in the cool room after. Two hours that reset a week of souk walking.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1740744931699-11d1db68c0d4?w=1200&q=80",
+          "alt": "Vaulted bathhouse hall with hanging lanterns"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1668947277383-2bcc2d5fbe16?w=1200&q=80",
+          "alt": "Arched doorway inside a traditional building"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1604161926875-bb58f9a0d81b?w=1200&q=80",
+          "alt": "Warmly lit vaulted passage with glass windows"
+        }
+      ]
+    },
+    {
+      "id": "exp-marrakech-004",
+      "name": "Jemaa el-Fnaa night market food walk",
+      "type": "local_flavors",
+      "region": "marrakech",
+      "location": "Jemaa el-Fnaa, Marrakech, Morocco",
+      "lat": 31.6258,
+      "lng": -7.9891,
+      "price": 49,
+      "duration": "3 hours",
+      "groupSize": "Up to 10 guests, ages 6+",
+      "rating": 4.9,
+      "reviews": 347,
+      "host": {
+        "name": "Mehdi",
+        "bio": "Grew up doing homework at his uncle's grill stall on the square. Knows which of the hundred numbered stands are for tourists and which three the stallholders themselves eat at."
+      },
+      "description": "When the sun drops, stall smoke rises and Jemaa el-Fnaa becomes the largest open-air dinner table in Africa. Grilled kefta and merguez, a bowl of harira, tanjia pulled from the ashes, snail broth for the brave, and chebakia with spiced coffee — navigated between the storytellers, gnawa musicians, and orange-juice carts.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1561642769-1bca263542e0?w=1200&q=80",
+          "alt": "Marrakech square glowing with lights at night"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1708823081494-3e5bbd2ce931?w=1200&q=80",
+          "alt": "Crowds moving across a large open plaza"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1748540459503-19efc015143b?w=1200&q=80",
+          "alt": "Generous spread of dishes ready for eating"
+        }
+      ]
+    },
+    {
+      "id": "exp-marrakech-005",
+      "name": "Majorelle Garden and YSL Museum with an art historian",
+      "type": "local_culture",
+      "region": "marrakech",
+      "location": "Jardin Majorelle, Gueliz, Marrakech, Morocco",
+      "lat": 31.6417,
+      "lng": -8.0035,
+      "price": 64,
+      "duration": "2.5 hours",
+      "groupSize": "Up to 6 guests, all ages",
+      "rating": 4.93,
+      "reviews": 175,
+      "host": {
+        "name": "Yasmine",
+        "bio": "Marrakchi art historian who wrote her thesis on Jacques Majorelle's Atlas paintings. Former docent at the Musée Yves Saint Laurent, now leads small private visits."
+      },
+      "description": "Skip-the-line entry to the Jardin Majorelle at opening, before the crowds fill the bamboo walks. Yasmine unpacks the story behind that ultramarine blue, Majorelle's Atlas expeditions, and how Saint Laurent and Bergé saved the garden — finishing in the YSL museum's love-letter of a collection next door.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1747601387763-3abf57ee79c8?w=1200&q=80",
+          "alt": "Bright cobalt-blue building surrounded by lush greenery"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1729456229097-e60798212180?w=1200&q=80",
+          "alt": "Blue and yellow villa framed by palm trees"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1693279565944-d501f3743e15?w=1200&q=80",
+          "alt": "Garden path lined with many species of cactus"
+        }
+      ]
+    },
+    {
+      "id": "exp-marrakech-006",
+      "name": "Hidden medina heritage walk: Medersa, fondouks, and fountains",
+      "type": "local_culture",
+      "region": "marrakech",
+      "location": "Ben Youssef, Marrakech Medina, Morocco",
+      "lat": 31.632,
+      "lng": -7.986,
+      "price": 42,
+      "duration": "3 hours",
+      "groupSize": "Up to 8 guests, all ages",
+      "rating": 4.96,
+      "reviews": 229,
+      "host": {
+        "name": "Hicham",
+        "bio": "Licensed national guide and restoration consultant who spent four years documenting the medina's surviving fondouks. Can read the city's history from a doorway."
+      },
+      "description": "The medina beyond the shopping: the carved cedar and stucco of the Medersa Ben Youssef, working fondouks where artisans still rent rooms above their workshops, the almoravid Koubba, and the mouassine fountains that watered the caravan city. Three hours that turn a maze into a map.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1570133435536-7ececf000ef6?w=1200&q=80",
+          "alt": "Ornate courtyard of the Medersa Ben Youssef"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1618423205267-e95744f57edf?w=1200&q=80",
+          "alt": "People walking down a narrow medina street"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1585004607620-fb4c44331e73?w=1200&q=80",
+          "alt": "Street scene beside old medina buildings"
+        }
+      ]
+    },
+    {
+      "id": "exp-marrakech-007",
+      "name": "Mint tea ceremony and Moroccan pastry workshop",
+      "type": "local_flavors",
+      "region": "marrakech",
+      "location": "Marrakech Medina, Morocco",
+      "lat": 31.633,
+      "lng": -7.9895,
+      "price": 39,
+      "duration": "2 hours",
+      "groupSize": "Up to 8 guests, all ages",
+      "rating": 4.92,
+      "reviews": 158,
+      "host": {
+        "name": "Souad",
+        "bio": "Pastry chef who apprenticed under her aunts for wedding-season kaab el ghzal production. Pours tea from a full arm's height without losing a drop."
+      },
+      "description": "Learn why the first glass is bitter and the third is gentle: the full Moroccan tea ceremony, poured properly from height, alongside a hands-on pastry session — almond-paste kaab el ghzal, sesame ghriba, and honeyed chebakia. Everything you shape, you take home in a box.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1541168350939-a118c5c13b4d?w=1200&q=80",
+          "alt": "Tea being poured from a silver Moroccan teapot into a glass"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1567708415681-d1d249e182eb?w=1200&q=80",
+          "alt": "Fresh mint leaves in clear tea glasses"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1574810134700-b6ba48d151a0?w=1200&q=80",
+          "alt": "Moroccan pastries in a bowl beside a teapot"
+        }
+      ]
+    },
+    {
+      "id": "exp-marrakech-008",
+      "name": "High Atlas day trek from Imlil with mule support",
+      "type": "get_outside",
+      "region": "marrakech",
+      "location": "Imlil, High Atlas, Morocco",
+      "lat": 31.1369,
+      "lng": -7.9199,
+      "price": 88,
+      "duration": "9 hours",
+      "groupSize": "Up to 8 guests, ages 12+",
+      "rating": 4.97,
+      "reviews": 264,
+      "host": {
+        "name": "Mohamed",
+        "bio": "UIMLA-certified mountain leader from Aroumd village with over 200 Toubkal summits. Runs treks with his brothers and a very opinionated mule named Zniber."
+      },
+      "description": "Hotel pickup in Marrakech, then a full day on Atlas trails: up the Imlil valley through walnut and cherry orchards, over the Tizi n'Tamatert pass, and into the Imnane valley for lunch in a village house — grilled meats, salads, and tea with a family Mohamed has known all his life. Mule support carries the bags; you carry the views.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1517227062101-68105352ffc7?w=1200&q=80",
+          "alt": "Berber villages clinging to an Atlas mountainside"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1527528635755-d2ed9370e552?w=1200&q=80",
+          "alt": "Aerial view of layered brown Atlas ridgelines"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1560789590-ee4cc7125967?w=1200&q=80",
+          "alt": "Guide with a horse on a green slope facing the mountains"
+        }
+      ]
+    },
+    {
+      "id": "exp-marrakech-009",
+      "name": "Hot-air balloon at dawn over the palm groves",
+      "type": "get_outside",
+      "region": "marrakech",
+      "location": "North of Marrakech, Morocco",
+      "lat": 31.7412,
+      "lng": -7.972,
+      "price": 215,
+      "duration": "5 hours",
+      "groupSize": "Up to 16 guests, ages 6+",
+      "rating": 4.94,
+      "reviews": 189,
+      "host": {
+        "name": "Karim",
+        "bio": "Commercial balloon pilot with 2,400 flight hours over the Haouz plain. Flew his first Marrakech dawn in 2011 and still photographs every sunrise."
+      },
+      "description": "Pre-dawn pickup, mint tea while the envelope inflates, then an hour drifting silently over palm groves, Berber villages, and the dry Tensift riverbed as the sun clears the Atlas. Landing is celebrated the traditional way: Berber breakfast in a nomad tent and a flight certificate signed by the pilot.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1750008415039-65c10dcbb4a5?w=1200&q=80",
+          "alt": "Hot air balloons floating above a desert landscape"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1645565537051-a97a066f1d64?w=1200&q=80",
+          "alt": "Group of hot air balloons rising into the sky"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1549042284-afafc2abfa8e?w=1200&q=80",
+          "alt": "Passengers riding in a hot air balloon basket"
+        }
+      ]
+    },
+    {
+      "id": "exp-marrakech-010",
+      "name": "Agafay desert quad ride to a sunset camp",
+      "type": "get_outside",
+      "region": "marrakech",
+      "location": "Agafay Desert, Marrakech Province, Morocco",
+      "lat": 31.446,
+      "lng": -8.1385,
+      "price": 79,
+      "duration": "4 hours",
+      "groupSize": "Up to 10 guests, ages 16+ to drive",
+      "rating": 4.88,
+      "reviews": 231,
+      "host": {
+        "name": "Ayoub",
+        "bio": "Grew up racing motocross on the Haouz plain; now runs a small fleet of well-maintained quads out of a family camp on the edge of the Agafay."
+      },
+      "description": "Two hours of guided riding across the Agafay's lunar hills and dry wadis — proper briefing, helmets, and a pace set to the group — ending on a ridge camp for sunset over the Atlas. Mint tea, Berber pizza baked in the camp oven, and a headlit convoy back after dark.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1624062999803-976e1adc8ea2?w=1200&q=80",
+          "alt": "Rider on a quad bike crossing desert terrain"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1494674557684-c26be0f88950?w=1200&q=80",
+          "alt": "Group riding ATVs in a line across the desert"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1634124266189-d8725fc5c5fd?w=1200&q=80",
+          "alt": "Desert landscape with low buildings and mountains behind"
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "svc-marrakech-001",
+      "name": "Rooftop restaurant overlooking Jemaa el-Fnaa",
+      "type": "restaurant",
+      "region": "marrakech",
+      "location": "Jemaa el-Fnaa, Marrakech, Morocco",
+      "lat": 31.6255,
+      "lng": -7.9887,
+      "priceRange": "From $25 / person",
+      "cuisine": "Moroccan · rooftop dining",
+      "rating": 4.85,
+      "reviews": 512,
+      "host": {
+        "name": "Restaurant Dar Lalla",
+        "bio": "Family-run rooftop above the square since 1998, three generations in the kitchen. Tables on the top terrace book out for sunset a day or two ahead."
+      },
+      "description": "Three tiered terraces stacked above the square, with the top level looking straight across the smoke of the food stalls to the floodlit Koutoubia. Order the pastilla and the lamb tanjia, time it for the sunset call to prayer, and let the square's noise become the soundtrack to dinner.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1527778974427-14904903083e?w=1200&q=80",
+          "alt": "Terrace bar sign on a Marrakech rooftop"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1527533983174-bc3a42ac16c1?w=1200&q=80",
+          "alt": "Metal tables and chairs on an upper-floor terrace"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1756925974873-e4d6d07f7b8c?w=1200&q=80",
+          "alt": "Illuminated restaurant sign above the square at night"
+        }
+      ]
+    },
+    {
+      "id": "svc-marrakech-002",
+      "name": "Dar Yacout-style dinner in a candlelit riad",
+      "type": "restaurant",
+      "region": "marrakech",
+      "location": "Bab Doukkala, Marrakech Medina, Morocco",
+      "lat": 31.627,
+      "lng": -7.9846,
+      "priceRange": "From $60 / person",
+      "cuisine": "Traditional Moroccan tasting menu",
+      "rating": 4.91,
+      "reviews": 287,
+      "host": {
+        "name": "Dar Nejjarine",
+        "bio": "A restored merchant's dar serving one seating a night. The dadas in the kitchen have cooked together for twenty years; the menu changes with the market, never with fashion."
+      },
+      "description": "Dinner as ceremony: you are collected from the nearest gate, led by lantern through the derbs, and seated in a candlelit courtyard for the classic progression — a constellation of cooked salads, pigeon pastilla, a slow tagine, couscous seffa, and orange blossom fruit. One seating, no menu, no wrong choices.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1674657704103-b153830ba294?w=1200&q=80",
+          "alt": "Dining room with a table elegantly set for dinner"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1517314597476-e1788060b6cb?w=1200&q=80",
+          "alt": "Moroccan salads and dishes arranged in bowls on a table"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1643019238328-aca0284b751c?w=1200&q=80",
+          "alt": "Table topped with generous plates of food"
+        }
+      ]
+    },
+    {
+      "id": "svc-marrakech-003",
+      "name": "Pâtisserie Amandine: French-Moroccan patisserie in Gueliz",
+      "type": "patisserie",
+      "region": "marrakech",
+      "location": "Gueliz, Marrakech, Morocco",
+      "lat": 31.6377,
+      "lng": -8.0125,
+      "priceRange": "$3–12",
+      "cuisine": "French & Moroccan pastries",
+      "rating": 4.8,
+      "reviews": 634,
+      "host": {
+        "name": "Pâtisserie Amandine",
+        "bio": "Gueliz institution since 1999 with a French-trained pastry team and a Moroccan sweets counter. Locals queue on Sunday mornings; the salon de thé hums all day."
+      },
+      "description": "Two counters, one address: millefeuilles and lemon tarts on the French side, cornes de gazelle and honeyed briouats on the Moroccan side, and an avocado-almond smoothie that has its own fan club. Sit in the salon de thé with a nous-nous coffee and watch Gueliz go by.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1598110750624-207050c4f28c?w=1200&q=80",
+          "alt": "Pistachio pastries arranged with green garnish"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1617806501553-d3a6a3a7b227?w=1200&q=80",
+          "alt": "Two pastries served on a white ceramic plate"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1676014959543-81df1079b423?w=1200&q=80",
+          "alt": "Close-up of a tray of assorted sweet pastries"
+        }
+      ]
+    },
+    {
+      "id": "svc-marrakech-004",
+      "name": "Medina sweets house and tea room",
+      "type": "patisserie",
+      "region": "marrakech",
+      "location": "Marrakech Medina, Morocco",
+      "lat": 31.6297,
+      "lng": -7.9871,
+      "priceRange": "$2–10",
+      "cuisine": "Moroccan sweets & mint tea",
+      "rating": 4.86,
+      "reviews": 298,
+      "host": {
+        "name": "Dar Cherifa Sweets",
+        "bio": "A hole-in-the-wall counter with a tiny tiled tea room upstairs, run by two sisters who learned wedding pastry from their grandmother in the Kasbah quarter."
+      },
+      "description": "Trays of chebakia glazed in honey and sesame, almond ghriba cracked just right, sellou by the scoop, and kaab el ghzal shaped by hand each morning. Take a mixed box for the road or climb to the six-table tea room where the mint tea comes poured from height.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1620292760785-94e105bdaa8f?w=1200&q=80",
+          "alt": "Fresh pastries stacked on a brown tray"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1574810134700-b6ba48d151a0?w=1200&q=80",
+          "alt": "Moroccan pastries beside a traditional teapot"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1591299089616-c9604047b1a6?w=1200&q=80",
+          "alt": "Glass of mint tea with fresh green leaves"
+        }
+      ]
+    },
+    {
+      "id": "svc-marrakech-005",
+      "name": "Le Jardin Secret courtyard restaurant",
+      "type": "restaurant",
+      "region": "marrakech",
+      "location": "Mouassine, Marrakech Medina, Morocco",
+      "lat": 31.6334,
+      "lng": -7.9902,
+      "priceRange": "From $35 / person",
+      "cuisine": "Contemporary Moroccan",
+      "rating": 4.82,
+      "reviews": 421,
+      "host": {
+        "name": "Le Jardin d'Aziza",
+        "bio": "A young Marrakchi chef returned from kitchens in Lyon and Beirut to cook her grandmother's repertoire with lighter hands, in a banana-palm courtyard hidden off the Mouassine souk."
+      },
+      "description": "A green pause in the middle of the souks: tables scattered under banana palms and bamboo, tortoises patrolling the tiles. The kitchen sends out reinvented classics — smoked-aubergine zaalouk, saffron chicken with charred lemon, a deconstructed pastilla — alongside proper fresh juices and a serious vegetarian page.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1527777044900-577d9862e3bc?w=1200&q=80",
+          "alt": "Wooden dining tables set in a leafy courtyard"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1673283556513-282af10c9882?w=1200&q=80",
+          "alt": "Bowl of Moroccan soup served at the table"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1682370207954-c8a9cccaabb4?w=1200&q=80",
+          "alt": "Plate of food with vegetable sides"
+        }
+      ]
+    },
+    {
+      "id": "svc-marrakech-006",
+      "name": "Spice-square rooftop café at Rahba Kedima",
+      "type": "cafe",
+      "region": "marrakech",
+      "location": "Rahba Kedima, Marrakech Medina, Morocco",
+      "lat": 31.6316,
+      "lng": -7.9843,
+      "priceRange": "$8–20",
+      "cuisine": "Café · Moroccan classics",
+      "rating": 4.75,
+      "reviews": 856,
+      "host": {
+        "name": "Café des Épices Rooftop",
+        "bio": "The terrace above the old spice square, run by the same medina family for two decades. Waiters who remember your order from three years ago."
+      },
+      "description": "The classic perch above Rahba Kedima: baskets of spices and woven hats below, storks overhead, and the Atlas on the horizon on clear days. Come for a khobz-and-kefta sandwich or an avocado smoothie at lunch, stay for golden hour when the whole square turns amber.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1527854665458-95230125ed91?w=1200&q=80",
+          "alt": "Black and white patio table and chairs on a terrace"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1569440703456-29b9c31765ca?w=1200&q=80",
+          "alt": "Colorful goods displayed in the souk below"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1518439532222-5dcc881e74b8?w=1200&q=80",
+          "alt": "Moroccan teapot set on a tray outdoors"
+        }
+      ]
+    },
+    {
+      "id": "svc-marrakech-007",
+      "name": "Palmeraie poolside lunch club",
+      "type": "restaurant",
+      "region": "marrakech",
+      "location": "La Palmeraie, Marrakech, Morocco",
+      "lat": 31.681,
+      "lng": -7.9585,
+      "priceRange": "From $40 / person",
+      "cuisine": "Mediterranean grills & salads",
+      "rating": 4.7,
+      "reviews": 369,
+      "host": {
+        "name": "Les Palmiers Beldi Club",
+        "bio": "A day-club and restaurant in an old palm-grove farm: olive trees, a long green-tiled pool, and a wood-fired grill that has anchored the menu since opening."
+      },
+      "description": "The Marrakech long lunch, perfected: a morning by the green-tiled pool under the palms, then grilled sea bream, lamb chops, and heaping market salads served at shaded farm tables. Day passes include a lounger and towel; book ahead on weekends when Marrakchi families claim the garden.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1495885531856-008baf2cbaac?w=1200&q=80",
+          "alt": "Guest walking along the edge of a garden swimming pool"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1643019237376-ef702ddfe654?w=1200&q=80",
+          "alt": "Platter of grilled meat and vegetables on a table"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1599859725763-4a16c9468890?w=1200&q=80",
+          "alt": "Palm tree beside a white and blue garden building"
+        }
+      ]
+    },
+    {
+      "id": "svc-marrakech-008",
+      "name": "Tanjia and grill house in the Mellah",
+      "type": "restaurant",
+      "region": "marrakech",
+      "location": "Mellah, Marrakech Medina, Morocco",
+      "lat": 31.6229,
+      "lng": -7.9812,
+      "priceRange": "$10–22",
+      "cuisine": "Tanjia & Marrakchi grills",
+      "rating": 4.88,
+      "reviews": 445,
+      "host": {
+        "name": "Chez Hamid Tanjia",
+        "bio": "Hamid buries his tanjia urns in the farnatchi ashes at dawn, the way the bachelors of Marrakech have done for centuries. By 1pm the day's batch is spoken for."
+      },
+      "description": "The city's signature dish done the old way: lamb, preserved lemon, smen, and saffron sealed in clay urns and slow-cooked all morning in the ashes of the hammam furnace. Arrive before one, order tanjia with khobz and a tomato salad, and eat at shared tables with the market porters who set the standard.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1643019237176-8ae0859f1123?w=1200&q=80",
+          "alt": "Bowl of slow-cooked Moroccan food on a table"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1661081988119-58e40ee39201?w=1200&q=80",
+          "alt": "Table spread with Moroccan dishes"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1637531114994-ef00c3f54387?w=1200&q=80",
+          "alt": "Busy street scene in the old medina"
+        }
+      ]
+    },
+    {
+      "id": "svc-marrakech-009",
+      "name": "Ourika riverside tagine terrace",
+      "type": "restaurant",
+      "region": "marrakech",
+      "location": "Ourika Valley, Al Haouz, Morocco",
+      "lat": 31.3672,
+      "lng": -7.7855,
+      "priceRange": "$9–18",
+      "cuisine": "Berber tagines",
+      "rating": 4.79,
+      "reviews": 312,
+      "host": {
+        "name": "Chez Lahcen au Bord de l'Eau",
+        "bio": "Lahcen's family has cooked for valley travelers for forty years, at plastic tables set literally in the shallows of the Ourika river."
+      },
+      "description": "Lunch with your feet nearly in the river: tagines that have been burbling over charcoal since morning, salads from the family plot, and watermelon cooled in the current. No menu to speak of — beef with prunes or chicken with preserved lemon — and no better way to end a waterfall hike from Setti Fatma.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?w=1200&q=80",
+          "alt": "Tagine of slow-cooked meat and vegetables"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1534003085889-5e1870403fdc?w=1200&q=80",
+          "alt": "Valley houses surrounded by green trees"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1591826855906-74fad3654cee?w=1200&q=80",
+          "alt": "Guests seated on wooden chairs outdoors"
+        }
+      ]
+    },
+    {
+      "id": "svc-marrakech-010",
+      "name": "Kasbah panoramic terrace by the Saadian Tombs",
+      "type": "restaurant",
+      "region": "marrakech",
+      "location": "Kasbah, Marrakech Medina, Morocco",
+      "lat": 31.6176,
+      "lng": -7.9859,
+      "priceRange": "From $28 / person",
+      "cuisine": "Moroccan · panoramic terrace",
+      "rating": 4.81,
+      "reviews": 389,
+      "host": {
+        "name": "Kasbah Café Terrasse",
+        "bio": "Perched opposite the minaret of the Kasbah Mosque, steps from the Saadian Tombs. The upstairs tables catch the storks gliding to their nests on the palace walls at dusk."
+      },
+      "description": "The terrace every Kasbah visitor climbs to eventually — directly facing the tiled minaret of the Kasbah Mosque, with storks wheeling between the palace ramparts. Slow-roasted mechoui lamb on Fridays, reliable tagines all week, fresh juices, and the best people-watching south of the square.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1527854176090-66db22836da9?w=1200&q=80",
+          "alt": "Rooftop tables and chairs overlooking the medina"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1549140600-78c9b8275e9d?w=1200&q=80",
+          "alt": "Historic red-earth building in Marrakech"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1653323792487-6ecc6217040b?w=1200&q=80",
+          "alt": "Horse-drawn carriage passing in front of the Koutoubia tower"
+        }
+      ]
+    }
+  ]
+}

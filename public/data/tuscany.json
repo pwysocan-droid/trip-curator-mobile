@@ -1,0 +1,2447 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2026-07-15",
+    "regions": [
+      "tuscany"
+    ],
+    "totalListings": 30,
+    "note": "Tuscany mock dataset modeled on real Airbnb listings. Images are verified Unsplash URLs."
+  },
+  "stays": [
+    {
+      "id": "stay-tuscany-001",
+      "airbnbId": "934812657204918273",
+      "name": "Podere La Fonte: Chianti Stone Farmhouse in the Vines",
+      "type": "entire_home",
+      "typeLabel": "Entire farmhouse in Greve in Chianti, Italy",
+      "region": "tuscany",
+      "location": "Greve in Chianti, Tuscany, Italy",
+      "lat": 43.5832,
+      "lng": 11.3157,
+      "guests": 6,
+      "bedroomCount": 3,
+      "beds": "4 beds",
+      "bedDetail": "6 guests · 3 bedrooms · 4 beds · 2 baths",
+      "baths": 2,
+      "price": 385,
+      "pricePerNight": 385,
+      "totalForFive": 1925,
+      "currency": "USD",
+      "rating": 4.94,
+      "reviewCount": 87,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Federica",
+        "isSuperhost": true,
+        "yearsHosting": 7,
+        "totalReviews": 214,
+        "totalRating": 4.93,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "work": "Winemaker on the family estate",
+        "presence": "Lives on the estate; pours a welcome tasting of the family Chianti Classico on arrival."
+      },
+      "highlights": [
+        {
+          "title": "Top 5% of homes",
+          "detail": "This home is highly ranked based on ratings, reviews, and reliability."
+        },
+        {
+          "title": "Set among Chianti Classico vines",
+          "detail": "The farmhouse sits inside a working Sangiovese vineyard with tasting on request."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the lockbox."
+        }
+      ],
+      "description": "A 300-year-old stone farmhouse on a working Chianti Classico estate outside Greve. Original terracotta floors, chestnut beams, and a pergola-shaded dining terrace looking straight down the vine rows. Federica's family has made wine here for four generations — the cellar tasting is two minutes' walk from your door.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Vineyard view",
+        "Kitchen",
+        "Wifi",
+        "Free parking on premises",
+        "Pergola dining terrace",
+        "Wood-burning fireplace",
+        "Washer",
+        "Dedicated workspace",
+        "Estate wine tasting on request",
+        "Bathtub"
+      ],
+      "amenitiesTotal": 41,
+      "safetyNotReported": [
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 6,
+        "cancellation": "Free cancellation before Aug 20. Cancel before Sep 12 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.9,
+        "accuracy": 5,
+        "checkin": 5,
+        "communication": 5,
+        "location": 4.9,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Vineyard",
+          "count": 41
+        },
+        {
+          "tag": "Hospitality",
+          "count": 28
+        },
+        {
+          "tag": "View",
+          "count": 22
+        },
+        {
+          "tag": "Breakfast",
+          "count": 14
+        },
+        {
+          "tag": "Quiet",
+          "count": 12
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Margot",
+          "yearsOnAirbnb": 8,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Waking up surrounded by vines with coffee on the pergola terrace was everything we hoped Chianti would be. Federica's welcome tasting turned into an hour of stories about the estate. Greve's Saturday market is ten minutes down the hill."
+        },
+        {
+          "author": "Daniel",
+          "yearsOnAirbnb": 5,
+          "date": "May 2026",
+          "context": "Stayed a week",
+          "rating": 5,
+          "text": "The house is even more beautiful than the photos — thick stone walls kept it cool in May, and the kitchen was properly equipped so we cooked with market vegetables most nights. Buy the estate olive oil before you leave."
+        },
+        {
+          "author": "Chiara",
+          "yearsOnAirbnb": 11,
+          "date": "April 2026",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "Our kids loved running between the vine rows while we had wine on the terrace. Federica arranged a cellar visit and left homemade jam for breakfast. A genuinely special agriturismo."
+        },
+        {
+          "author": "Tom",
+          "yearsOnAirbnb": 6,
+          "date": "March 2026",
+          "context": "Stayed a few nights",
+          "rating": 4,
+          "text": "Gorgeous property and a great base for Chianti — you do need a car, and the last stretch of gravel road is steep. Once you're there, though, the silence and the views are unbeatable."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1744909229894-883bb19b552f?w=1200&q=80",
+          "alt": "Vineyard rows leading to a Tuscan villa"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1713971346138-6a3b2494c942?w=1200&q=80",
+          "alt": "Stone farmhouse surrounded by tall cypress trees"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1754415266974-404a215e6c62?w=1200&q=80",
+          "alt": "Rustic kitchen with wooden cabinets"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1541004995602-b3e898709909?w=1200&q=80",
+          "alt": "Bed beside tall windows in daylight"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1567072629554-20e689de2400?w=1200&q=80",
+          "alt": "Sun setting over rows of vines"
+        }
+      ]
+    },
+    {
+      "id": "stay-tuscany-002",
+      "airbnbId": "1287465019283746550",
+      "name": "Villa dei Cipressi: Val d'Orcia Views & Infinity Pool",
+      "type": "entire_villa",
+      "typeLabel": "Entire villa in Pienza, Italy",
+      "region": "tuscany",
+      "location": "Pienza, Val d'Orcia, Tuscany, Italy",
+      "lat": 43.0772,
+      "lng": 11.6789,
+      "guests": 8,
+      "bedroomCount": 4,
+      "beds": "5 beds",
+      "bedDetail": "8 guests · 4 bedrooms · 5 beds · 3 baths",
+      "baths": 3,
+      "price": 545,
+      "pricePerNight": 545,
+      "totalForFive": 2725,
+      "currency": "USD",
+      "rating": 4.98,
+      "reviewCount": 62,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Lorenzo",
+        "isSuperhost": true,
+        "yearsHosting": 9,
+        "totalReviews": 486,
+        "totalRating": 4.96,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Italian",
+          "French"
+        ],
+        "work": "Restores historic Tuscan farmhouses",
+        "presence": "Lives in Pienza; his housekeeper Marta stops by every other day and can cook on request."
+      },
+      "highlights": [
+        {
+          "title": "Top 5% of homes",
+          "detail": "This home is highly ranked based on ratings, reviews, and reliability."
+        },
+        {
+          "title": "Infinity pool over the Val d'Orcia",
+          "detail": "The heated pool looks across the UNESCO-listed valley toward Monte Amiata."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the keypad."
+        }
+      ],
+      "description": "A restored 18th-century villa on a cypress-lined lane outside Pienza, with an infinity pool set above the wheat fields of the Val d'Orcia. Four bedrooms, a vaulted living room with fireplace, and a long stone dining table under the loggia. Sunset from the pool terrace — golden light on the clay hills — is the reason guests rebook.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 4",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Valley view",
+        "Private heated infinity pool",
+        "Kitchen",
+        "Wifi",
+        "Free parking on premises",
+        "Wood-burning fireplace",
+        "Washer",
+        "Dryer",
+        "Outdoor loggia dining",
+        "AC - split type ductless system"
+      ],
+      "amenitiesTotal": 56,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 4:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 8,
+        "cancellation": "Free cancellation for 48 hours. Cancel before Sep 1 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "checkin": 5,
+        "communication": 5,
+        "location": 5,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Pool",
+          "count": 44
+        },
+        {
+          "tag": "View",
+          "count": 39
+        },
+        {
+          "tag": "Sunsets",
+          "count": 21
+        },
+        {
+          "tag": "Kitchen",
+          "count": 13
+        },
+        {
+          "tag": "Hospitality",
+          "count": 12
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Sofia",
+          "yearsOnAirbnb": 9,
+          "date": "June 2026",
+          "context": "Stayed with friends",
+          "rating": 5,
+          "text": "The photos don't do the view justice. We spent every evening in the infinity pool watching the light change over the valley. Marta's Thursday dinner — pici with ragù and pecorino di Pienza — was the best meal of our trip."
+        },
+        {
+          "author": "James",
+          "yearsOnAirbnb": 12,
+          "date": "May 2026",
+          "context": "Stayed a week",
+          "rating": 5,
+          "text": "Flawless. Pienza is five minutes by car, Montepulciano fifteen, Montalcino thirty — you can day-trip the whole Val d'Orcia and come home to total silence and that pool."
+        },
+        {
+          "author": "Amelie",
+          "yearsOnAirbnb": 7,
+          "date": "April 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Lorenzo thought of everything: local wine in the kitchen, a map of his favorite roads, even sunrise notes for photographers. The villa itself is a masterclass in restoration."
+        },
+        {
+          "author": "Priya",
+          "yearsOnAirbnb": 4,
+          "date": "September 2025",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "Our three generations all had space here. Kids in the pool, grandparents under the loggia, and the fields glowing gold in every direction. Unforgettable."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1678902177251-7ec8fea483a3?w=1200&q=80",
+          "alt": "Villa with a pool surrounded by trees"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1584605043414-e32fc1dc0566?w=1200&q=80",
+          "alt": "Stone building near trees in the Val d'Orcia"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1649607986785-174b3473a1ce?w=1200&q=80",
+          "alt": "A lone tree in a rolling green field"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1764076327046-fe35f955cba1?w=1200&q=80",
+          "alt": "Dining room with rustic wooden table and chairs"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1612152605347-f93296cb657d?w=1200&q=80",
+          "alt": "White bed linen near a white wooden door"
+        }
+      ]
+    },
+    {
+      "id": "stay-tuscany-003",
+      "airbnbId": "876102938475610294",
+      "name": "Oltrarno Loft with Duomo-View Roof Terrace",
+      "type": "entire_rental_unit",
+      "typeLabel": "Entire rental unit in Florence, Italy",
+      "region": "tuscany",
+      "location": "Oltrarno, Florence, Tuscany, Italy",
+      "lat": 43.7648,
+      "lng": 11.2483,
+      "guests": 4,
+      "bedroomCount": 2,
+      "beds": "2 beds",
+      "bedDetail": "4 guests · 2 bedrooms · 2 beds · 1 bath",
+      "baths": 1,
+      "price": 289,
+      "pricePerNight": 289,
+      "totalForFive": 1445,
+      "currency": "USD",
+      "rating": 4.9,
+      "reviewCount": 143,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Beatrice",
+        "isSuperhost": true,
+        "yearsHosting": 6,
+        "totalReviews": 519,
+        "totalRating": 4.89,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Italian",
+          "Spanish"
+        ],
+        "work": "Art restorer at a workshop in Santo Spirito",
+        "presence": "Lives one floor below; happy to share her list of artisan studios and aperitivo bars."
+      },
+      "highlights": [
+        {
+          "title": "Roof terrace facing the Duomo",
+          "detail": "A private terrace with a straight view to Brunelleschi's dome across the Arno."
+        },
+        {
+          "title": "Artisan quarter location",
+          "detail": "Steps from the workshops and osterie of Santo Spirito, away from the crowds."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the lockbox."
+        }
+      ],
+      "description": "A light-filled top-floor loft in the Oltrarno, Florence's artisan quarter, with a private roof terrace looking across the rooftops to the Duomo. Exposed beams, linen sofas, and a small marble kitchen. Ponte Vecchio is eight minutes on foot; the Boboli Gardens five. Evenings up on the terrace with a Negroni are the whole point.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 double sofa bed"
+        }
+      ],
+      "amenities": [
+        "City skyline view",
+        "Private roof terrace",
+        "Kitchen",
+        "Wifi",
+        "Dedicated workspace",
+        "Washer",
+        "AC - split type ductless system",
+        "Smart TV",
+        "Espresso machine",
+        "Elevator"
+      ],
+      "amenitiesTotal": 37,
+      "safetyNotReported": [
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 4,
+        "cancellation": "Free cancellation for 48 hours. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.9,
+        "accuracy": 4.9,
+        "checkin": 5,
+        "communication": 5,
+        "location": 5,
+        "value": 4.8
+      },
+      "reviewMentions": [
+        {
+          "tag": "Terrace",
+          "count": 67
+        },
+        {
+          "tag": "Location",
+          "count": 58
+        },
+        {
+          "tag": "Walkability",
+          "count": 31
+        },
+        {
+          "tag": "View",
+          "count": 27
+        },
+        {
+          "tag": "Nearby",
+          "count": 19
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Hannah",
+          "yearsOnAirbnb": 10,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "That terrace! We had breakfast and aperitivo up there every single day, staring at the Duomo. The Oltrarno is the right side of the river to stay on — real workshops, real trattorias, fewer tour groups."
+        },
+        {
+          "author": "Marco",
+          "yearsOnAirbnb": 5,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Beatrice's recommendations were gold — the sandwich place in Santo Spirito and the sunset spot at San Miniato especially. Loft is stylish, spotless, and quieter than we expected for central Florence."
+        },
+        {
+          "author": "Elise",
+          "yearsOnAirbnb": 8,
+          "date": "April 2026",
+          "context": "Stayed a few nights",
+          "rating": 4,
+          "text": "Beautiful apartment and an unbeatable terrace. Note the four flights of stairs before the elevator level and pack light. Would absolutely return."
+        },
+        {
+          "author": "Ryan",
+          "yearsOnAirbnb": 3,
+          "date": "February 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Perfect couples base. Ten minutes to everything, and coming home to a private Duomo view never got old."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1476362174823-3a23f4aa6d76?w=1200&q=80",
+          "alt": "Florence cathedral dome during daytime"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1537366057310-3501fc868fd8?w=1200&q=80",
+          "alt": "Ponte Vecchio over the Arno river"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1543429258-cc721a300e8a?w=1200&q=80",
+          "alt": "Busy Florence street lined with stone buildings"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1631724604275-af3bbb5c904d?w=1200&q=80",
+          "alt": "Living room filled with furniture and a lamp"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1616594092403-fb65629b0a46?w=1200&q=80",
+          "alt": "White and brown floral bed linen"
+        }
+      ]
+    },
+    {
+      "id": "stay-tuscany-004",
+      "airbnbId": "563829104756382910",
+      "name": "Casa del Palio: Historic Townhouse Steps from Piazza del Campo",
+      "type": "entire_townhouse",
+      "typeLabel": "Entire townhouse in Siena, Italy",
+      "region": "tuscany",
+      "location": "Terzo di Città, Siena, Tuscany, Italy",
+      "lat": 43.3178,
+      "lng": 11.3305,
+      "guests": 5,
+      "bedroomCount": 2,
+      "beds": "3 beds",
+      "bedDetail": "5 guests · 2 bedrooms · 3 beds · 1.5 baths",
+      "baths": 1.5,
+      "price": 262,
+      "pricePerNight": 262,
+      "totalForFive": 1310,
+      "currency": "USD",
+      "rating": 4.92,
+      "reviewCount": 118,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Giulio",
+        "isSuperhost": true,
+        "yearsHosting": 8,
+        "totalReviews": 342,
+        "totalRating": 4.9,
+        "responseRate": "99%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "work": "History teacher and contrada archivist",
+        "presence": "Born in Siena; leaves a hand-drawn map of the contrade and his favorite osterie."
+      },
+      "highlights": [
+        {
+          "title": "Two minutes from Piazza del Campo",
+          "detail": "Down a quiet medieval lane just off Siena's great shell-shaped square."
+        },
+        {
+          "title": "14th-century building, modern comfort",
+          "detail": "Original brick vaults and beams with a renovated kitchen and baths."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the lockbox."
+        }
+      ],
+      "description": "A tall, narrow medieval townhouse in the Terzo di Città, two minutes' walk from Piazza del Campo but tucked down a lane the crowds never find. Brick-vaulted living room, a snug study under the eaves, and windows that catch the evening bells from the Torre del Mangia. Giulio's notes on contrada life are half the pleasure of staying here.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 double bed + 1 single bed"
+        }
+      ],
+      "amenities": [
+        "Historic city view",
+        "Kitchen",
+        "Wifi",
+        "Dedicated workspace",
+        "Washer",
+        "AC - split type ductless system",
+        "Smart TV",
+        "Espresso machine",
+        "Heated towel rails",
+        "Crib available"
+      ],
+      "amenitiesTotal": 34,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 10:30 AM",
+        "maxGuests": 5,
+        "cancellation": "Free cancellation before Aug 25. Cancel before Sep 15 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.9,
+        "accuracy": 4.9,
+        "checkin": 5,
+        "communication": 5,
+        "location": 5,
+        "value": 4.8
+      },
+      "reviewMentions": [
+        {
+          "tag": "Location",
+          "count": 72
+        },
+        {
+          "tag": "History",
+          "count": 25
+        },
+        {
+          "tag": "Walkability",
+          "count": 24
+        },
+        {
+          "tag": "Host",
+          "count": 18
+        },
+        {
+          "tag": "Quiet",
+          "count": 15
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Isabelle",
+          "yearsOnAirbnb": 9,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "You hear the Torre del Mangia bells and you're on the Campo in two minutes, yet the lane is silent at night. Giulio's contrada map led us to corners of Siena we'd never have found."
+        },
+        {
+          "author": "Ben",
+          "yearsOnAirbnb": 7,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The vaulted living room is stunning and the location cannot be beaten. Climb the tower early, then come back for coffee on your own windowsill overlooking the lane."
+        },
+        {
+          "author": "Carmen",
+          "yearsOnAirbnb": 12,
+          "date": "April 2026",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "Perfect family base — the kids treated the medieval staircase like a castle. Restaurants, gelato, and the Campo all within a five-minute radius."
+        },
+        {
+          "author": "Luca",
+          "yearsOnAirbnb": 4,
+          "date": "March 2026",
+          "context": "Stayed a few nights",
+          "rating": 4,
+          "text": "Beautiful historic home; bring good shoes for Siena's hills and note there's no elevator. We'd stay again without hesitation."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1715004465791-3532a0eced22?w=1200&q=80",
+          "alt": "Torre del Mangia towering over Siena"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1490349858727-b25c13b324a0?w=1200&q=80",
+          "alt": "Aerial view of Siena's old rooftops"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1521794545972-835d747e3503?w=1200&q=80",
+          "alt": "Narrow pathway between tall brick buildings"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1766591463271-f8103f1b77ff?w=1200&q=80",
+          "alt": "Cozy kitchen with a dining table and chairs"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1606796913825-2b02883605e9?w=1200&q=80",
+          "alt": "White bed linen near a green plant"
+        }
+      ]
+    },
+    {
+      "id": "stay-tuscany-005",
+      "airbnbId": "748291056473829105",
+      "name": "La Torretta: Stone House Facing San Gimignano's Towers",
+      "type": "entire_home",
+      "typeLabel": "Entire home in San Gimignano, Italy",
+      "region": "tuscany",
+      "location": "San Gimignano, Tuscany, Italy",
+      "lat": 43.4676,
+      "lng": 11.0431,
+      "guests": 4,
+      "bedroomCount": 2,
+      "beds": "2 beds",
+      "bedDetail": "4 guests · 2 bedrooms · 2 beds · 1 bath",
+      "baths": 1,
+      "price": 315,
+      "pricePerNight": 315,
+      "totalForFive": 1575,
+      "currency": "USD",
+      "rating": 4.95,
+      "reviewCount": 96,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Elena",
+        "isSuperhost": true,
+        "yearsHosting": 10,
+        "totalReviews": 623,
+        "totalRating": 4.94,
+        "responseRate": "100%",
+        "responseTime": "within a few hours",
+        "languages": [
+          "English",
+          "Italian",
+          "German"
+        ],
+        "work": "Runs the family saffron farm below town",
+        "presence": "Lives on the farm ten minutes away; brings saffron and Vernaccia at check-in."
+      },
+      "highlights": [
+        {
+          "title": "Top 5% of homes",
+          "detail": "This home is highly ranked based on ratings, reviews, and reliability."
+        },
+        {
+          "title": "Tower views from the garden",
+          "detail": "The walled garden looks straight at San Gimignano's medieval skyline."
+        },
+        {
+          "title": "Evening magic after the buses leave",
+          "detail": "Stay inside the walls and have the towers to yourself at dusk."
+        }
+      ],
+      "description": "A stone house just inside San Gimignano's walls with a small walled garden framing the famous towers. Cool tile floors, a fireplace nook, and a bedroom window that catches the sunrise over the Torre Grossa. By 6pm the day-trippers drain away and the town — and its skyline — belongs to the people staying the night.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 double bed"
+        }
+      ],
+      "amenities": [
+        "Tower view",
+        "Walled garden",
+        "Kitchen",
+        "Wifi",
+        "Washer",
+        "Fireplace",
+        "AC - split type ductless system",
+        "Espresso machine",
+        "Saffron welcome basket",
+        "Free public parking nearby"
+      ],
+      "amenitiesTotal": 33,
+      "safetyNotReported": [
+        "Smoke alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 4,
+        "cancellation": "Free cancellation for 48 hours. Cancel before Sep 5 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 4.9,
+        "checkin": 5,
+        "communication": 5,
+        "location": 5,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "View",
+          "count": 52
+        },
+        {
+          "tag": "Garden",
+          "count": 27
+        },
+        {
+          "tag": "Evenings",
+          "count": 22
+        },
+        {
+          "tag": "Host",
+          "count": 17
+        },
+        {
+          "tag": "Location",
+          "count": 16
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Nora",
+          "yearsOnAirbnb": 6,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Dinner in the garden with the towers lit up above us — I still can't believe it. Elena's saffron risotto instructions worked perfectly. Stay two nights minimum so you get the town after dark."
+        },
+        {
+          "author": "Pieter",
+          "yearsOnAirbnb": 11,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Gorgeous house, generous host, and that view. San Gimignano at 7am, before anyone arrives, from your own doorstep — worth every euro."
+        },
+        {
+          "author": "Ava",
+          "yearsOnAirbnb": 8,
+          "date": "April 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The house is beautifully kept and the walled garden is the star. Gelateria on the piazza, Vernaccia tastings, sunset walks on the walls: everything within five minutes."
+        },
+        {
+          "author": "Kenji",
+          "yearsOnAirbnb": 5,
+          "date": "October 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Quiet, atmospheric, and perfectly located. Elena's welcome basket with farm saffron was the most thoughtful host touch of our trip."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1672235212392-a6389a42dd9d?w=1200&q=80",
+          "alt": "Aerial view of San Gimignano's medieval towers"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1653228239729-f7cc50704951?w=1200&q=80",
+          "alt": "Hilltop village surrounded by trees"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1666549862692-fb165334a1dd?w=1200&q=80",
+          "alt": "Brick building with a medieval tower"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1625139180258-ea3cc987f24c?w=1200&q=80",
+          "alt": "People dining at outdoor tables at night"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1603894303393-4c6048325f6b?w=1200&q=80",
+          "alt": "Potted plants against a white stone wall"
+        }
+      ]
+    },
+    {
+      "id": "stay-tuscany-006",
+      "airbnbId": "819273645091827364",
+      "name": "Cantina Cottage on a Vino Nobile Estate",
+      "type": "entire_home",
+      "typeLabel": "Entire cottage in Montepulciano, Italy",
+      "region": "tuscany",
+      "location": "Montepulciano, Tuscany, Italy",
+      "lat": 43.0926,
+      "lng": 11.7872,
+      "guests": 4,
+      "bedroomCount": 2,
+      "beds": "2 beds",
+      "bedDetail": "4 guests · 2 bedrooms · 2 beds · 1 bath",
+      "baths": 1,
+      "price": 338,
+      "pricePerNight": 338,
+      "totalForFive": 1690,
+      "currency": "USD",
+      "rating": 4.93,
+      "reviewCount": 71,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Alessandro",
+        "isSuperhost": true,
+        "yearsHosting": 5,
+        "totalReviews": 158,
+        "totalRating": 4.92,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "work": "Fourth-generation Vino Nobile producer",
+        "presence": "Runs the estate cantina next door; guests get a private barrel-cellar tour."
+      },
+      "highlights": [
+        {
+          "title": "Sleep next to the barrel cellar",
+          "detail": "The cottage adjoins the estate's historic cantina — tastings included."
+        },
+        {
+          "title": "Harvest-season immersion",
+          "detail": "September guests can join a morning of the Sangiovese harvest."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the keypad."
+        }
+      ],
+      "description": "A converted stone cottage on a family Vino Nobile estate just below Montepulciano's walls. Vines run to the doorstep, and the historic barrel cellar — cool, dark, and fragrant with oak — is literally next door. Alessandro's private tasting of three vintages is included, and the town's Renaissance piazza is a fifteen-minute uphill walk.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Vineyard view",
+        "Kitchen",
+        "Wifi",
+        "Free parking on premises",
+        "Private cellar tasting included",
+        "Washer",
+        "AC - split type ductless system",
+        "Fireplace",
+        "Outdoor dining pergola",
+        "Smart TV"
+      ],
+      "amenitiesTotal": 38,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 4,
+        "cancellation": "Free cancellation before Aug 22. Cancel before Sep 10 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.9,
+        "accuracy": 5,
+        "checkin": 5,
+        "communication": 5,
+        "location": 4.9,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Wine",
+          "count": 38
+        },
+        {
+          "tag": "Hospitality",
+          "count": 24
+        },
+        {
+          "tag": "Vineyard",
+          "count": 19
+        },
+        {
+          "tag": "Quiet",
+          "count": 13
+        },
+        {
+          "tag": "Breakfast",
+          "count": 9
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Charlotte",
+          "yearsOnAirbnb": 7,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The private cellar tasting with Alessandro was the highlight of two weeks in Italy. Waking up in the vines, walking up to Montepulciano for dinner, rolling back down to your own estate — perfection."
+        },
+        {
+          "author": "Stefan",
+          "yearsOnAirbnb": 9,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "As wine lovers we were in heaven. The cottage is simple, comfortable, and immaculate; the setting and the wine are extraordinary. We shipped a case home."
+        },
+        {
+          "author": "Olivia",
+          "yearsOnAirbnb": 4,
+          "date": "October 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "We came during harvest and got to help pick Sangiovese for a morning — an experience money usually can't buy. Alessandro's family could not have been warmer."
+        },
+        {
+          "author": "Mathieu",
+          "yearsOnAirbnb": 6,
+          "date": "September 2025",
+          "context": "Stayed a few nights",
+          "rating": 4,
+          "text": "Wonderful stay; the walk up to town is steep, so plan on driving in the evening heat. The tasting and the silence among the vines made it for us."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1596142332133-327e2a0ff006?w=1200&q=80",
+          "alt": "Vineyard rows on a Tuscan hillside"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1534655882117-f9eff36a1574?w=1200&q=80",
+          "alt": "Oak barrels in a dim wine cellar"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1596398267243-3e9b68ea5ad9?w=1200&q=80",
+          "alt": "Green grapes on the vine"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1761662826410-3218852da3bf?w=1200&q=80",
+          "alt": "Rustic kitchen with checkered tablecloth and brick walls"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1568930157403-9ad464e5f075?w=1200&q=80",
+          "alt": "Rolling Tuscan hills at dusk"
+        }
+      ]
+    },
+    {
+      "id": "stay-tuscany-007",
+      "airbnbId": "657483920156748392",
+      "name": "Casa delle Mura: Townhouse Inside Lucca's Renaissance Walls",
+      "type": "entire_townhouse",
+      "typeLabel": "Entire townhouse in Lucca, Italy",
+      "region": "tuscany",
+      "location": "Centro Storico, Lucca, Tuscany, Italy",
+      "lat": 43.843,
+      "lng": 10.5045,
+      "guests": 4,
+      "bedroomCount": 2,
+      "beds": "2 beds",
+      "bedDetail": "4 guests · 2 bedrooms · 2 beds · 1.5 baths",
+      "baths": 1.5,
+      "price": 238,
+      "pricePerNight": 238,
+      "totalForFive": 1190,
+      "currency": "USD",
+      "rating": 4.89,
+      "reviewCount": 134,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Martina",
+        "isSuperhost": true,
+        "yearsHosting": 6,
+        "totalReviews": 287,
+        "totalRating": 4.88,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "work": "Cellist with the Puccini festival orchestra",
+        "presence": "Lives around the corner; lends guests two bicycles for the wall-top promenade."
+      },
+      "highlights": [
+        {
+          "title": "Free bikes for the walls",
+          "detail": "Two city bikes included — Lucca's tree-lined ramparts are a 4 km cycling loop."
+        },
+        {
+          "title": "Quiet lane near Piazza Anfiteatro",
+          "detail": "Three minutes from the oval piazza built into the Roman amphitheatre."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the lockbox."
+        }
+      ],
+      "description": "A slim medieval townhouse on a quiet lane inside Lucca's perfectly preserved Renaissance walls. Shuttered windows over the street, a marble stair, and a sunny top-floor kitchen. Martina leaves two bicycles by the door — the ride around the tree-lined ramparts at golden hour, gelato in hand, is obligatory.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 double bed"
+        }
+      ],
+      "amenities": [
+        "Historic center location",
+        "2 bicycles included",
+        "Kitchen",
+        "Wifi",
+        "Washer",
+        "AC - split type ductless system",
+        "Dedicated workspace",
+        "Smart TV",
+        "Espresso machine",
+        "Crib available"
+      ],
+      "amenitiesTotal": 31,
+      "safetyNotReported": [
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 4,
+        "cancellation": "Free cancellation for 48 hours. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.9,
+        "accuracy": 4.9,
+        "checkin": 4.9,
+        "communication": 5,
+        "location": 5,
+        "value": 4.8
+      },
+      "reviewMentions": [
+        {
+          "tag": "Bikes",
+          "count": 49
+        },
+        {
+          "tag": "Location",
+          "count": 47
+        },
+        {
+          "tag": "Walkability",
+          "count": 26
+        },
+        {
+          "tag": "Host",
+          "count": 15
+        },
+        {
+          "tag": "Nearby",
+          "count": 12
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Grace",
+          "yearsOnAirbnb": 8,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Cycling the walls at sunset on Martina's bikes was the single best free activity of our trip. The house is charming, cool, and steps from everything inside the walls."
+        },
+        {
+          "author": "Antoine",
+          "yearsOnAirbnb": 10,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Lucca is the most underrated town in Tuscany and this house is the way to do it. Climb the Torre Guinigi, eat tordelli lucchese, ride the ramparts. Repeat."
+        },
+        {
+          "author": "Sarah",
+          "yearsOnAirbnb": 5,
+          "date": "April 2026",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "Our kids loved the bikes and the car-free streets. Martina even left tickets info for the Puccini recital at San Giovanni. Warm, effortless hosting."
+        },
+        {
+          "author": "Diego",
+          "yearsOnAirbnb": 7,
+          "date": "March 2026",
+          "context": "Stayed a few nights",
+          "rating": 4,
+          "text": "Lovely house on a genuinely quiet lane. The stairs are steep and narrow — very Lucca — but the location and the bikes more than make up for it."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1747593467598-9cf0a9e46f02?w=1200&q=80",
+          "alt": "Narrow alleyway leading to a brick tower in Lucca"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1616577439634-9bbe1d16433e?w=1200&q=80",
+          "alt": "Aerial view of Lucca's rooftops"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1616577441006-8a6b3fc50a7d?w=1200&q=80",
+          "alt": "Stone buildings under a blue sky in Lucca"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1598265911676-da0f6240b2b6?w=1200&q=80",
+          "alt": "People walking a street in Lucca's old town"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1612152605347-f93296cb657d?w=1200&q=80",
+          "alt": "White bed linen near a white wooden door"
+        }
+      ]
+    },
+    {
+      "id": "stay-tuscany-008",
+      "airbnbId": "509182736450918273",
+      "name": "Agriturismo Le Querce: Olive Grove Farm Stay near Cortona",
+      "type": "entire_home",
+      "typeLabel": "Entire farm stay in Cortona, Italy",
+      "region": "tuscany",
+      "location": "Cortona, Tuscany, Italy",
+      "lat": 43.2612,
+      "lng": 11.9702,
+      "guests": 6,
+      "bedroomCount": 3,
+      "beds": "4 beds",
+      "bedDetail": "6 guests · 3 bedrooms · 4 beds · 2 baths",
+      "baths": 2,
+      "price": 196,
+      "pricePerNight": 196,
+      "totalForFive": 980,
+      "currency": "USD",
+      "rating": 4.87,
+      "reviewCount": 152,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Paolo & Anna",
+        "isSuperhost": true,
+        "yearsHosting": 12,
+        "totalReviews": 704,
+        "totalRating": 4.86,
+        "responseRate": "98%",
+        "responseTime": "within a few hours",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "work": "Olive farmers — 900 trees, cold-pressed on site",
+        "presence": "Live in the main farmhouse; dinner at their table twice a week if you'd like to join."
+      },
+      "highlights": [
+        {
+          "title": "Working olive farm",
+          "detail": "900 trees around the house; November guests can join the harvest and frantoio pressing."
+        },
+        {
+          "title": "Farm dinners with the hosts",
+          "detail": "Twice-weekly communal dinners with Anna's ribollita and the estate's own oil."
+        },
+        {
+          "title": "Great value in the Cortona hills",
+          "detail": "Sweeping Valdichiana views at a family-farm price."
+        }
+      ],
+      "description": "A rambling farmhouse apartment on Paolo and Anna's olive farm in the hills below Cortona, with the Valdichiana stretched out below and Lake Trasimeno glinting in the distance. Rooms are simple, generous, and cool; breakfast comes with the farm's own oil, honey, and jams. Twice a week, Anna sets a long table under the oaks and everybody eats together.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 double bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Valley view",
+        "Kitchen",
+        "Wifi",
+        "Free parking on premises",
+        "Shared pool (seasonal)",
+        "Farm breakfast basket",
+        "Washer",
+        "Fireplace",
+        "Outdoor dining under the oaks",
+        "Pets allowed"
+      ],
+      "amenitiesTotal": 29,
+      "safetyNotReported": [
+        "Smoke alarm",
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 2:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 6,
+        "cancellation": "Free cancellation before Aug 18. Cancel before Sep 8 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.8,
+        "accuracy": 4.9,
+        "checkin": 4.9,
+        "communication": 5,
+        "location": 4.8,
+        "value": 5
+      },
+      "reviewMentions": [
+        {
+          "tag": "Hosts",
+          "count": 63
+        },
+        {
+          "tag": "Dinners",
+          "count": 41
+        },
+        {
+          "tag": "Value",
+          "count": 33
+        },
+        {
+          "tag": "View",
+          "count": 28
+        },
+        {
+          "tag": "Family",
+          "count": 20
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Emily",
+          "yearsOnAirbnb": 9,
+          "date": "June 2026",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "Paolo showed our kids the olive press and Anna taught me her ribollita. This is the Tuscany you hope exists — it does, and it costs less than a city hotel room."
+        },
+        {
+          "author": "Henrik",
+          "yearsOnAirbnb": 6,
+          "date": "May 2026",
+          "context": "Stayed a week",
+          "rating": 5,
+          "text": "A week here recalibrated us. Mornings with espresso looking at Lake Trasimeno, days in Cortona and Montepulciano, farm dinners under the oaks. The oil is spectacular — take home as much as you can carry."
+        },
+        {
+          "author": "Rosa",
+          "yearsOnAirbnb": 11,
+          "date": "April 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Warmest hosts we've met on Airbnb. The apartment is comfortable rather than fancy, and that's exactly right for this place."
+        },
+        {
+          "author": "Will",
+          "yearsOnAirbnb": 3,
+          "date": "November 2025",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "We came for the olive harvest and spent two days picking and pressing with Paolo. Sore shoulders, full hearts, and a tin of new oil in the suitcase."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1552598715-7eeb9232a2ac?w=1200&q=80",
+          "alt": "Farmhouse in the middle of a grass field"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1605447302541-bd14aa1417ab?w=1200&q=80",
+          "alt": "Aerial view of green trees and plowed fields"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1653228410470-9915c4cfca67?w=1200&q=80",
+          "alt": "Patio table and chairs overlooking the valley"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1754415266974-404a215e6c62?w=1200&q=80",
+          "alt": "Rustic kitchen with wooden cabinets"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1549386502-c655236b67cf?w=1200&q=80",
+          "alt": "Cypress trees along a road at sunset"
+        }
+      ]
+    },
+    {
+      "id": "stay-tuscany-009",
+      "airbnbId": "382910475638291047",
+      "name": "Podere Acquaviva: Maremma Villa near the Saturnia Hot Springs",
+      "type": "entire_villa",
+      "typeLabel": "Entire villa in Manciano, Italy",
+      "region": "tuscany",
+      "location": "Manciano, Maremma, Tuscany, Italy",
+      "lat": 42.6494,
+      "lng": 11.509,
+      "guests": 6,
+      "bedroomCount": 3,
+      "beds": "4 beds",
+      "bedDetail": "6 guests · 3 bedrooms · 4 beds · 2 baths",
+      "baths": 2,
+      "price": 272,
+      "pricePerNight": 272,
+      "totalForFive": 1360,
+      "currency": "USD",
+      "rating": 4.91,
+      "reviewCount": 58,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Valentina",
+        "isSuperhost": true,
+        "yearsHosting": 4,
+        "totalReviews": 96,
+        "totalRating": 4.9,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "work": "Grew up in Manciano; hospitality manager",
+        "presence": "Sends a dawn-bathing guide to the free Cascate del Mulino before every stay."
+      },
+      "highlights": [
+        {
+          "title": "10 minutes from the Saturnia cascades",
+          "detail": "Soak in the free travertine pools of the Cascate del Mulino before the crowds."
+        },
+        {
+          "title": "Maremma quiet",
+          "detail": "Tuscany's wild south — big skies, few tourists, and butteri cowboy country."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the keypad."
+        }
+      ],
+      "description": "A stone villa in the open Maremma countryside, ten minutes' drive from the milky-blue travertine pools of Saturnia. Wide lawns, a long outdoor table under the fig tree, and nothing on the horizon but hills and hawks. Valentina's dawn guide gets you to the Cascate del Mulino at first light, when the steam rises and you have the terraces to yourself.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Countryside view",
+        "Kitchen",
+        "Wifi",
+        "Free parking on premises",
+        "Outdoor dining under the fig tree",
+        "Washer",
+        "AC - split type ductless system",
+        "Fireplace",
+        "BBQ grill",
+        "Pets allowed"
+      ],
+      "amenitiesTotal": 35,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 6,
+        "cancellation": "Free cancellation for 48 hours. Cancel before Sep 3 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.9,
+        "accuracy": 4.9,
+        "checkin": 5,
+        "communication": 5,
+        "location": 4.8,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Hot springs",
+          "count": 34
+        },
+        {
+          "tag": "Quiet",
+          "count": 21
+        },
+        {
+          "tag": "Space",
+          "count": 15
+        },
+        {
+          "tag": "Stargazing",
+          "count": 11
+        },
+        {
+          "tag": "Host",
+          "count": 10
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Julia",
+          "yearsOnAirbnb": 7,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "We followed Valentina's advice and reached the cascades at 6:15am — steam, birdsong, and the pools entirely to ourselves. Back at the villa by nine for breakfast under the fig tree. Do exactly this."
+        },
+        {
+          "author": "Tommaso",
+          "yearsOnAirbnb": 10,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The Maremma is Tuscany with the volume turned down. Enormous skies, empty roads, wonderful food in Manciano and Pitigliano. The villa is comfortable, spotless, and dark enough at night for proper stargazing."
+        },
+        {
+          "author": "Claire",
+          "yearsOnAirbnb": 5,
+          "date": "April 2026",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "Kids in the warm pools, adults in blissful silence. The house had everything, and the drive to Pitigliano — the tufa town on the cliff — is jaw-dropping."
+        },
+        {
+          "author": "Andreas",
+          "yearsOnAirbnb": 8,
+          "date": "October 2025",
+          "context": "Stayed a few nights",
+          "rating": 4,
+          "text": "Beautiful, remote, and calm. You need a car for everything, which is the point. The fireplace evenings were as good as the springs."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1643365118248-2d6f7592fc93?w=1200&q=80",
+          "alt": "Aerial view of the Saturnia thermal pools"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1769066339205-6641775c3480?w=1200&q=80",
+          "alt": "Steaming blue thermal springs"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1664462114298-dd29ba198f7a?w=1200&q=80",
+          "alt": "Stone building in a wooded area"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1657611297303-c569b696a61a?w=1200&q=80",
+          "alt": "Green field with a farmhouse in the distance"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1616594092403-fb65629b0a46?w=1200&q=80",
+          "alt": "White and brown floral bed linen"
+        }
+      ]
+    },
+    {
+      "id": "stay-tuscany-010",
+      "airbnbId": "294857610329485761",
+      "name": "Il Falco: Hilltop Apartment with Volterra Views",
+      "type": "entire_rental_unit",
+      "typeLabel": "Entire rental unit in Volterra, Italy",
+      "region": "tuscany",
+      "location": "Volterra, Tuscany, Italy",
+      "lat": 43.402,
+      "lng": 10.8614,
+      "guests": 3,
+      "bedroomCount": 1,
+      "beds": "2 beds",
+      "bedDetail": "3 guests · 1 bedroom · 2 beds · 1 bath",
+      "baths": 1,
+      "price": 189,
+      "pricePerNight": 189,
+      "totalForFive": 945,
+      "currency": "USD",
+      "rating": 4.96,
+      "reviewCount": 27,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": true,
+      "isRareFind": false,
+      "host": {
+        "name": "Simone",
+        "isSuperhost": false,
+        "yearsHosting": 2,
+        "totalReviews": 31,
+        "totalRating": 4.95,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "work": "Alabaster carver with a workshop in town",
+        "presence": "Works two streets away; guests are welcome to visit the alabaster studio."
+      },
+      "highlights": [
+        {
+          "title": "Newly listed",
+          "detail": "Freshly renovated apartment, opened to guests in early 2026."
+        },
+        {
+          "title": "Etruscan hilltop town",
+          "detail": "Volterra's Roman theatre, alabaster workshops, and ramparts are all on foot."
+        },
+        {
+          "title": "Valley views from the window seat",
+          "detail": "The deep window seat looks over the Cecina valley to the sea haze."
+        }
+      ],
+      "description": "A snug top-floor apartment inside Volterra's ancient walls, renovated by Simone around a deep stone window seat that frames the Cecina valley all the way to the coast. Alabaster lamps from his own workshop, a compact modern kitchen, and the Roman theatre three minutes downhill. Volterra stays wonderfully itself after dark.",
+      "bedrooms": [
+        {
+          "name": "Bedroom",
+          "beds": "1 queen bed + 1 single bed"
+        }
+      ],
+      "amenities": [
+        "Valley view",
+        "Kitchen",
+        "Wifi",
+        "Dedicated workspace",
+        "Washer",
+        "AC - split type ductless system",
+        "Smart TV",
+        "Espresso machine",
+        "Alabaster reading lamps",
+        "Free public parking nearby"
+      ],
+      "amenitiesTotal": 27,
+      "safetyNotReported": [
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 10:30 AM",
+        "maxGuests": 3,
+        "cancellation": "Free cancellation for 48 hours. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "checkin": 5,
+        "communication": 5,
+        "location": 4.9,
+        "value": 5
+      },
+      "reviewMentions": [
+        {
+          "tag": "View",
+          "count": 14
+        },
+        {
+          "tag": "Design",
+          "count": 11
+        },
+        {
+          "tag": "Host",
+          "count": 9
+        },
+        {
+          "tag": "Quiet",
+          "count": 7
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Miriam",
+          "yearsOnAirbnb": 6,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The window seat is where I drank every coffee and read every evening. Volterra is magic once the day-trippers leave — and Simone's alabaster studio visit was a lovely bonus."
+        },
+        {
+          "author": "Jack",
+          "yearsOnAirbnb": 9,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Stylish, spotless, and quiet. Volterra deserves more than a day trip and this apartment is the reason to stay over."
+        },
+        {
+          "author": "Paola",
+          "yearsOnAirbnb": 3,
+          "date": "April 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Simone thought of everything in the renovation. Watching the valley turn pink at sunset from the window seat was our favorite moment in Tuscany."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1694974247491-ea3f789292ce?w=1200&q=80",
+          "alt": "Hilltop crowned by a medieval fortress"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1694974249671-2a921a644a1c?w=1200&q=80",
+          "alt": "Tuscan countryside seen from a hilltop"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1516108317508-6788f6a160e4?w=1200&q=80",
+          "alt": "Hilltop village under a clear sky"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1570714403123-07d16a8247b3?w=1200&q=80",
+          "alt": "Old stone building near trees"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1764076327046-fe35f955cba1?w=1200&q=80",
+          "alt": "Dining room with rustic wooden table and chairs"
+        }
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "id": "exp-tuscany-001",
+      "name": "Chianti Classico small-group wine tour",
+      "type": "local_flavors",
+      "region": "tuscany",
+      "location": "Greve in Chianti, Tuscany, Italy",
+      "lat": 43.585,
+      "lng": 11.314,
+      "price": 149,
+      "duration": "5 hours",
+      "groupSize": "Up to 8 guests, ages 18+",
+      "rating": 4.97,
+      "reviews": 208,
+      "host": {
+        "name": "Matteo",
+        "bio": "Sommelier and Greve native who spent ten years in Florence's wine bars before coming home to the family vineyards. Knows every unmarked cellar door between Greve and Radda."
+      },
+      "description": "Visit two family-run Chianti Classico estates that don't take walk-ins — one historic cellar under a castle village, one natural-wine upstart. Six wines, a vineyard walk through Sangiovese rows, and a long farm lunch with pecorino, finocchiona, and bread from the wood oven.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1744909229894-883bb19b552f?w=1200&q=80",
+          "alt": "Vineyard rows leading to a Tuscan villa"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1726741827090-0b5a52b45686?w=1200&q=80",
+          "alt": "A person holding a glass of red wine"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1554598286-ed7bfd1dedca?w=1200&q=80",
+          "alt": "Bottles of wine aging in a cellar"
+        }
+      ]
+    },
+    {
+      "id": "exp-tuscany-002",
+      "name": "Truffle hunting with Lagotto dogs in San Miniato",
+      "type": "get_outside",
+      "region": "tuscany",
+      "location": "San Miniato, Tuscany, Italy",
+      "lat": 43.679,
+      "lng": 10.852,
+      "price": 128,
+      "duration": "3 hours",
+      "groupSize": "Up to 6 guests, all ages",
+      "rating": 4.98,
+      "reviews": 176,
+      "host": {
+        "name": "Giacomo",
+        "bio": "Third-generation tartufaio from San Miniato, home of the white truffle. Hunts year-round with his Lagotto Romagnolo dogs, Nebbia and Toto."
+      },
+      "description": "Walk the oak woods of San Miniato with Giacomo and his two Lagotto dogs as they nose out truffles in the wild. Learn how a tartufaio reads the terrain, then head back to the farmhouse for tagliolini with shaved truffle and a glass of Chianti while your finds are weighed.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1589208038781-a183a2d3c0fc?w=1200&q=80",
+          "alt": "Truffle hunter holding a brown and white dog"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1669022929311-2d7e2ec431ba?w=1200&q=80",
+          "alt": "A dog nosing through the woods"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1601170022284-3a8b1eedf844?w=1200&q=80",
+          "alt": "Fresh truffles on a wooden board"
+        }
+      ]
+    },
+    {
+      "id": "exp-tuscany-003",
+      "name": "Handmade pasta workshop in a Florence home kitchen",
+      "type": "local_flavors",
+      "region": "tuscany",
+      "location": "Sant'Ambrogio, Florence, Tuscany, Italy",
+      "lat": 43.771,
+      "lng": 11.265,
+      "price": 98,
+      "duration": "3 hours",
+      "groupSize": "Up to 8 guests, ages 8+",
+      "rating": 4.96,
+      "reviews": 342,
+      "host": {
+        "name": "Nonna Lucia & Sara",
+        "bio": "Lucia has rolled pasta by hand for sixty years; her granddaughter Sara translates, pours the wine, and keeps the flour off your phone."
+      },
+      "description": "Shop the Sant'Ambrogio market for eggs and seasonal produce, then roll pici, tagliatelle, and ravioli by hand at Lucia's kitchen table. You'll eat everything you make, family-style, with her slow-simmered ragù and plenty of Chianti. Aprons, recipes, and hugs included.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1513553016575-0ccd93e15315?w=1200&q=80",
+          "alt": "Flour with a cracked egg for fresh pasta"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1447279506476-3faec8071eee?w=1200&q=80",
+          "alt": "Hands sheeting pasta dough"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1465911817134-741b5e473a1b?w=1200&q=80",
+          "alt": "A pile of fresh handmade pasta"
+        }
+      ]
+    },
+    {
+      "id": "exp-tuscany-004",
+      "name": "Vespa day through the Chianti hills",
+      "type": "get_outside",
+      "region": "tuscany",
+      "location": "Florence, Tuscany, Italy",
+      "lat": 43.756,
+      "lng": 11.276,
+      "price": 179,
+      "duration": "6 hours",
+      "groupSize": "Up to 10 guests, ages 18+ (driver's license required)",
+      "rating": 4.94,
+      "reviews": 289,
+      "host": {
+        "name": "Rico",
+        "bio": "Motorcycle guide and former bike courier who has led Vespa tours on the SR222 Chiantigiana for nine years. Obsessive about backroads and panino stops."
+      },
+      "description": "Ride a classic Vespa in convoy from Florence into the Chianti hills — cypress switchbacks, the SR222 wine road, and gravel lanes through the vines. Stops for espresso in a piazza, a cellar tasting (drivers spit, passengers sip), and a long farmhouse lunch before rolling home at golden hour.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1616581932361-f3aa7f297944?w=1200&q=80",
+          "alt": "Classic scooter on a country road"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1594923206637-101ef1614eb5?w=1200&q=80",
+          "alt": "White scooter parked beside wooden wine barrels"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1518098268026-4e89f1a2cd8e?w=1200&q=80",
+          "alt": "Country road through golden fields at sunset"
+        }
+      ]
+    },
+    {
+      "id": "exp-tuscany-005",
+      "name": "Saturnia hot springs at dawn",
+      "type": "get_outside",
+      "region": "tuscany",
+      "location": "Saturnia, Manciano, Tuscany, Italy",
+      "lat": 42.649,
+      "lng": 11.512,
+      "price": 68,
+      "duration": "2.5 hours",
+      "groupSize": "Up to 8 guests, ages 12+",
+      "rating": 4.95,
+      "reviews": 121,
+      "host": {
+        "name": "Valentina",
+        "bio": "Maremma native and licensed guide who has been soaking at the Cascate del Mulino since before it had a parking lot. Brings towels, robes, and thermoses of espresso."
+      },
+      "description": "Meet in the dark and walk down to the Cascate del Mulino as the sky lightens — steaming, milky-blue travertine terraces with nobody in them. Soak through sunrise at 37°C while Valentina shares the geology and legends of the springs, then warm up with espresso and pastries from Manciano's bakery.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1643365118248-2d6f7592fc93?w=1200&q=80",
+          "alt": "Aerial view of the Saturnia thermal pools"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1679637175058-cada15d04aa2?w=1200&q=80",
+          "alt": "Bathers in the springs beside an old stone mill"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1651083627002-45e3676e2b43?w=1200&q=80",
+          "alt": "People soaking in a natural thermal pool"
+        }
+      ]
+    },
+    {
+      "id": "exp-tuscany-006",
+      "name": "Renaissance fresco workshop in a Florence studio",
+      "type": "local_culture",
+      "region": "tuscany",
+      "location": "San Frediano, Florence, Tuscany, Italy",
+      "lat": 43.7685,
+      "lng": 11.241,
+      "price": 115,
+      "duration": "3 hours",
+      "groupSize": "Up to 8 guests, ages 10+",
+      "rating": 4.99,
+      "reviews": 154,
+      "host": {
+        "name": "Caterina",
+        "bio": "Trained fresco restorer who has worked on chapel cycles in Florence and Arezzo. Teaches the buon fresco technique in her San Frediano studio."
+      },
+      "description": "Paint a true buon fresco the way Giotto's workshop did: trace your cartoon, lay fresh lime plaster, and work mineral pigments into the wet intonaco before it sets. Caterina walks you through the chemistry and the art history while you work. Your finished fresco panel goes home with you.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1531944213227-db53a6d0f3bd?w=1200&q=80",
+          "alt": "Frescoed gothic interior with striped columns"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1476362174823-3a23f4aa6d76?w=1200&q=80",
+          "alt": "Florence cathedral dome during daytime"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1526216538347-8a69e894ae24?w=1200&q=80",
+          "alt": "Florence skyline at night"
+        }
+      ]
+    },
+    {
+      "id": "exp-tuscany-007",
+      "name": "Val d'Orcia sunrise photography tour",
+      "type": "get_outside",
+      "region": "tuscany",
+      "location": "Pienza, Val d'Orcia, Tuscany, Italy",
+      "lat": 43.077,
+      "lng": 11.679,
+      "price": 89,
+      "duration": "3 hours",
+      "groupSize": "Up to 6 guests, ages 14+",
+      "rating": 4.97,
+      "reviews": 98,
+      "host": {
+        "name": "Davide",
+        "bio": "Landscape photographer whose Val d'Orcia work has run in National Geographic Italia. Has chased fog in these hills every dawn season for twelve years."
+      },
+      "description": "Chase first light across the Val d'Orcia's most photogenic corners — the Cappella della Madonna di Vitaleta, cypress groves rising from the fog, and gravel roads glowing gold. Davide positions you for the shots, coaches composition at any skill level, and finishes with cappuccini in Pienza as the town wakes.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1718338561052-bdd1c58ddf6d?w=1200&q=80",
+          "alt": "A row of cypress trees in a foggy field"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1649607986785-174b3473a1ce?w=1200&q=80",
+          "alt": "A lone tree in a rolling green field"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1631189085871-0879fae735d7?w=1200&q=80",
+          "alt": "Green field under a cloudy Tuscan sky"
+        }
+      ]
+    },
+    {
+      "id": "exp-tuscany-008",
+      "name": "Underground cellar tasting in Montepulciano",
+      "type": "local_flavors",
+      "region": "tuscany",
+      "location": "Montepulciano, Tuscany, Italy",
+      "lat": 43.093,
+      "lng": 11.786,
+      "price": 79,
+      "duration": "2 hours",
+      "groupSize": "Up to 10 guests, ages 18+",
+      "rating": 4.93,
+      "reviews": 187,
+      "host": {
+        "name": "Alessandro",
+        "bio": "Fourth-generation Vino Nobile producer whose family cellars tunnel beneath Montepulciano's Renaissance palazzi, some galleries dating to the Etruscans."
+      },
+      "description": "Descend beneath Montepulciano's streets into centuries-old tufa galleries stacked with oak botti. Taste five wines from Rosso to Riserva-level Vino Nobile beside the barrels they aged in, with pecorino di Pienza and salumi between pours. History, geology, and Sangiovese in one underground hour.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1578911373434-0cb395d2cbfb?w=1200&q=80",
+          "alt": "Wine bottles resting on a rack"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1561906814-23da9a8bfee0?w=1200&q=80",
+          "alt": "Barrels aging in a vaulted brick cellar"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1567590997610-cca4b1fd9027?w=1200&q=80",
+          "alt": "Ripe grape clusters on the vine"
+        }
+      ]
+    },
+    {
+      "id": "exp-tuscany-009",
+      "name": "Wood-fired pizza and bread day at a Chianti agriturismo",
+      "type": "local_flavors",
+      "region": "tuscany",
+      "location": "Panzano in Chianti, Tuscany, Italy",
+      "lat": 43.545,
+      "lng": 11.312,
+      "price": 132,
+      "duration": "4 hours",
+      "groupSize": "Up to 10 guests, all ages",
+      "rating": 4.95,
+      "reviews": 143,
+      "host": {
+        "name": "Rosa",
+        "bio": "Farm cook at her family's Panzano agriturismo, where the wood oven has been lit every Saturday since 1962. Grows the tomatoes, milks the sheep, misses nothing."
+      },
+      "description": "Fire the 1962 brick oven and spend the afternoon making dough from the farm's own flour — schiacciata glistening with new oil, pizzas topped from the garden, and a loaf to carry home. Long table lunch under the pergola with the farm's wine while the embers die down.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=1200&q=80",
+          "alt": "Wood-fired pizza on a chopping board"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1532117472055-4d0734b51f31?w=1200&q=80",
+          "alt": "Wine glasses and shared plates on a table"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1761662826410-3218852da3bf?w=1200&q=80",
+          "alt": "Rustic kitchen with checkered tablecloth and brick walls"
+        }
+      ]
+    },
+    {
+      "id": "exp-tuscany-010",
+      "name": "Lucca walls and countryside e-bike ride",
+      "type": "get_outside",
+      "region": "tuscany",
+      "location": "Lucca, Tuscany, Italy",
+      "lat": 43.842,
+      "lng": 10.507,
+      "price": 72,
+      "duration": "3.5 hours",
+      "groupSize": "Up to 8 guests, ages 14+",
+      "rating": 4.92,
+      "reviews": 167,
+      "host": {
+        "name": "Filippo",
+        "bio": "Lucca cycling guide and former regional road racer. Plans routes around bakeries, viewpoints, and the quietest lanes out of the city gates."
+      },
+      "description": "Loop the top of Lucca's Renaissance walls under the plane trees, then roll out through the city gates on quiet lanes to hillside olive groves and a 19th-century aqueduct. E-bikes flatten the hills; a stop for buccellato (Lucca's anise-raisin bread) and espresso flattens any remaining resistance.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1616577439634-9bbe1d16433e?w=1200&q=80",
+          "alt": "Aerial view of Lucca's rooftops"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1707401100280-b40d51f1846a?w=1200&q=80",
+          "alt": "View over Lucca with mountains behind"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1598265911676-da0f6240b2b6?w=1200&q=80",
+          "alt": "People walking a street in Lucca's old town"
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "svc-tuscany-001",
+      "name": "Osteria del Cinghiale Bianco",
+      "type": "restaurant",
+      "region": "tuscany",
+      "location": "Oltrarno, Florence, Tuscany, Italy",
+      "lat": 43.768,
+      "lng": 11.247,
+      "priceRange": "From $35 / person",
+      "cuisine": "Tuscan osteria",
+      "rating": 4.91,
+      "reviews": 486,
+      "host": {
+        "name": "Massimo",
+        "bio": "Florentine oste who took over the family osteria from his father in 2004. Sources wild boar from the Maremma and pours Chianti from producers he visits himself."
+      },
+      "description": "A wood-paneled Oltrarno osteria doing the Florentine classics without apology: pappardelle al cinghiale, ribollita, and peposo simmered overnight in Chianti. Forty seats, paper menus, and a wine list that rewards asking Massimo what's open.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200&q=80",
+          "alt": "Plated dish on a candlelit restaurant table"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1516100882582-96c3a05fe590?w=1200&q=80",
+          "alt": "Pasta in tomato sauce"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1579027989536-b7b1f875659b?w=1200&q=80",
+          "alt": "String lights over an outdoor dining terrace"
+        }
+      ]
+    },
+    {
+      "id": "svc-tuscany-002",
+      "name": "Enoteca La Vecchia Botte",
+      "type": "wine_bar",
+      "region": "tuscany",
+      "location": "Terzo di Camollia, Siena, Tuscany, Italy",
+      "lat": 43.321,
+      "lng": 11.329,
+      "priceRange": "From $18 / person",
+      "cuisine": "Wine bar & small plates",
+      "rating": 4.94,
+      "reviews": 312,
+      "host": {
+        "name": "Cecilia",
+        "bio": "Sienese sommelier who stocked cellars for restaurants in Milan before opening her own forty-label-by-the-glass enoteca near Piazza Salimbeni."
+      },
+      "description": "A vaulted brick wine bar pouring the deep cuts of southern Tuscany — Brunello, Vino Nobile, and small-grower Chianti Colli Senesi — alongside crostini neri, pecorino flights, and lardo di Colonnata on warm bread. Cecilia will build you a tasting from whatever's singing that week.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1578911373434-0cb395d2cbfb?w=1200&q=80",
+          "alt": "Wine bottles resting on a rack"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1726741827090-0b5a52b45686?w=1200&q=80",
+          "alt": "A person holding a glass of red wine"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1615780324244-29b71ae12f7d?w=1200&q=80",
+          "alt": "Wooden barrels against a brick wall"
+        }
+      ]
+    },
+    {
+      "id": "svc-tuscany-003",
+      "name": "Trattoria I Pici di Nonna Ada",
+      "type": "restaurant",
+      "region": "tuscany",
+      "location": "Montepulciano, Tuscany, Italy",
+      "lat": 43.094,
+      "lng": 11.781,
+      "priceRange": "From $28 / person",
+      "cuisine": "Traditional Tuscan",
+      "rating": 4.93,
+      "reviews": 428,
+      "host": {
+        "name": "Ada & Franco",
+        "bio": "Ada has hand-rolled pici every morning for forty years; her son Franco runs the dining room and the all-Montepulciano wine list."
+      },
+      "description": "The pici — fat, hand-rolled strands sauced with garlicky aglione tomato or crumbled duck ragù — are the reason to climb Montepulciano's hill hungry. Twelve tables, checkered cloths, and a carafe of the family's Rosso that never seems to empty.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=1200&q=80",
+          "alt": "Pesto pasta with sliced tomatoes on a white plate"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1556761223-4c4282c73f77?w=1200&q=80",
+          "alt": "A fork twirling fresh spaghetti"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?w=1200&q=80",
+          "alt": "Tomato and greens on a white ceramic plate"
+        }
+      ]
+    },
+    {
+      "id": "svc-tuscany-004",
+      "name": "Braceria Santo Spirito",
+      "type": "restaurant",
+      "region": "tuscany",
+      "location": "Santo Spirito, Florence, Tuscany, Italy",
+      "lat": 43.7665,
+      "lng": 11.246,
+      "priceRange": "From $55 / person",
+      "cuisine": "Florentine steakhouse",
+      "rating": 4.89,
+      "reviews": 374,
+      "host": {
+        "name": "Leonardo",
+        "bio": "Third-generation Florentine butcher turned grill master. Selects Chianina beef himself and cuts the bistecca tableside before it hits the coals."
+      },
+      "description": "A temple to bistecca alla fiorentina: Chianina beef dry-aged forty days, cut thick, seared over oak coals, and served rare — always rare — with white beans and new oil. Book the early seating and start with crostini and a Brunello from the blackboard.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1600803907087-f56d462fd26b?w=1200&q=80",
+          "alt": "Pasta dish in a white ceramic bowl"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1532117472055-4d0734b51f31?w=1200&q=80",
+          "alt": "Wine glasses and shared plates on a table"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1583855282680-6dbdc69b0932?w=1200&q=80",
+          "alt": "Street lamp on an old stone building"
+        }
+      ]
+    },
+    {
+      "id": "svc-tuscany-005",
+      "name": "Pizzeria Le Mura",
+      "type": "restaurant",
+      "region": "tuscany",
+      "location": "Centro Storico, Lucca, Tuscany, Italy",
+      "lat": 43.844,
+      "lng": 10.506,
+      "priceRange": "From $16 / person",
+      "cuisine": "Wood-fired pizzeria",
+      "rating": 4.87,
+      "reviews": 519,
+      "host": {
+        "name": "Ciro & Martina",
+        "bio": "Ciro brought his Naples oven-building family's craft north; Martina, a Lucca native, added the local farro crusts and garden toppings."
+      },
+      "description": "Blistered wood-fired pies a two-minute walk from Lucca's walls — a Naples-trained hand with Tuscan toppings like sausage and cavolo nero, burrata and anchovy, or the farro-crust marinara. Counter seats face the oven; the courtyard tables fill by 7:30.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1598023696416-0193a0bcd302?w=1200&q=80",
+          "alt": "Pizza with basil and red sauce"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=1200&q=80",
+          "alt": "Wood-fired pizza on a chopping board"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1616577441006-8a6b3fc50a7d?w=1200&q=80",
+          "alt": "Stone buildings under a blue sky in Lucca"
+        }
+      ]
+    },
+    {
+      "id": "svc-tuscany-006",
+      "name": "Chef Cosimo: Private Villa Dinners",
+      "type": "chef",
+      "region": "tuscany",
+      "location": "Florence & the Chianti hills, Tuscany, Italy",
+      "lat": 43.68,
+      "lng": 11.31,
+      "priceRange": "From $95 / person",
+      "cuisine": "Private chef · Tuscan tasting menus",
+      "rating": 4.98,
+      "reviews": 164,
+      "host": {
+        "name": "Cosimo",
+        "bio": "Chef with twelve years in Michelin-starred kitchens in Florence and London, now cooking exclusively in villas and farmhouses across Chianti and the Val d'Orcia."
+      },
+      "description": "Cosimo arrives at your villa with crates from that morning's market and cooks a five-course Tuscan tasting menu in your kitchen — hand-rolled pasta, wood-grilled meats or fish, and a dessert built on whatever the season insists upon. Wine pairings, table styling, and a spotless kitchen at the end included.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1498579150354-977475b7ea0b?w=1200&q=80",
+          "alt": "Fresh pasta with cherry tomatoes"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1764076327046-fe35f955cba1?w=1200&q=80",
+          "alt": "Dining room with rustic wooden table and chairs"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1513553016575-0ccd93e15315?w=1200&q=80",
+          "alt": "Flour with a cracked egg for fresh pasta"
+        }
+      ]
+    },
+    {
+      "id": "svc-tuscany-007",
+      "name": "Gelateria della Cisterna",
+      "type": "restaurant",
+      "region": "tuscany",
+      "location": "Piazza della Cisterna, San Gimignano, Tuscany, Italy",
+      "lat": 43.4674,
+      "lng": 11.0433,
+      "priceRange": "From $5 / person",
+      "cuisine": "Artisan gelato",
+      "rating": 4.92,
+      "reviews": 683,
+      "host": {
+        "name": "Stefano",
+        "bio": "Gelato maker who apprenticed under a world-champion master on this same piazza. Churns small batches twice daily with Tuscan milk and fruit from the Valdelsa."
+      },
+      "description": "Small-batch gelato on San Gimignano's most beautiful square — saffron-pine nut made with the town's own zafferano, Vernaccia sorbet, and a dark chocolate that converts skeptics. Take your cone up to the Rocca for the tower view at sunset.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1651325982013-958f9e1ad468?w=1200&q=80",
+          "alt": "A hand holding a gelato cone"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1630579099167-2932c375226b?w=1200&q=80",
+          "alt": "Stone stairs beside medieval buildings"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1625139180258-ea3cc987f24c?w=1200&q=80",
+          "alt": "People dining at outdoor tables at night"
+        }
+      ]
+    },
+    {
+      "id": "svc-tuscany-008",
+      "name": "Enoteca del Nobile",
+      "type": "wine_bar",
+      "region": "tuscany",
+      "location": "Via di Gracciano nel Corso, Montepulciano, Tuscany, Italy",
+      "lat": 43.0955,
+      "lng": 11.7845,
+      "priceRange": "From $22 / person",
+      "cuisine": "Enoteca & regional tastings",
+      "rating": 4.9,
+      "reviews": 267,
+      "host": {
+        "name": "Beatrice",
+        "bio": "Montepulciano-born sommelier representing thirty small Vino Nobile growers, many too tiny to have tasting rooms of their own."
+      },
+      "description": "A cellar-cool enoteca on Montepulciano's main corso where the by-the-glass list reads like a census of the town's smallest growers. Guided flights of Vino Nobile with pecorino and honey, plus bottles at grower prices to ship home. Beatrice's stories are worth the visit alone.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1554598286-ed7bfd1dedca?w=1200&q=80",
+          "alt": "Bottles of wine aging in a cellar"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1596398267243-3e9b68ea5ad9?w=1200&q=80",
+          "alt": "Green grapes on the vine"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1561906814-23da9a8bfee0?w=1200&q=80",
+          "alt": "Barrels aging in a vaulted brick cellar"
+        }
+      ]
+    },
+    {
+      "id": "svc-tuscany-009",
+      "name": "Osteria del Pecorino",
+      "type": "restaurant",
+      "region": "tuscany",
+      "location": "Corso il Rossellino, Pienza, Tuscany, Italy",
+      "lat": 43.0768,
+      "lng": 11.6785,
+      "priceRange": "From $30 / person",
+      "cuisine": "Val d'Orcia farm-to-table",
+      "rating": 4.95,
+      "reviews": 231,
+      "host": {
+        "name": "Teresa",
+        "bio": "Grew up on a sheep farm outside Pienza; her osteria serves the family pecorino at every age, from fresh to grotta-aged."
+      },
+      "description": "Pienza is Italy's pecorino capital and Teresa's osteria is its proof: cheese flights from day-fresh to cave-aged, gnudi in sage butter, and slow-braised lamb, all sourced within sight of the town walls. Ask for the back table — it looks straight over the Val d'Orcia.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?w=1200&q=80",
+          "alt": "Tomato and greens on a white ceramic plate"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1631188977445-3db54a8a5da2?w=1200&q=80",
+          "alt": "Green plants climbing a brick wall in Pienza"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200&q=80",
+          "alt": "Plated dish on a candlelit restaurant table"
+        }
+      ]
+    },
+    {
+      "id": "svc-tuscany-010",
+      "name": "Golden Hour Portraits in the Val d'Orcia",
+      "type": "photography",
+      "region": "tuscany",
+      "location": "San Quirico d'Orcia, Tuscany, Italy",
+      "lat": 43.057,
+      "lng": 11.604,
+      "priceRange": "From $220 / group",
+      "cuisine": "Portrait photography",
+      "rating": 4.97,
+      "reviews": 148,
+      "host": {
+        "name": "Ilaria",
+        "bio": "Editorial and wedding photographer based in San Quirico d'Orcia. Shoots couples, families, and proposals against the valley's cypress lanes and golden fields."
+      },
+      "description": "A 90-minute golden-hour session among the Val d'Orcia's icons — the Cypresses of San Quirico, gravel lanes through the wheat, and big honeyed skies. Ilaria scouts light and positions you so it feels like a walk, not a shoot. 60 edited photos delivered within ten days.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1596890817879-5cc1213ff1d4?w=1200&q=80",
+          "alt": "Trees on ochre fields under a blue sky"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1518098268026-4e89f1a2cd8e?w=1200&q=80",
+          "alt": "Country road through golden fields at sunset"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1718338561052-bdd1c58ddf6d?w=1200&q=80",
+          "alt": "A row of cypress trees in a foggy field"
+        }
+      ]
+    }
+  ]
+}
