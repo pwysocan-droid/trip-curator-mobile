@@ -56,6 +56,31 @@
   color: var(--color-rausch);
 }
 
+.sampleBtn {
+  margin-top: var(--sp-6);
+  padding: 9px 18px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--r-pill);
+  background: var(--color-surface);
+  color: var(--color-text-secondary);
+  font-size: var(--fs-small);
+  font-weight: 600;
+  opacity: 0;
+  transform: translateY(8px);
+  animation: fadeUp 1100ms cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+.sampleBtn:hover {
+  border-color: var(--color-text);
+  color: var(--color-text);
+}
+
+.sampleBtn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
 /* ============================================================
    FAB — Rausch circle, soft shadow, tactile
    ============================================================ */

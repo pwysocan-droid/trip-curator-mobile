@@ -165,6 +165,7 @@ export function assembleTrips(
       headline: c.concept,
       blurb: c.blurb,
       persona: c.persona,
+      reasoning: c.reasoning,
       totalPrice: (nights: number, experienceCount: number) => {
         const expSum = experiences
           .slice(0, experienceCount)

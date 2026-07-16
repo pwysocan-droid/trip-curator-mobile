@@ -1,7 +1,7 @@
 {
   "name": "trip-curator-mobile",
-  "version": "2.0.0",
-  "description": "Trip Curator 2.0 — Airbnb-faithful mobile interface",
+  "version": "2.1.0",
+  "description": "Trip Curator 2.1 (v1.1 branch) — Airbnb-faithful mobile interface",
   "private": true,
   "scripts": {
     "dev": "next dev",

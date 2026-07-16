@@ -67,6 +67,7 @@ export interface TripOption {
   headline: string
   blurb: string
   persona?: string
+  reasoning?: string
   totalPrice: (nights: number, experienceCount: number) => number
 }
 

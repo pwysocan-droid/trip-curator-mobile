@@ -8,7 +8,7 @@ import DurationStepper from '@/components/DurationStepper'
 import TabBar from '@/components/TabBar'
 import styles from '@/styles/Results.module.css'
 import type {AnalysisResult} from '../api/analyze'
-import {fetchRegionData, resolveRegion} from '@/lib/regions'
+import {fetchRegionData, regionById, resolveRegion} from '@/lib/regions'
 
 const FALLBACK_ANALYSIS: AnalysisResult = {
   vibe: 'Sun-baked Provençal village',
@@ -133,14 +133,31 @@ export default function TripPage() {
       {/* Inspiration block — full on trip 0, condensed on subsequent trips */}
       {isFirstTrip ? (
         <section className={styles.inspiration}>
-          {heroImage && (
+          {/* The dream vs. the real thing — uploaded image beside the top stay */}
+          {heroImage && trip?.stay.images[0]?.url ? (
+            <div className={styles.compare}>
+              <figure className={styles.compareCell}>
+                <img src={heroImage} alt="Your inspiration" />
+                <figcaption className={styles.compareLabel}>The dream</figcaption>
+              </figure>
+              <figure className={styles.compareCell}>
+                <img src={trip.stay.images[0].url} alt={trip.stay.name} />
+                <figcaption className={styles.compareLabel}>The real thing</figcaption>
+              </figure>
+            </div>
+          ) : heroImage ? (
             <div className={styles.refImage}>
               <img src={heroImage} alt="Your inspiration" />
               <span className={styles.refLabel}>Your photo</span>
             </div>
-          )}
+          ) : null}
 
           <div className={styles.analysisBlock}>
+            {analysis.regionMatch === 'approximate' && (
+              <span className={styles.matchChip}>
+                Closest match · {regionById(resolveRegion(analysis.region))?.name || analysis.region}
+              </span>
+            )}
             <p className={styles.detail}>{analysis.detail}</p>
             <div className={styles.tags}>
               {analysis.tags.slice(0, 5).map((tag) => (

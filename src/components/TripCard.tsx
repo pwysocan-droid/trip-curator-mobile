@@ -118,6 +118,9 @@ export default function TripCard({trip, nights, index, total = 3}: TripCardProps
         </div>
         <p className={styles.persona}>For {trip.persona?.toLowerCase()}</p>
         <p className={styles.blurb}>{trip.blurb}</p>
+        {trip.reasoning && (
+          <p className={styles.reasoning}>Why it works: {trip.reasoning}</p>
+        )}
       </div>
 
       {/* Listings — stay first, experiences in order, service last */}
