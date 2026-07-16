@@ -133,24 +133,12 @@ export default function TripPage() {
       {/* Inspiration block — full on trip 0, condensed on subsequent trips */}
       {isFirstTrip ? (
         <section className={styles.inspiration}>
-          {/* The dream vs. the real thing — uploaded image beside the top stay */}
-          {heroImage && trip?.stay.images[0]?.url ? (
-            <div className={styles.compare}>
-              <figure className={styles.compareCell}>
-                <img src={heroImage} alt="Your inspiration" />
-                <figcaption className={styles.compareLabel}>The dream</figcaption>
-              </figure>
-              <figure className={styles.compareCell}>
-                <img src={trip.stay.images[0].url} alt={trip.stay.name} />
-                <figcaption className={styles.compareLabel}>The real thing</figcaption>
-              </figure>
-            </div>
-          ) : heroImage ? (
+          {heroImage && (
             <div className={styles.refImage}>
               <img src={heroImage} alt="Your inspiration" />
               <span className={styles.refLabel}>Your photo</span>
             </div>
-          ) : null}
+          )}
 
           <div className={styles.analysisBlock}>
             {analysis.regionMatch === 'approximate' && (

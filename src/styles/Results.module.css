@@ -74,43 +74,6 @@
   -webkit-backdrop-filter: blur(8px);
 }
 
-/* Dream vs. real comparison — uploaded image beside the matched stay */
-.compare {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: var(--sp-2);
-  margin-bottom: var(--sp-4);
-}
-
-.compareCell {
-  position: relative;
-  aspect-ratio: 4 / 3;
-  border-radius: var(--r-lg);
-  overflow: hidden;
-  background: var(--color-surface-alt);
-  margin: 0;
-}
-
-.compareCell img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.compareLabel {
-  position: absolute;
-  bottom: var(--sp-2);
-  left: var(--sp-2);
-  background: rgba(255,255,255,0.92);
-  color: var(--color-text);
-  font-size: var(--fs-meta);
-  font-weight: 600;
-  padding: 4px 9px;
-  border-radius: var(--r-pill);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-}
-
 .matchChip {
   display: inline-flex;
   align-items: center;
