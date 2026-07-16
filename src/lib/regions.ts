@@ -35,6 +35,13 @@ export const REGIONS: Region[] = [
     file: 'marrakech.json',
     aliases: ['marrakesh', 'medina', 'jemaa el-fna', 'jemaa el-fnaa', 'majorelle', 'gueliz', 'palmeraie', 'agafay', 'atlas mountains', 'ourika', 'imlil', 'riad', 'souk', 'kasbah'],
   },
+  {
+    id: 'santorini',
+    name: 'Santorini',
+    country: 'Greece',
+    file: 'santorini.json',
+    aliases: ['cyclades', 'oia', 'fira', 'thira', 'imerovigli', 'firostefani', 'pyrgos', 'akrotiri', 'amoudi', 'caldera', 'greek islands', 'aegean'],
+  },
 ]
 
 export const DEFAULT_REGION = 'provence'

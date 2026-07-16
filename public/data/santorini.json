@@ -1,0 +1,2397 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2026-07-15",
+    "regions": [
+      "santorini"
+    ],
+    "totalListings": 30,
+    "note": "Santorini mock dataset modeled on real Airbnb listings. Images are verified Unsplash URLs."
+  },
+  "stays": [
+    {
+      "id": "stay-santorini-001",
+      "airbnbId": "812734650192837465",
+      "name": "Ivory Cave House Oia — Plunge Pool on the Caldera",
+      "type": "entire_home",
+      "typeLabel": "Entire home in Oia, Greece",
+      "region": "santorini",
+      "location": "Oia, Santorini, Greece",
+      "lat": 36.4623,
+      "lng": 25.3753,
+      "guests": 4,
+      "bedroomCount": 2,
+      "beds": "2 beds",
+      "bedDetail": "4 guests · 2 bedrooms · 2 beds · 2 baths",
+      "baths": 2,
+      "price": 685,
+      "pricePerNight": 685,
+      "totalForFive": 3425,
+      "currency": "USD",
+      "rating": 4.96,
+      "reviewCount": 143,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Eleni",
+        "isSuperhost": true,
+        "yearsHosting": 9,
+        "totalReviews": 611,
+        "totalRating": 4.94,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Greek"
+        ],
+        "work": "Third-generation Oia caretaker",
+        "presence": "Born in Oia; my family carved this hyposkafo cave house into the caldera rock in the 1880s. I greet every guest with chilled Assyrtiko."
+      },
+      "highlights": [
+        {
+          "title": "Top 5% of homes",
+          "detail": "This home is highly ranked based on ratings, reviews, and reliability."
+        },
+        {
+          "title": "Private plunge pool on the caldera",
+          "detail": "One of the few cave houses on this walkway with its own heated plunge pool."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the keypad."
+        }
+      ],
+      "description": "A traditional hyposkafo cave house carved into Oia's caldera cliff, whitewashed inside and out with barrel-vaulted ceilings that stay cool all summer. The private terrace steps down to a heated plunge pool hanging 250 meters above the Aegean, facing the sunset the town is famous for. Renovated in 2024 with handmade cement floors, built-in sofas, and a second bedroom in the old wine cellar.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2 (cave cellar)",
+          "beds": "1 queen bed"
+        }
+      ],
+      "amenities": [
+        "Caldera and sea view",
+        "Private plunge pool - heated, open May to October",
+        "Kitchen",
+        "Wifi",
+        "AC - split type ductless system",
+        "Outdoor dining area",
+        "Sun loungers",
+        "Nespresso machine",
+        "Hair dryer",
+        "Beach towels"
+      ],
+      "amenitiesTotal": 41,
+      "safetyNotReported": [
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 4,
+        "cancellation": "Free cancellation for 48 hours. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 4.9,
+        "checkin": 5,
+        "communication": 5,
+        "location": 5,
+        "value": 4.8
+      },
+      "reviewMentions": [
+        {
+          "tag": "View",
+          "count": 96
+        },
+        {
+          "tag": "Sunset",
+          "count": 71
+        },
+        {
+          "tag": "Pool",
+          "count": 58
+        },
+        {
+          "tag": "Location",
+          "count": 44
+        },
+        {
+          "tag": "Hospitality",
+          "count": 29
+        },
+        {
+          "tag": "Stairs",
+          "count": 12
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Amelia",
+          "yearsOnAirbnb": 8,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The photos genuinely undersell it. You open the terrace doors and the entire caldera is just there. We watched the sunset from the plunge pool every single evening with wine Eleni left for us. The cave bedroom is silent and cool even in the afternoon heat."
+        },
+        {
+          "author": "Rasmus",
+          "yearsOnAirbnb": 6,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Be ready for the steps down from the marble walkway — but that's Oia, and it keeps the crowds off your terrace. Immaculate housekeeping, strong AC, and the best location we've had anywhere in Greece."
+        },
+        {
+          "author": "Sofia",
+          "yearsOnAirbnb": 11,
+          "date": "April 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Eleni met us at Ammoudi steps, carried our bags herself, and booked us a table at a taverna we'd never have found. The house is a piece of Oia history and it shows."
+        },
+        {
+          "author": "Daniel",
+          "yearsOnAirbnb": 4,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Honeymoon stay. Private, romantic, spotless. The plunge pool at 7pm with the sun dropping behind Thirassia is something we'll never forget."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1606917454663-343e58811bb1?w=1200&q=80",
+          "alt": "Whitewashed cave house terraces and pool lit up at night"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1781455495358-b38f1f2bad0b?w=1200&q=80",
+          "alt": "Infinity plunge pool overlooking the caldera and white buildings"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1616578093947-a51709ae03d8?w=1200&q=80",
+          "alt": "Minimal white vaulted interior washed in soft daylight"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1632153838217-048635fb0a6e?w=1200&q=80",
+          "alt": "View over white rooftops and the sea through an open window"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=1200&q=80",
+          "alt": "Whitewashed steps in Oia leading down toward the Aegean"
+        }
+      ]
+    },
+    {
+      "id": "stay-santorini-002",
+      "airbnbId": "928374651029384756",
+      "name": "Skaros View Suite — Imerovigli Infinity Pool",
+      "type": "entire_rental_unit",
+      "typeLabel": "Entire rental unit in Imerovigli, Greece",
+      "region": "santorini",
+      "location": "Imerovigli, Santorini, Greece",
+      "lat": 36.4341,
+      "lng": 25.4228,
+      "guests": 2,
+      "bedroomCount": 1,
+      "beds": "1 bed",
+      "bedDetail": "2 guests · 1 bedroom · 1 bed · 1 bath",
+      "baths": 1,
+      "price": 545,
+      "pricePerNight": 545,
+      "totalForFive": 2725,
+      "currency": "USD",
+      "rating": 4.98,
+      "reviewCount": 87,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Nikos & Marina",
+        "isSuperhost": true,
+        "yearsHosting": 7,
+        "totalReviews": 402,
+        "totalRating": 4.96,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Greek",
+          "Italian"
+        ],
+        "work": "Boutique cliffside suites",
+        "presence": "We run four suites on the Imerovigli rim and live five minutes away; breakfast baskets are delivered to your terrace each morning."
+      },
+      "highlights": [
+        {
+          "title": "Top 5% of homes",
+          "detail": "This home is highly ranked based on ratings, reviews, and reliability."
+        },
+        {
+          "title": "Front-row view of Skaros Rock",
+          "detail": "The infinity pool and terrace look straight onto the caldera's most dramatic headland."
+        },
+        {
+          "title": "Breakfast included",
+          "detail": "A Greek breakfast basket is brought to your terrace daily."
+        }
+      ],
+      "description": "A couples' suite dug into the rim at Imerovigli, the quietest and highest stretch of the caldera. The heated infinity pool spills toward Skaros Rock, and the bedroom's arched glass front frames the sea from the pillow. Imerovigli sits on the Fira–Oia footpath, so you can walk to dinner in Firostefani in fifteen minutes and never touch a road.",
+      "bedrooms": [
+        {
+          "name": "Bedroom",
+          "beds": "1 king bed"
+        }
+      ],
+      "amenities": [
+        "Caldera and Skaros Rock view",
+        "Private infinity pool - heated",
+        "Kitchenette",
+        "Wifi",
+        "AC - split type ductless system",
+        "Daily breakfast basket",
+        "Outdoor rain shower",
+        "Sun loungers",
+        "Bathrobes and slippers",
+        "Wine fridge"
+      ],
+      "amenitiesTotal": 36,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 2:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 2,
+        "cancellation": "Free cancellation before July 20. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "checkin": 5,
+        "communication": 5,
+        "location": 5,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "View",
+          "count": 64
+        },
+        {
+          "tag": "Pool",
+          "count": 41
+        },
+        {
+          "tag": "Breakfast",
+          "count": 33
+        },
+        {
+          "tag": "Quiet",
+          "count": 27
+        },
+        {
+          "tag": "Hospitality",
+          "count": 24
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Chloe",
+          "yearsOnAirbnb": 7,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Imerovigli over Oia, every time. Same view, none of the crowds. We floated in the pool watching Skaros change color and had the walkway nearly to ourselves at sunrise. Marina's breakfasts were enormous."
+        },
+        {
+          "author": "Hugo",
+          "yearsOnAirbnb": 5,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The suite is small but perfectly designed — everything you touch feels expensive. Nikos arranged our transfer, dinner bookings, and a catamaran day without us lifting a finger."
+        },
+        {
+          "author": "Isabelle",
+          "yearsOnAirbnb": 9,
+          "date": "April 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The photo of the pool with Skaros behind it is real, that is exactly what you get. Quietest place we've stayed on the islands."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1781455495143-7d7a6f1196b1?w=1200&q=80",
+          "alt": "White cliffside buildings above a calm sea in Imerovigli"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1781457589067-23259378e330?w=1200&q=80",
+          "alt": "Guest relaxing in an infinity pool with an open sea view"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1637170548426-d002d5661e86?w=1200&q=80",
+          "alt": "White terrace with chairs overlooking the Aegean"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=1200&q=80",
+          "alt": "Neutral-toned bedroom with crisp white linens"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1604145195376-e2c8195adf29?w=1200&q=80",
+          "alt": "Shaded terrace table and chairs facing the caldera"
+        }
+      ]
+    },
+    {
+      "id": "stay-santorini-003",
+      "airbnbId": "736450192837465120",
+      "name": "The Windmill of Oia — Restored 19th-Century Landmark",
+      "type": "entire_home",
+      "typeLabel": "Entire home in Oia, Greece",
+      "region": "santorini",
+      "location": "Oia, Santorini, Greece",
+      "lat": 36.4611,
+      "lng": 25.3714,
+      "guests": 4,
+      "bedroomCount": 2,
+      "beds": "2 beds",
+      "bedDetail": "4 guests · 2 bedrooms · 2 beds · 2 baths",
+      "baths": 2,
+      "price": 760,
+      "pricePerNight": 760,
+      "totalForFive": 3800,
+      "currency": "USD",
+      "rating": 4.93,
+      "reviewCount": 68,
+      "isGuestFavorite": true,
+      "topPercent": 10,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Stavros",
+        "isSuperhost": true,
+        "yearsHosting": 11,
+        "totalReviews": 388,
+        "totalRating": 4.9,
+        "responseRate": "98%",
+        "responseTime": "within a few hours",
+        "languages": [
+          "English",
+          "Greek",
+          "French"
+        ],
+        "work": "Restorer of Cycladic landmarks",
+        "presence": "I spent three years restoring the windmill with local stonemasons; I'll happily walk you through its history over coffee."
+      },
+      "highlights": [
+        {
+          "title": "Sleep inside a real windmill",
+          "detail": "A restored 19th-century flour mill on Oia's western tip — one of a handful you can stay in."
+        },
+        {
+          "title": "360° sunset views",
+          "detail": "The circular top-floor bedroom looks over the caldera, the open Aegean, and the village."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the lockbox."
+        }
+      ],
+      "description": "One of the last windmills standing on Oia's western point, rebuilt beam by beam with its original stone walls, timber cap, and a spiral stair connecting three round floors. The top-floor bedroom has windows on every side; the sunset crowds gather below at the castle, but from your private terrace the view is all yours. A second bedroom and bath sit in the mill keeper's cottage beside the pool deck.",
+      "bedrooms": [
+        {
+          "name": "Windmill top floor",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Keeper's cottage",
+          "beds": "1 queen bed"
+        }
+      ],
+      "amenities": [
+        "Panoramic caldera and sea view",
+        "Plunge pool",
+        "Kitchen",
+        "Wifi",
+        "AC - split type ductless system",
+        "Private terrace",
+        "Outdoor dining area",
+        "Record player with vinyl",
+        "Hair dryer",
+        "Espresso machine"
+      ],
+      "amenitiesTotal": 38,
+      "safetyNotReported": [
+        "Smoke alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 4,
+        "cancellation": "Free cancellation before July 25. Cancel before August 10 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.9,
+        "accuracy": 4.9,
+        "checkin": 5,
+        "communication": 4.9,
+        "location": 5,
+        "value": 4.8
+      },
+      "reviewMentions": [
+        {
+          "tag": "Unique",
+          "count": 52
+        },
+        {
+          "tag": "Sunset",
+          "count": 47
+        },
+        {
+          "tag": "View",
+          "count": 39
+        },
+        {
+          "tag": "History",
+          "count": 21
+        },
+        {
+          "tag": "Stairs",
+          "count": 14
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Priya",
+          "yearsOnAirbnb": 10,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "We've stayed in Santorini four times and nothing compares to waking up in the round room with sea on every side. The restoration is museum-quality — Stavros kept the old grinding stone as the coffee table."
+        },
+        {
+          "author": "Ethan",
+          "yearsOnAirbnb": 6,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The most memorable place we've ever booked. The spiral stairs are steep and the top room is snug, which is exactly what you sign up for in a real windmill. Sunset from the terrace beats the castle crowds by a mile."
+        },
+        {
+          "author": "Camille",
+          "yearsOnAirbnb": 8,
+          "date": "April 2026",
+          "context": "Stayed a few nights",
+          "rating": 4,
+          "text": "Extraordinary building and location. Wind can whistle around the cap on rough nights — bring earplugs if you're a light sleeper. We'd still return tomorrow."
+        },
+        {
+          "author": "Leo",
+          "yearsOnAirbnb": 5,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Felt like sleeping inside a lighthouse. Immaculate, quiet, and the keeper's cottage was perfect for our teenagers."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1580502304784-8985b7eb7260?w=1200&q=80",
+          "alt": "Oia's windmill and white houses glowing at dusk"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1560703650-ef3e0f254ae0?w=1200&q=80",
+          "alt": "View over Oia rooftops to the caldera with boats below"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1200&q=80",
+          "alt": "Calm bedroom with upholstered headboard and white bedding"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=1200&q=80",
+          "alt": "Bright white sitting room with natural textures"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1533104816931-20fa691ff6ca?w=1200&q=80",
+          "alt": "Whitewashed lane with a blue gate and flowering wall"
+        }
+      ]
+    },
+    {
+      "id": "stay-santorini-004",
+      "airbnbId": "564738291046573829",
+      "name": "Fira Old Town Townhouse — 2 Min from the Cable Car",
+      "type": "entire_townhouse",
+      "typeLabel": "Entire townhouse in Fira, Greece",
+      "region": "santorini",
+      "location": "Fira, Santorini, Greece",
+      "lat": 36.4166,
+      "lng": 25.4319,
+      "guests": 5,
+      "bedroomCount": 2,
+      "beds": "3 beds",
+      "bedDetail": "5 guests · 2 bedrooms · 3 beds · 1.5 baths",
+      "baths": 1.5,
+      "price": 265,
+      "pricePerNight": 265,
+      "totalForFive": 1325,
+      "currency": "USD",
+      "rating": 4.87,
+      "reviewCount": 214,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Dimitris",
+        "isSuperhost": true,
+        "yearsHosting": 8,
+        "totalReviews": 1043,
+        "totalRating": 4.85,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Greek",
+          "German"
+        ],
+        "work": "Runs the family minimarket below",
+        "presence": "Our family has lived on this lane for four generations — knock on the shop door any time you need anything."
+      },
+      "highlights": [
+        {
+          "title": "In the heart of Fira",
+          "detail": "Two minutes from the cable car, the caldera walkway, and the bus station to everywhere on the island."
+        },
+        {
+          "title": "Roof terrace over the old town",
+          "detail": "Evening drinks with cathedral and caldera views at a fraction of cliff-house prices."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the keypad."
+        }
+      ],
+      "description": "A practical, comfortable townhouse on a quiet pedestrian lane in Fira's old town — the smart base if you want the whole island within reach. Buses to Oia, Akrotiri, and the beaches leave from three blocks away, the caldera path starts around the corner, and the roof terrace catches the same sunset the cliff bars charge for. Two proper bedrooms plus a sofa bed, and a kitchen stocked by the family minimarket downstairs.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Roof terrace with caldera glimpse",
+        "Kitchen",
+        "Wifi",
+        "AC - split type ductless system",
+        "Washer",
+        "Sofa bed",
+        "Dedicated workspace",
+        "Smart TV",
+        "Hair dryer",
+        "Iron"
+      ],
+      "amenitiesTotal": 44,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 5,
+        "cancellation": "Free cancellation for 48 hours. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.9,
+        "accuracy": 4.9,
+        "checkin": 5,
+        "communication": 4.9,
+        "location": 4.9,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Location",
+          "count": 156
+        },
+        {
+          "tag": "Value",
+          "count": 88
+        },
+        {
+          "tag": "Host",
+          "count": 61
+        },
+        {
+          "tag": "Roof terrace",
+          "count": 40
+        },
+        {
+          "tag": "Noise",
+          "count": 18
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Martina",
+          "yearsOnAirbnb": 6,
+          "date": "June 2026",
+          "context": "Stayed with friends",
+          "rating": 5,
+          "text": "Perfect base — we did Oia, the boat day, Akrotiri, and Perissa all by bus from around the corner. Dimitris brought us fresh bread from the shop every morning without being asked."
+        },
+        {
+          "author": "Jake",
+          "yearsOnAirbnb": 3,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "You're paying a third of caldera prices and giving up almost nothing. Roof terrace at sunset with beers from the minimarket was our favorite ritual."
+        },
+        {
+          "author": "Anaïs",
+          "yearsOnAirbnb": 9,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 4,
+          "text": "Great location and spotless. Some evening noise drifts up from the bars on weekends — it's the middle of Fira, so expected."
+        },
+        {
+          "author": "Tomás",
+          "yearsOnAirbnb": 7,
+          "date": "April 2026",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "Ideal with children: real kitchen, two bedrooms, and gyros downstairs. The cable car to the old port is two minutes' walk."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1599916382059-2968a101a410?w=1200&q=80",
+          "alt": "Fira's cliffside houses lit up at night above the caldera"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1696519669474-3001c0e2b548?w=1200&q=80",
+          "alt": "White village houses stacked along the cliff edge"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=80",
+          "alt": "Open-plan living room and kitchen in neutral tones"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=1200&q=80",
+          "alt": "Warmly lit bedroom with dark timber details"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1200&q=80",
+          "alt": "Modern bathroom with a glass walk-in shower"
+        }
+      ]
+    },
+    {
+      "id": "stay-santorini-005",
+      "airbnbId": "102938475610293847",
+      "name": "Blue Shutters of Firostefani — Caldera Balcony Apartment",
+      "type": "entire_rental_unit",
+      "typeLabel": "Entire rental unit in Firostefani, Greece",
+      "region": "santorini",
+      "location": "Firostefani, Santorini, Greece",
+      "lat": 36.4247,
+      "lng": 25.4272,
+      "guests": 3,
+      "bedroomCount": 1,
+      "beds": "2 beds",
+      "bedDetail": "3 guests · 1 bedroom · 2 beds · 1 bath",
+      "baths": 1,
+      "price": 330,
+      "pricePerNight": 330,
+      "totalForFive": 1650,
+      "currency": "USD",
+      "rating": 4.92,
+      "reviewCount": 126,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Katerina",
+        "isSuperhost": true,
+        "yearsHosting": 6,
+        "totalReviews": 344,
+        "totalRating": 4.91,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Greek"
+        ],
+        "work": "Schoolteacher and host",
+        "presence": "I live in the house behind the courtyard — you'll smell my orange cake on Sunday mornings and there's always a slice for guests."
+      },
+      "highlights": [
+        {
+          "title": "Caldera view without the climb",
+          "detail": "Firostefani's walkway is flat between Fira and Imerovigli — rare on the rim."
+        },
+        {
+          "title": "Bougainvillea courtyard",
+          "detail": "A shaded private courtyard off the famous blue-domed church square."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the lockbox."
+        }
+      ],
+      "description": "A classic island apartment with sky-blue shutters, a vine-shaded courtyard, and a balcony that looks over Firostefani's blue-domed church to the caldera beyond. Firostefani is Fira's quieter sister — ten minutes' flat walk to town, steps from the most photographed dome on the island, and home to tavernas that still fill with locals in the evening.",
+      "bedrooms": [
+        {
+          "name": "Bedroom",
+          "beds": "1 queen bed + 1 single bed"
+        }
+      ],
+      "amenities": [
+        "Caldera view balcony",
+        "Private courtyard",
+        "Kitchenette",
+        "Wifi",
+        "AC - split type ductless system",
+        "Washer",
+        "Sun loungers",
+        "Hair dryer",
+        "Coffee maker",
+        "Beach towels"
+      ],
+      "amenitiesTotal": 33,
+      "safetyNotReported": [
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 2:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 3,
+        "cancellation": "Free cancellation before July 18. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.9,
+        "accuracy": 4.9,
+        "checkin": 5,
+        "communication": 5,
+        "location": 4.9,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "View",
+          "count": 82
+        },
+        {
+          "tag": "Location",
+          "count": 67
+        },
+        {
+          "tag": "Host",
+          "count": 45
+        },
+        {
+          "tag": "Courtyard",
+          "count": 28
+        },
+        {
+          "tag": "Value",
+          "count": 25
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Nora",
+          "yearsOnAirbnb": 8,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The famous blue dome is literally around the corner — we had coffee on the balcony watching photographers queue for the shot we got from bed. Katerina's orange cake is real and it is wonderful."
+        },
+        {
+          "author": "Ben",
+          "yearsOnAirbnb": 5,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Quiet, pretty, and the flat walk into Fira makes such a difference after a day out. Great value for a real caldera view."
+        },
+        {
+          "author": "Giulia",
+          "yearsOnAirbnb": 7,
+          "date": "April 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The courtyard smells of jasmine at night. Small kitchen but we only ever used it for breakfast — too many good tavernas nearby."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1736618626422-afad825b32c7?w=1200&q=80",
+          "alt": "Caldera cove with moored yachts seen from a cliff terrace"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1563789031959-4c02bcb41319?w=1200&q=80",
+          "alt": "Blue-domed churches above the caldera on a clear day"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1552768274-59c640872a75?w=1200&q=80",
+          "alt": "Sun loungers beside a pool draped in bougainvillea"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=1200&q=80",
+          "alt": "Airy white bedroom with minimal decor"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=80",
+          "alt": "White bathroom with checkerboard tile floor"
+        }
+      ]
+    },
+    {
+      "id": "stay-santorini-006",
+      "airbnbId": "483920175648392017",
+      "name": "Kamares House — Traditional Home in Pyrgos Village",
+      "type": "entire_home",
+      "typeLabel": "Entire home in Pyrgos Kallistis, Greece",
+      "region": "santorini",
+      "location": "Pyrgos Kallistis, Santorini, Greece",
+      "lat": 36.3839,
+      "lng": 25.4482,
+      "guests": 4,
+      "bedroomCount": 2,
+      "beds": "3 beds",
+      "bedDetail": "4 guests · 2 bedrooms · 3 beds · 1 bath",
+      "baths": 1,
+      "price": 215,
+      "pricePerNight": 215,
+      "totalForFive": 1075,
+      "currency": "USD",
+      "rating": 4.95,
+      "reviewCount": 91,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Yiannis",
+        "isSuperhost": true,
+        "yearsHosting": 5,
+        "totalReviews": 178,
+        "totalRating": 4.93,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Greek"
+        ],
+        "work": "Vine grower for a Pyrgos winery",
+        "presence": "I tend Assyrtiko vines below the village; guests are welcome to join the harvest in August."
+      },
+      "highlights": [
+        {
+          "title": "Real village life",
+          "detail": "Pyrgos is the island's old capital — a hilltop maze of arches and chapels where locals still outnumber visitors."
+        },
+        {
+          "title": "Aegean views from the roof",
+          "detail": "The roof terrace looks over the vineyards to both coasts of the island."
+        },
+        {
+          "title": "Free parking nearby",
+          "detail": "A rare luxury on Santorini — free village lot two minutes' walk away."
+        }
+      ],
+      "description": "A 200-year-old village house under the Venetian castle at the top of Pyrgos, restored simply: thick whitewashed walls, arched niches, chestnut shutters, and a roof terrace above the vineyards with the sea on both horizons. This is the Santorini of church bells and grandmothers sweeping doorsteps — the caldera towns are 15 minutes away by car, but you'll be glad to come home to the quiet.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Vineyard and sea views",
+        "Roof terrace",
+        "Kitchen",
+        "Wifi",
+        "AC - split type ductless system",
+        "Washer",
+        "Outdoor dining area",
+        "Free parking nearby",
+        "Hair dryer",
+        "Board games"
+      ],
+      "amenitiesTotal": 37,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 4,
+        "cancellation": "Free cancellation for 48 hours. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "checkin": 4.9,
+        "communication": 5,
+        "location": 4.8,
+        "value": 5
+      },
+      "reviewMentions": [
+        {
+          "tag": "Authentic",
+          "count": 58
+        },
+        {
+          "tag": "Quiet",
+          "count": 44
+        },
+        {
+          "tag": "Value",
+          "count": 39
+        },
+        {
+          "tag": "Host",
+          "count": 31
+        },
+        {
+          "tag": "Village",
+          "count": 27
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Hannah",
+          "yearsOnAirbnb": 9,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The antidote to the caldera crowds. We wandered Pyrgos's alleys at dusk with the swallows, ate at the taverna in the square twice, and drank Yiannis's own wine on the roof. Magical."
+        },
+        {
+          "author": "Marco",
+          "yearsOnAirbnb": 6,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Beautifully restored, dead quiet at night, and half the price of anything with a caldera view. You need a car or the bus, but Pyrgos is the best-located village on the island anyway."
+        },
+        {
+          "author": "Claire",
+          "yearsOnAirbnb": 4,
+          "date": "April 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Yiannis brought us tomatoes and eggs from his garden. Watching the sunset light the whole village from the castle two minutes up the lane — better than Oia, no exaggeration."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1773094800573-b9d336aee39b?w=1200&q=80",
+          "alt": "Terracotta terrace with an open door and sharp shadows"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1571501679680-de32f1e7aad4?w=1200&q=80",
+          "alt": "Minimal white and earth-toned walls against a blue sky"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1200&q=80",
+          "alt": "Living room corner with gallery wall and plants"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=1200&q=80",
+          "alt": "White bedroom with a tufted bed frame"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1200&q=80",
+          "alt": "Sitting room with a yellow armchair and simple styling"
+        }
+      ]
+    },
+    {
+      "id": "stay-santorini-007",
+      "airbnbId": "657483920156748392",
+      "name": "Villa Lava — Akrotiri Estate with 12m Pool & Sea Views",
+      "type": "entire_villa",
+      "typeLabel": "Entire villa in Akrotiri, Greece",
+      "region": "santorini",
+      "location": "Akrotiri, Santorini, Greece",
+      "lat": 36.3585,
+      "lng": 25.4008,
+      "guests": 8,
+      "bedroomCount": 4,
+      "beds": "5 beds",
+      "bedDetail": "8 guests · 4 bedrooms · 5 beds · 3 baths",
+      "baths": 3,
+      "price": 890,
+      "pricePerNight": 890,
+      "totalForFive": 4450,
+      "currency": "USD",
+      "rating": 4.97,
+      "reviewCount": 54,
+      "isGuestFavorite": true,
+      "topPercent": 5,
+      "isNew": false,
+      "isRareFind": true,
+      "host": {
+        "name": "Alexandra",
+        "isSuperhost": true,
+        "yearsHosting": 8,
+        "totalReviews": 296,
+        "totalRating": 4.95,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Greek",
+          "French"
+        ],
+        "work": "Villa management and concierge",
+        "presence": "A dedicated concierge team handles chefs, boats, and transfers; housekeeping visits daily."
+      },
+      "highlights": [
+        {
+          "title": "Top 5% of homes",
+          "detail": "This home is highly ranked based on ratings, reviews, and reliability."
+        },
+        {
+          "title": "12-meter private pool",
+          "detail": "One of the largest private pools on the island's south coast."
+        },
+        {
+          "title": "Sunset over the caldera's quiet side",
+          "detail": "Akrotiri faces the sunset across the water — the view toward Oia, not from it."
+        }
+      ],
+      "description": "A four-bedroom villa built from island stone and volcanic ash render on the slopes above Akrotiri, with a 12-meter pool, pergola dining for ten, and open sea views toward the caldera's western cliffs. Five minutes from the Bronze Age ruins and the Red Beach, fifteen from the tavernas of the fishing harbor — and blissfully far from the crowds. Daily housekeeping and a concierge team are included.",
+      "bedrooms": [
+        {
+          "name": "Master suite",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 4",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Sea and sunset view",
+        "Private 12m pool - open May to October",
+        "Full kitchen",
+        "Wifi",
+        "AC - split type ductless system",
+        "Outdoor kitchen and BBQ",
+        "Pergola dining for 10",
+        "Daily housekeeping",
+        "Free parking on premises",
+        "Washer and dryer"
+      ],
+      "amenitiesTotal": 57,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 4:00 PM",
+        "checkout": "Before 10:00 AM",
+        "maxGuests": 8,
+        "cancellation": "Free cancellation before July 15. Cancel before August 1 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 5,
+        "checkin": 5,
+        "communication": 5,
+        "location": 4.9,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Pool",
+          "count": 41
+        },
+        {
+          "tag": "Space",
+          "count": 33
+        },
+        {
+          "tag": "Concierge",
+          "count": 26
+        },
+        {
+          "tag": "Privacy",
+          "count": 22
+        },
+        {
+          "tag": "Family",
+          "count": 19
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Rebecca",
+          "yearsOnAirbnb": 10,
+          "date": "June 2026",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "Three generations, one villa, zero complaints. The pool kept the kids happy for hours while the adults did wine tastings Alexandra's team arranged. The private chef night was the best meal of the trip."
+        },
+        {
+          "author": "Omar",
+          "yearsOnAirbnb": 7,
+          "date": "May 2026",
+          "context": "Stayed with friends",
+          "rating": 5,
+          "text": "Eight of us and it never felt tight. Akrotiri is the right call for a group — quiet, parkable, near the ruins and the lighthouse, and the sunset across the water is stunning."
+        },
+        {
+          "author": "Laura",
+          "yearsOnAirbnb": 6,
+          "date": "April 2026",
+          "context": "Stayed with friends",
+          "rating": 5,
+          "text": "Flawless week. Housekeeping daily, concierge on WhatsApp, and the outdoor kitchen got used every night. Worth every euro split eight ways."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1695593116063-843e813fee6f?w=1200&q=80",
+          "alt": "White villa reflected in its still swimming pool"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200&q=80",
+          "alt": "Whitewashed villa terrace with pool and greenery"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1200&q=80",
+          "alt": "Modern white villa and pool at dusk"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1666062669930-6bd4b5031867?w=1200&q=80",
+          "alt": "Sheltered courtyard pool between white walls"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=80",
+          "alt": "White villa exterior with poolside lounge"
+        }
+      ]
+    },
+    {
+      "id": "stay-santorini-008",
+      "airbnbId": "291837465019283746",
+      "name": "Black Sand Beach House — 60 Steps from Perissa",
+      "type": "entire_home",
+      "typeLabel": "Entire home in Perissa, Greece",
+      "region": "santorini",
+      "location": "Perissa, Santorini, Greece",
+      "lat": 36.356,
+      "lng": 25.4747,
+      "guests": 5,
+      "bedroomCount": 2,
+      "beds": "3 beds",
+      "bedDetail": "5 guests · 2 bedrooms · 3 beds · 2 baths",
+      "baths": 2,
+      "price": 195,
+      "pricePerNight": 195,
+      "totalForFive": 975,
+      "currency": "USD",
+      "rating": 4.84,
+      "reviewCount": 167,
+      "isGuestFavorite": false,
+      "topPercent": null,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Kostas",
+        "isSuperhost": false,
+        "yearsHosting": 10,
+        "totalReviews": 523,
+        "totalRating": 4.8,
+        "responseRate": "97%",
+        "responseTime": "within a few hours",
+        "languages": [
+          "English",
+          "Greek"
+        ],
+        "work": "Runs a diving school on Perissa beach",
+        "presence": "The dive shop is two doors down — guests get 20% off intro dives and gear rental."
+      },
+      "highlights": [
+        {
+          "title": "Steps from the black sand",
+          "detail": "Sixty steps from your gate to Perissa's volcanic beach and its beach bars."
+        },
+        {
+          "title": "Under Mesa Vouno",
+          "detail": "The rock of Ancient Thera glows red above the beach at sunset."
+        },
+        {
+          "title": "Great for beach days",
+          "detail": "Outdoor shower, cooler, umbrellas, and snorkel gear included."
+        }
+      ],
+      "description": "A relaxed two-bedroom beach house a minute's walk from the black volcanic sand of Perissa, on the island's laid-back east coast. Rinse off in the garden shower, nap under the fig tree, and walk to a dozen tavernas and beach bars along the sand. The hike up Mesa Vouno to Ancient Thera starts ten minutes away — go at sunrise before the heat.",
+      "bedrooms": [
+        {
+          "name": "Bedroom 1",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 double bed + 1 single bed"
+        }
+      ],
+      "amenities": [
+        "Garden with fig tree",
+        "Outdoor shower",
+        "Kitchen",
+        "Wifi",
+        "AC - split type ductless system",
+        "Beach umbrellas and cooler",
+        "Snorkel gear",
+        "Washer",
+        "Free parking on premises",
+        "Smart TV"
+      ],
+      "amenitiesTotal": 40,
+      "safetyNotReported": [
+        "Carbon monoxide alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 5,
+        "cancellation": "Free cancellation for 48 hours. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.8,
+        "accuracy": 4.9,
+        "checkin": 4.9,
+        "communication": 4.8,
+        "location": 4.9,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Beach",
+          "count": 112
+        },
+        {
+          "tag": "Value",
+          "count": 74
+        },
+        {
+          "tag": "Location",
+          "count": 51
+        },
+        {
+          "tag": "Garden",
+          "count": 26
+        },
+        {
+          "tag": "Wifi",
+          "count": 9
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Sam",
+          "yearsOnAirbnb": 5,
+          "date": "June 2026",
+          "context": "Stayed with friends",
+          "rating": 5,
+          "text": "Beach-flip-flops-taverna-repeat. Exactly what we wanted after two nights of caldera prices. Kostas took us on an intro dive to a volcanic reef — highlight of the trip."
+        },
+        {
+          "author": "Elodie",
+          "yearsOnAirbnb": 8,
+          "date": "June 2026",
+          "context": "Stayed with kids",
+          "rating": 5,
+          "text": "Perissa is perfect with children: shallow water, dark sand that doesn't blind you, and gyros everywhere. House was clean and had everything for beach days."
+        },
+        {
+          "author": "Piotr",
+          "yearsOnAirbnb": 4,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 4,
+          "text": "Great value and location. Wifi struggled on the patio, fine indoors. Would stay again."
+        },
+        {
+          "author": "Maya",
+          "yearsOnAirbnb": 6,
+          "date": "April 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The sunrise hike to Ancient Thera from the house is unmissable. Loved the quiet east-coast pace."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1587726419503-e4ca65918c10?w=1200&q=80",
+          "alt": "Palm-shaded pool with wooden loungers"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80",
+          "alt": "Quiet beach shoreline at golden hour"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=1200&q=80",
+          "alt": "Sun umbrellas and palms along a sandy beach"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&q=80",
+          "alt": "Cozy living room with plants and a linen sofa"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=80",
+          "alt": "Bright living room with large windows"
+        }
+      ]
+    },
+    {
+      "id": "stay-santorini-009",
+      "airbnbId": "837465102938475610",
+      "name": "Ammoudi Cliff Suite — Cave Rooms Above the Red Bay",
+      "type": "entire_rental_unit",
+      "typeLabel": "Entire rental unit in Oia, Greece",
+      "region": "santorini",
+      "location": "Oia (Ammoudi), Santorini, Greece",
+      "lat": 36.4617,
+      "lng": 25.3696,
+      "guests": 2,
+      "bedroomCount": 1,
+      "beds": "1 bed",
+      "bedDetail": "2 guests · 1 bedroom · 1 bed · 1 bath",
+      "baths": 1,
+      "price": 475,
+      "pricePerNight": 475,
+      "totalForFive": 2375,
+      "currency": "USD",
+      "rating": 4.94,
+      "reviewCount": 102,
+      "isGuestFavorite": true,
+      "topPercent": 10,
+      "isNew": false,
+      "isRareFind": false,
+      "host": {
+        "name": "Margarita",
+        "isSuperhost": true,
+        "yearsHosting": 12,
+        "totalReviews": 734,
+        "totalRating": 4.92,
+        "responseRate": "100%",
+        "responseTime": "within an hour",
+        "languages": [
+          "English",
+          "Greek"
+        ],
+        "work": "Family fish taverna at Ammoudi Bay",
+        "presence": "Our family taverna sits on the water below — mention you're our guest and the day's catch is on the house terrace by eight."
+      },
+      "highlights": [
+        {
+          "title": "Above Amoudi Bay",
+          "detail": "The 214 red-rock steps to the island's best seafood harbor start at your door."
+        },
+        {
+          "title": "Swim from the rocks",
+          "detail": "Five minutes down to the swimming rocks and cliff-jump point opposite Agios Nikolaos islet."
+        },
+        {
+          "title": "Self check-in",
+          "detail": "Check yourself in with the keypad."
+        }
+      ],
+      "description": "A cave suite burrowed into the red cliff on Oia's western edge, directly above the fishing harbor of Amoudi. Fall asleep to halyards clinking below and wake to fishermen unloading the morning catch. The vaulted bedroom and skylit bath are carved into the rock; the terrace hangs over the bay with the sunset dead ahead. Down the famous steps: four fish tavernas and the clearest swimming water on the island.",
+      "bedrooms": [
+        {
+          "name": "Cave bedroom",
+          "beds": "1 king bed"
+        }
+      ],
+      "amenities": [
+        "Sea and harbor view",
+        "Private terrace",
+        "Kitchenette",
+        "Wifi",
+        "AC - split type ductless system",
+        "Outdoor dining area",
+        "Rain shower carved into rock",
+        "Bathrobes",
+        "Nespresso machine",
+        "Beach towels"
+      ],
+      "amenitiesTotal": 31,
+      "safetyNotReported": [
+        "Smoke alarm"
+      ],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 2,
+        "cancellation": "Free cancellation before July 22. Cancel before check-in for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 4.9,
+        "accuracy": 4.9,
+        "checkin": 5,
+        "communication": 5,
+        "location": 5,
+        "value": 4.8
+      },
+      "reviewMentions": [
+        {
+          "tag": "View",
+          "count": 71
+        },
+        {
+          "tag": "Swimming",
+          "count": 43
+        },
+        {
+          "tag": "Seafood",
+          "count": 38
+        },
+        {
+          "tag": "Romantic",
+          "count": 30
+        },
+        {
+          "tag": "Steps",
+          "count": 22
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Freya",
+          "yearsOnAirbnb": 7,
+          "date": "June 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Swimming at Amoudi before breakfast, grilled octopus at the family taverna for dinner, sunset from our own terrace in between. The steps back up are the price of paradise and worth every one."
+        },
+        {
+          "author": "Andrés",
+          "yearsOnAirbnb": 9,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The cave rooms are gorgeously done — cool, quiet, that skylight shower. Margarita's taverna treated us like family all week."
+        },
+        {
+          "author": "Jess",
+          "yearsOnAirbnb": 5,
+          "date": "April 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "Most romantic place we've ever stayed. Watch the boats come in with a glass of Vinsanto and you'll never want to leave."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1615807091119-4284fa55ecd7?w=1200&q=80",
+          "alt": "Amoudi Bay's red cliffs and fishing boats below Oia"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1781455817910-50e0cf5ef661?w=1200&q=80",
+          "alt": "Cave hotel terraces and a curved pool above the sea"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1533441865127-f4806aaa12cc?w=1200&q=80",
+          "alt": "Blue-domed chapel framed by pink bougainvillea"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1637104942480-65ca7ddab0e9?w=1200&q=80",
+          "alt": "Shaded stone terrace with benches facing the open sea"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1653051487585-a219fc18b64b?w=1200&q=80",
+          "alt": "Volcanic cliffs dropping into deep blue water"
+        }
+      ]
+    },
+    {
+      "id": "stay-santorini-010",
+      "airbnbId": "746583920174658392",
+      "name": "Canava Estate Megalochori — Winery Grounds & Pool",
+      "type": "entire_villa",
+      "typeLabel": "Entire villa in Megalochori, Greece",
+      "region": "santorini",
+      "location": "Megalochori, Santorini, Greece",
+      "lat": 36.3778,
+      "lng": 25.4306,
+      "guests": 6,
+      "bedroomCount": 3,
+      "beds": "4 beds",
+      "bedDetail": "6 guests · 3 bedrooms · 4 beds · 2.5 baths",
+      "baths": 2.5,
+      "price": 430,
+      "pricePerNight": 430,
+      "totalForFive": 2150,
+      "currency": "USD",
+      "rating": 4.91,
+      "reviewCount": 73,
+      "isGuestFavorite": true,
+      "topPercent": null,
+      "isNew": true,
+      "isRareFind": false,
+      "host": {
+        "name": "The Argyros Family",
+        "isSuperhost": true,
+        "yearsHosting": 3,
+        "totalReviews": 96,
+        "totalRating": 4.9,
+        "responseRate": "100%",
+        "responseTime": "within a few hours",
+        "languages": [
+          "English",
+          "Greek"
+        ],
+        "work": "Fifth-generation wine growers",
+        "presence": "The estate is a working vineyard — join our cellar tasting any evening at six, guests taste free."
+      },
+      "highlights": [
+        {
+          "title": "Stay on a working vineyard",
+          "detail": "A converted 19th-century canava (wine cellar house) amid basket-pruned Assyrtiko vines."
+        },
+        {
+          "title": "Evening tastings included",
+          "detail": "Daily estate wine tastings in the old cellar are free for guests."
+        },
+        {
+          "title": "Newly opened",
+          "detail": "Converted and opened to guests in 2025."
+        }
+      ],
+      "description": "The estate's 19th-century canava — the vaulted cellar house where the family pressed wine for a century — converted into a three-bedroom villa amid the vineyards outside Megalochori. Stone vaults, chestnut doors, a pool between the vines, and the smell of fermenting Assyrtiko in September. Megalochori's bell-towered square is a five-minute walk; the caldera rim at sunset, ten by car.",
+      "bedrooms": [
+        {
+          "name": "Vault suite",
+          "beds": "1 king bed"
+        },
+        {
+          "name": "Bedroom 2",
+          "beds": "1 queen bed"
+        },
+        {
+          "name": "Bedroom 3",
+          "beds": "2 single beds"
+        }
+      ],
+      "amenities": [
+        "Vineyard views",
+        "Private pool",
+        "Full kitchen",
+        "Wifi",
+        "AC - split type ductless system",
+        "Daily estate wine tasting",
+        "Outdoor dining pergola",
+        "Free parking on premises",
+        "Washer",
+        "Fireplace"
+      ],
+      "amenitiesTotal": 48,
+      "safetyNotReported": [],
+      "houseRules": {
+        "checkin": "After 3:00 PM",
+        "checkout": "Before 11:00 AM",
+        "maxGuests": 6,
+        "cancellation": "Free cancellation before July 20. Cancel before August 5 for a partial refund."
+      },
+      "ratingBreakdown": {
+        "cleanliness": 5,
+        "accuracy": 4.9,
+        "checkin": 4.9,
+        "communication": 5,
+        "location": 4.8,
+        "value": 4.9
+      },
+      "reviewMentions": [
+        {
+          "tag": "Wine",
+          "count": 49
+        },
+        {
+          "tag": "Peaceful",
+          "count": 37
+        },
+        {
+          "tag": "Unique",
+          "count": 29
+        },
+        {
+          "tag": "Pool",
+          "count": 24
+        },
+        {
+          "tag": "Village",
+          "count": 18
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Charlotte",
+          "yearsOnAirbnb": 11,
+          "date": "June 2026",
+          "context": "Stayed with friends",
+          "rating": 5,
+          "text": "Tastings in the cellar where the wine was actually made, dinners under the pergola, mornings in the pool looking at vines. Megalochori is the prettiest village nobody visits."
+        },
+        {
+          "author": "Nikolai",
+          "yearsOnAirbnb": 6,
+          "date": "May 2026",
+          "context": "Stayed a few nights",
+          "rating": 5,
+          "text": "The vaulted ceilings are spectacular and the estate wines are seriously good — we shipped a case home. A completely different Santorini."
+        },
+        {
+          "author": "Aoife",
+          "yearsOnAirbnb": 8,
+          "date": "May 2026",
+          "context": "Stayed with kids",
+          "rating": 4,
+          "text": "Beautiful, calm, spacious. You'll want a car for beaches and the caldera, but that's the trade for the quiet."
+        }
+      ],
+      "datesAvailable": {
+        "startDate": "2026-08-01",
+        "endDate": "2026-12-31"
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200&q=80",
+          "alt": "White cubic villa with a private pool"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1537640538966-79f369143f8f?w=1200&q=80",
+          "alt": "Ripe grapes on the vine in late sun"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=1200&q=80",
+          "alt": "Rooftop terrace at sunset over rolling hills"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1474722883778-792e7990302f?w=1200&q=80",
+          "alt": "Glass of red wine overlooking vineyard rows"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1628594521386-36db378acdb2?w=1200&q=80",
+          "alt": "Twin bell towers of a village church against a blue sky"
+        }
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "id": "exp-santorini-001",
+      "name": "Caldera sunset sail on a luxury catamaran",
+      "type": "get_outside",
+      "region": "santorini",
+      "location": "Vlychada Marina, Santorini, Greece",
+      "lat": 36.3345,
+      "lng": 25.4335,
+      "price": 145,
+      "duration": "5 hours",
+      "groupSize": "Up to 14 guests, ages 6+",
+      "rating": 4.96,
+      "reviews": 482,
+      "host": {
+        "name": "Captain Vangelis",
+        "bio": "Santorini-born skipper with twenty years sailing the caldera. Runs a small fleet of catamarans out of Vlychada with his brothers, all licensed captains."
+      },
+      "description": "Sail the caldera's full arc — Red Beach, White Beach, the hot springs at the volcano, and swim stops in water 300 meters deep. The crew grills a full Greek BBQ on board with local wine, and you drift below Oia's cliffs just as the sun drops. Unlimited drinks, snorkel gear, and hotel transfers included.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1564555449603-b0eefe1b9094?w=1200&q=80",
+          "alt": "Sailboat silhouetted against a peach sunset at sea"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1631390905176-6cf10f5e804c?w=1200&q=80",
+          "alt": "Catamaran under sail as the sun sets"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1592913891470-feddbdb312a4?w=1200&q=80",
+          "alt": "On deck of a catamaran heading out to open water"
+        }
+      ]
+    },
+    {
+      "id": "exp-santorini-002",
+      "name": "Akrotiri ruins & Red Beach with an archaeologist",
+      "type": "local_culture",
+      "region": "santorini",
+      "location": "Akrotiri, Santorini, Greece",
+      "lat": 36.3517,
+      "lng": 25.4034,
+      "price": 85,
+      "duration": "3 hours",
+      "groupSize": "Up to 8 guests, ages 8+",
+      "rating": 4.98,
+      "reviews": 317,
+      "host": {
+        "name": "Dr. Ioanna",
+        "bio": "Field archaeologist who excavated at Akrotiri for six seasons. PhD on Cycladic Bronze Age trade; guides small groups when not digging."
+      },
+      "description": "Walk the covered excavation of Akrotiri — the 'Pompeii of the Aegean,' a Minoan-era town frozen by the volcanic eruption 3,600 years ago — with an archaeologist who worked the site. Three-story houses, drainage systems, and the ghost imprints of wooden beds. Finish on the red volcanic cliffs of Red Beach as Ioanna reconstructs the eruption that made the caldera.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1503152394-c571994fd383?w=1200&q=80",
+          "alt": "Columns of an ancient Greek ruin under a dramatic sky"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1555993539-1732b0258235?w=1200&q=80",
+          "alt": "Weathered marble of an ancient Greek temple"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1653051487585-a219fc18b64b?w=1200&q=80",
+          "alt": "Volcanic cliffs meeting deep blue water near Akrotiri"
+        }
+      ]
+    },
+    {
+      "id": "exp-santorini-003",
+      "name": "Volcanic vineyard tasting at a Pyrgos winery",
+      "type": "local_flavors",
+      "region": "santorini",
+      "location": "Pyrgos Kallistis, Santorini, Greece",
+      "lat": 36.3846,
+      "lng": 25.4432,
+      "price": 95,
+      "duration": "2.5 hours",
+      "groupSize": "Up to 10 guests, ages 18+",
+      "rating": 4.94,
+      "reviews": 268,
+      "host": {
+        "name": "Petros",
+        "bio": "Sommelier and son of a Pyrgos grape-growing family. Studied oenology in Athens and Bordeaux before coming home to the family's basket-pruned vines."
+      },
+      "description": "Taste eight wines on a terrace above the caldera slope — bone-dry Assyrtiko, barrel-aged Nykteri, and sun-dried Vinsanto — while Petros explains how vines survive on volcanic ash with no rain, coiled into ground-hugging baskets against the meltemi wind. Includes a walk through 150-year-old ungrafted vineyards and a cellar visit, with local cheese and tomato paximadia between pours.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=1200&q=80",
+          "alt": "Glass of wine overlooking vineyard rows"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1528823872057-9c018a7a7553?w=1200&q=80",
+          "alt": "Stainless steel tanks inside a modern winery"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=1200&q=80",
+          "alt": "Friends toasting with glasses of red wine"
+        }
+      ]
+    },
+    {
+      "id": "exp-santorini-004",
+      "name": "Santorinian cooking class: fava, tomatokeftedes & white eggplant",
+      "type": "local_flavors",
+      "region": "santorini",
+      "location": "Exo Gonia, Santorini, Greece",
+      "lat": 36.3936,
+      "lng": 25.4551,
+      "price": 135,
+      "duration": "4 hours",
+      "groupSize": "Up to 8 guests, ages 10+",
+      "rating": 4.99,
+      "reviews": 203,
+      "host": {
+        "name": "Kyria Anna",
+        "bio": "Retired school cook who has fed three generations of Exo Gonia. Grows her own capers, cherry tomatoes, and white eggplant on terraces behind the house."
+      },
+      "description": "Cook the island's PDO ingredients in Anna's farmhouse kitchen: silky Santorini fava with caramelized onions, crisp tomatokeftedes from her own waterless cherry tomatoes, white eggplant baked with kopanisti, and melitinia pastries for dessert. Everything is eaten under the vine pergola with wine from the neighbor's canava. You'll leave with her handwritten recipes.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1623855244697-5d8fbe9c7892?w=1200&q=80",
+          "alt": "Cook folding a bowl of ripe tomatoes and herbs"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?w=1200&q=80",
+          "alt": "Tomato and feta salad plated in dappled sunlight"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1536000800373-5b5e6020910a?w=1200&q=80",
+          "alt": "Well-worn wooden spoons on a rustic table"
+        }
+      ]
+    },
+    {
+      "id": "exp-santorini-005",
+      "name": "Fira to Oia caldera-rim hike at golden hour",
+      "type": "get_outside",
+      "region": "santorini",
+      "location": "Imerovigli, Santorini, Greece",
+      "lat": 36.4286,
+      "lng": 25.4245,
+      "price": 60,
+      "duration": "4.5 hours",
+      "groupSize": "Up to 10 guests, ages 12+",
+      "rating": 4.92,
+      "reviews": 356,
+      "host": {
+        "name": "Thanos",
+        "bio": "Mountain guide and geology teacher raised in Fira. Has walked the rim path over a thousand times and still stops for the view at Skaros."
+      },
+      "description": "The classic 10-kilometer walk along the caldera's edge from Fira through Firostefani and Imerovigli to Oia — past Skaros Rock, the chapel of Profitis Ilias, and long empty stretches where the only sound is wind and church bells. Thanos times the walk so you crest the final ridge into Oia as the sunset begins. Water, trail snacks, and a celebratory drink in Oia included.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1571406252241-db0280bd36cd?w=1200&q=80",
+          "alt": "White village clinging to the caldera cliffs"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1756390232263-751abad885c4?w=1200&q=80",
+          "alt": "Aerial view of the cliff path past terraced white suites"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=1200&q=80",
+          "alt": "Hiker walking a rugged trail with mountains ahead"
+        }
+      ]
+    },
+    {
+      "id": "exp-santorini-006",
+      "name": "Oia golden-hour photography walk",
+      "type": "local_culture",
+      "region": "santorini",
+      "location": "Oia, Santorini, Greece",
+      "lat": 36.4618,
+      "lng": 25.3762,
+      "price": 120,
+      "duration": "2.5 hours",
+      "groupSize": "Up to 6 guests, all ages",
+      "rating": 4.95,
+      "reviews": 189,
+      "host": {
+        "name": "Lena",
+        "bio": "Travel photographer based on Santorini for nine years; shoots for Greek tourism campaigns and knows every unmarked rooftop and quiet dome in Oia."
+      },
+      "description": "Skip the tripod queues. Lena leads you through Oia's back lanes to the angles the crowds never find — hidden dome clusters, marble lanes lit gold, and rooftops where the caldera unrolls beneath you. Hands-on help with composition and light for phone or camera, timed to end at a private sunset spot away from the castle crush. Includes 10 edited portraits of you against the view.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=1200&q=80",
+          "alt": "Camera body and lenses laid out on a dark surface"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1529877331144-7f0d10ad5fc7?w=1200&q=80",
+          "alt": "Traveler seated on a white rooftop ledge above the caldera"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1530841377377-3ff06c0ca713?w=1200&q=80",
+          "alt": "Blue-domed churches stacked above the deep blue sea in Oia"
+        }
+      ]
+    },
+    {
+      "id": "exp-santorini-007",
+      "name": "Sea kayaking the south coast caves and lighthouse",
+      "type": "get_outside",
+      "region": "santorini",
+      "location": "Akrotiri, Santorini, Greece",
+      "lat": 36.3405,
+      "lng": 25.3585,
+      "price": 110,
+      "duration": "3.5 hours",
+      "groupSize": "Up to 8 guests, ages 12+",
+      "rating": 4.9,
+      "reviews": 241,
+      "host": {
+        "name": "Alex",
+        "bio": "Sea-kayak instructor and marine-life nerd who paddled the entire Cyclades over three summers before settling under the Akrotiri lighthouse."
+      },
+      "description": "Paddle stable tandem kayaks beneath the layered lava cliffs of the south coast — through sea caves, past the White and Red beaches unreachable by road, to a snorkel stop in a hidden cove below the Akrotiri lighthouse. Calm morning water, a light picnic of local cheese and fruit on a pebble beach, and dry bags, gear, and photos included.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1500514966906-fe245eea9344?w=1200&q=80",
+          "alt": "Aerial view of a boat moored off a pale sandy cove"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1559825481-12a05cc00344?w=1200&q=80",
+          "alt": "Clear shallow water rippling over pale sand"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80",
+          "alt": "Calm shoreline at golden hour"
+        }
+      ]
+    },
+    {
+      "id": "exp-santorini-008",
+      "name": "Freediving & snorkeling at Amoudi Bay",
+      "type": "get_outside",
+      "region": "santorini",
+      "location": "Amoudi Bay, Oia, Santorini, Greece",
+      "lat": 36.4609,
+      "lng": 25.3672,
+      "price": 130,
+      "duration": "3 hours",
+      "groupSize": "Up to 6 guests, ages 14+",
+      "rating": 4.97,
+      "reviews": 158,
+      "host": {
+        "name": "Nefeli",
+        "bio": "AIDA-certified freediving instructor and former competitive swimmer. Teaches breath-hold in the deep clear water below Oia every summer."
+      },
+      "description": "Amoudi's water drops away fast and impossibly clear — perfect for a first taste of freediving. Nefeli covers breathing and relaxation on the swimming rocks, then guides you down the anchor line in stages, with snorkel circuits around Agios Nikolaos islet between sessions. Wetsuits, masks, and fins provided; finish with fresh juice at the harbor tavernas.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1530053969600-caed2596d242?w=1200&q=80",
+          "alt": "Looking up through deep blue water toward the light"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1200&q=80",
+          "alt": "Diver surrounded by a school of fish"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1615807091119-4284fa55ecd7?w=1200&q=80",
+          "alt": "Amoudi Bay's red cliffs and clear harbor water"
+        }
+      ]
+    },
+    {
+      "id": "exp-santorini-009",
+      "name": "Volcano & hot springs cruise to Nea Kameni",
+      "type": "get_outside",
+      "region": "santorini",
+      "location": "Nea Kameni, Santorini, Greece",
+      "lat": 36.404,
+      "lng": 25.396,
+      "price": 75,
+      "duration": "4 hours",
+      "groupSize": "Up to 20 guests, ages 6+",
+      "rating": 4.85,
+      "reviews": 529,
+      "host": {
+        "name": "Captain Mihalis",
+        "bio": "Third-generation boatman whose grandfather ferried geologists to the 1950 eruption. Sails a traditional wooden kaiki from the old port."
+      },
+      "description": "Cross the caldera by wooden kaiki to Nea Kameni, the black lava island still steaming at its crater rims, and hike the 30-minute cinder path to the summit vents with views back at the whole cliff line. Then anchor at Palea Kameni's iron-red hot springs for a warm swim before the sail home beneath Fira. A proper island classic — bring sturdy shoes and a dark swimsuit.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1583200771217-8b9112459344?w=1200&q=80",
+          "alt": "Catamarans and boats moored in a quiet anchorage"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1674043502789-cc138dacf27c?w=1200&q=80",
+          "alt": "Sailboat crossing calm water at sunset"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1736618626422-afad825b32c7?w=1200&q=80",
+          "alt": "Yachts anchored in a caldera cove beneath the cliffs"
+        }
+      ]
+    },
+    {
+      "id": "exp-santorini-010",
+      "name": "Hidden villages walk: Pyrgos, Megalochori & Emporio",
+      "type": "local_culture",
+      "region": "santorini",
+      "location": "Emporio, Santorini, Greece",
+      "lat": 36.3652,
+      "lng": 25.4448,
+      "price": 70,
+      "duration": "4 hours",
+      "groupSize": "Up to 8 guests, all ages",
+      "rating": 4.93,
+      "reviews": 176,
+      "host": {
+        "name": "Sofia",
+        "bio": "Folklorist and lifelong Emporio resident who wrote her thesis on the island's fortified settlements. Her grandmother's house anchors the walk's coffee stop."
+      },
+      "description": "Inland Santorini, where the tour buses don't fit: the Venetian kasteli of Pyrgos, Megalochori's bell towers and hidden canavas, and the astonishing goulas fortress maze of Emporio, whose arched lanes were built to confuse pirates. Greek coffee and melitinia in Sofia's family courtyard, stories of weddings and sieges, and not a single caldera crowd in sight.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1533104816931-20fa691ff6ca?w=1200&q=80",
+          "alt": "Whitewashed lane with a blue gate and flowering wall"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1628594521386-36db378acdb2?w=1200&q=80",
+          "alt": "Church bell towers against a clear blue sky"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1608385339538-360dabeeeac9?w=1200&q=80",
+          "alt": "Hand-painted taverna sign on an ochre village wall"
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "svc-santorini-001",
+      "name": "Anemos — cliffside dining above Skaros",
+      "type": "restaurant",
+      "region": "santorini",
+      "location": "Imerovigli, Santorini, Greece",
+      "lat": 36.433,
+      "lng": 25.4235,
+      "priceRange": "$$$$ · Mains from $38",
+      "cuisine": "Modern Greek · caldera views",
+      "rating": 4.8,
+      "reviews": 1124,
+      "host": {
+        "name": "Chef Andreas",
+        "bio": "Ex-Athens fine dining, returned to the island to cook his grandmother's recipes with technique. Every table on the terrace faces Skaros Rock."
+      },
+      "description": "Terraced into the Imerovigli cliff with every table facing the caldera, Anemos plates modern Greek built on island produce — fava with smoked eel, lamb with santorini capers, and a deconstructed tomatokeftedes that regulars order twice. Book the 19:30 seating for sunset over Skaros; the wine list runs deep on old-vine Assyrtiko.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200&q=80",
+          "alt": "Terrace restaurant tables overlooking the water"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1606735584785-1848fdcaea57?w=1200&q=80",
+          "alt": "Greek salad and a glass of rosé on a taverna table"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1604145195376-e2c8195adf29?w=1200&q=80",
+          "alt": "Shaded terrace table and chairs facing the caldera"
+        }
+      ]
+    },
+    {
+      "id": "svc-santorini-002",
+      "name": "Taverna Katina — fish tavern on Amoudi Bay",
+      "type": "restaurant",
+      "region": "santorini",
+      "location": "Amoudi Bay, Oia, Santorini, Greece",
+      "lat": 36.4606,
+      "lng": 25.3678,
+      "priceRange": "$$$ · Fish by the kilo",
+      "cuisine": "Fresh seafood · grilled octopus",
+      "rating": 4.7,
+      "reviews": 2318,
+      "host": {
+        "name": "The Pagoni Family",
+        "bio": "Three generations grilling the morning catch at the water's edge of Amoudi since 1972. The octopus dries on lines beside the tables, as it always has."
+      },
+      "description": "Tables on the quay so close to the water that spray reaches your feet on a windy day. Pick your fish from the ice — red mullet, sea bream, lobster for the spaghetti — and start with sun-dried octopus off the charcoal and white taramosalata. Come down the steps before sunset, eat as the light goes red on the cliff, and let them call you a donkey taxi for the climb back.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1469532954151-60b475900aa2?w=1200&q=80",
+          "alt": "Octopus drying on a line by the water in the sun"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1717947607191-821c632e684a?w=1200&q=80",
+          "alt": "Taverna tables under a tree at the water's edge"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1601581875309-fafbf2d3ed3a?w=1200&q=80",
+          "alt": "Seaside taverna tables on a whitewashed terrace"
+        }
+      ]
+    },
+    {
+      "id": "svc-santorini-003",
+      "name": "Canava Roussos cellar tastings",
+      "type": "wine_bar",
+      "region": "santorini",
+      "location": "Megalochori, Santorini, Greece",
+      "lat": 36.3785,
+      "lng": 25.429,
+      "priceRange": "Tastings $28–$75",
+      "cuisine": "Volcanic wines · Assyrtiko & Vinsanto",
+      "rating": 4.9,
+      "reviews": 684,
+      "host": {
+        "name": "Markos",
+        "bio": "Cellar master of a family winery pressing Santorini grapes since 1836. Pours vertical Vinsanto flights in the original vaulted canava."
+      },
+      "description": "One of the island's oldest working wineries, still centered on its 19th-century vaulted cellar dug into the ash. Flights move from steel-fresh Assyrtiko through oak-aged Nykteri to Vinsanto aged twelve years in old barrels — sunset-orange, honeyed, unforgettable. Tastings come with island cheeses and chlorotyri, and the courtyard under the pistachio tree is the place to lose an afternoon.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1516594915697-87eb3b1c14ea?w=1200&q=80",
+          "alt": "Wine bottles lining a cellar shelf"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1423483641154-5411ec9c0ddf?w=1200&q=80",
+          "alt": "Hands cradling freshly harvested dark grapes"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1537640538966-79f369143f8f?w=1200&q=80",
+          "alt": "Grapes ripening on the vine in late sun"
+        }
+      ]
+    },
+    {
+      "id": "svc-santorini-004",
+      "name": "To Fournaki — bakery & loukoumades in Fira",
+      "type": "restaurant",
+      "region": "santorini",
+      "location": "Fira, Santorini, Greece",
+      "lat": 36.4172,
+      "lng": 25.4327,
+      "priceRange": "$ · Pastries $2–$9",
+      "cuisine": "Bakery · loukoumades & baklava",
+      "rating": 4.8,
+      "reviews": 1567,
+      "host": {
+        "name": "Kyria Despina",
+        "bio": "Has fired the wood oven behind the bus square every morning at 4 a.m. for thirty years. Her loukoumades recipe came from her mother in Anafi."
+      },
+      "description": "Follow the smell of wood smoke off Fira's main square. Despina's counter sells sesame-crusted village bread, spanakopita in crackling phyllo, and melitinia — the island's Easter cheese tarts — year-round. The move: a paper cone of loukoumades straight from the fryer, drowned in thyme honey and cinnamon, eaten standing on the church steps opposite. Espresso freddo from the grandson's machine completes it.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1517433670267-08bbd4be890f?w=1200&q=80",
+          "alt": "Bakery case filled with fresh breads and pastries"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=1200&q=80",
+          "alt": "Rustic loaves dusted with flour"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1602008394120-5cc61b4f6ada?w=1200&q=80",
+          "alt": "Blue-shuttered cafe front with a wooden barrel table"
+        }
+      ]
+    },
+    {
+      "id": "svc-santorini-005",
+      "name": "Petra & Thalassa — tasting menus over Oia",
+      "type": "restaurant",
+      "region": "santorini",
+      "location": "Oia, Santorini, Greece",
+      "lat": 36.4625,
+      "lng": 25.3746,
+      "priceRange": "$$$$ · Tasting menu $145",
+      "cuisine": "Contemporary Aegean tasting menus",
+      "rating": 4.9,
+      "reviews": 892,
+      "host": {
+        "name": "Chef Elias",
+        "bio": "Two stints in Copenhagen kitchens before coming home to cook the Aegean: caper leaves, saffron from Krokos, and fish landed at Ammoudi that morning."
+      },
+      "description": "Nine courses in a candlelit cave dining room carved beneath Oia's marble lane — smoked fava with sea urchin, white eggplant three ways, monkfish in Vinsanto beurre blanc. The wine pairing leans local and rare, including single-vineyard Assyrtiko you won't find exported. Two seatings; the later one ends with petit fours on a terrace over the dark caldera.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200&q=80",
+          "alt": "Server presenting a finely plated tasting course"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200&q=80",
+          "alt": "Intimate restaurant dining room with warm lighting"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=1200&q=80",
+          "alt": "Vividly plated bowl of fresh vegetables and grains"
+        }
+      ]
+    },
+    {
+      "id": "svc-santorini-006",
+      "name": "Private chef Ariadne — villa dinners & BBQ",
+      "type": "chef",
+      "region": "santorini",
+      "location": "Messaria, Santorini, Greece",
+      "lat": 36.4023,
+      "lng": 25.436,
+      "priceRange": "From $95 / guest",
+      "cuisine": "Private chef · Santorinian tasting menus",
+      "rating": 5.0,
+      "reviews": 214,
+      "host": {
+        "name": "Ariadne",
+        "bio": "Cooked in Mykonos and Athens hotels before going solo; now cooks in villas across the island with a basket of whatever her father's garden gave her that morning."
+      },
+      "description": "Ariadne arrives with coolers, sets your villa table with linen and candles, and cooks a five-course Santorinian menu while you swim — fava tartlets, grilled sea bass with ladolemono, slow lamb with island herbs, and a semolina orange cake her yiayia would recognize. BBQ, meze-only, and vegetarian menus available; she shops the Pyrgos farmers' market and names every grower at the table.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=1200&q=80",
+          "alt": "Chefs preparing dinner together in a modern kitchen"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=1200&q=80",
+          "alt": "Fresh vegetables and eggs laid out on a prep board"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&q=80",
+          "alt": "Colorful bowls of seasonal vegetables ready to serve"
+        }
+      ]
+    },
+    {
+      "id": "svc-santorini-007",
+      "name": "Tsipouro & Co — sunset wine bar in Fira",
+      "type": "wine_bar",
+      "region": "santorini",
+      "location": "Fira, Santorini, Greece",
+      "lat": 36.4159,
+      "lng": 25.4312,
+      "priceRange": "$$ · Glasses $9–$22",
+      "cuisine": "Wine bar & Greek small plates",
+      "rating": 4.7,
+      "reviews": 976,
+      "host": {
+        "name": "Stelios",
+        "bio": "Sommelier who worked London wine bars for a decade, came home, and opened forty Greek wines by the glass on a caldera-facing balcony."
+      },
+      "description": "A narrow balcony bar hanging off Fira's caldera walkway with the best-value sunset seat in town — no minimum spend, just good glasses. Forty Greek wines by the glass, tsipouro and mastiha flights, and small plates built to keep pace: smoked mackerel on paximadi, grilled talagani, capers fried crisp. Arrive 45 minutes before sundown for a rail seat.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1200&q=80",
+          "alt": "Backlit bar lined with bottles at night"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=1200&q=80",
+          "alt": "Bartender straining a drink into a glass"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=1200&q=80",
+          "alt": "Glasses of red wine raised in a toast"
+        }
+      ]
+    },
+    {
+      "id": "svc-santorini-008",
+      "name": "I Plateia — family taverna on Pyrgos square",
+      "type": "restaurant",
+      "region": "santorini",
+      "location": "Pyrgos Kallistis, Santorini, Greece",
+      "lat": 36.3835,
+      "lng": 25.4478,
+      "priceRange": "$$ · Mains $12–$24",
+      "cuisine": "Traditional Santorinian home cooking",
+      "rating": 4.8,
+      "reviews": 1432,
+      "host": {
+        "name": "The Karamolegos Family",
+        "bio": "Mother in the kitchen, father at the grill, daughters on the floor. The menu is whatever the garden and the butcher provided that day, chalked on a board."
+      },
+      "description": "Tables scattered under the plane tree on Pyrgos's little square, paper tablecloths pinned against the breeze. Order the chalkboard: fava churned with onions, white eggplant off the grill, rabbit stifado, and tomatokeftedes that set the island standard. The house wine comes from the uncle's canava down the lane and the bill will make you double-check it. No bookings — come early or wait with a tsipouro.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1602591546738-ceab3d349681?w=1200&q=80",
+          "alt": "Pastel courtyard taverna beneath flowering wisteria"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1602008394120-5cc61b4f6ada?w=1200&q=80",
+          "alt": "Turquoise taverna storefront with a barrel table"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1638612833646-34eecc16f3f1?w=1200&q=80",
+          "alt": "Greek salad with bread and olives on a taverna table"
+        }
+      ]
+    },
+    {
+      "id": "svc-santorini-009",
+      "name": "Mavro Ammos — beach taverna on Perivolos sand",
+      "type": "restaurant",
+      "region": "santorini",
+      "location": "Perivolos, Santorini, Greece",
+      "lat": 36.3487,
+      "lng": 25.4652,
+      "priceRange": "$$$ · Mains $18–$42",
+      "cuisine": "Seafood & mezze on the sand",
+      "rating": 4.6,
+      "reviews": 1876,
+      "host": {
+        "name": "Giorgos",
+        "bio": "Started as a beach-bar boy on this stretch of black sand at sixteen; now runs the kitchen, the loungers, and the best grilled calamari on the south coast."
+      },
+      "description": "Barefoot lunch on the black sand of Perivolos: tables at the water line, mezze arriving in waves — grilled calamari, sardines in vine leaves, watermelon with feta — and a cold Assyrtiko sweating in the bucket. Loungers and umbrellas are free with a kitchen order, the swim between courses is mandatory, and afternoons dissolve into DJ sets as the light goes gold.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1625944230945-1b7dd3b949ab?w=1200&q=80",
+          "alt": "Spread of mezze dishes across a shared table"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1658742758848-e9496d31a8b6?w=1200&q=80",
+          "alt": "Courtyard taverna tables beneath a canvas awning"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=1200&q=80",
+          "alt": "Sun umbrellas and palms along a sandy beach"
+        }
+      ]
+    },
+    {
+      "id": "svc-santorini-010",
+      "name": "Aegean Frames — portrait photographer in Oia",
+      "type": "photography",
+      "region": "santorini",
+      "location": "Oia, Santorini, Greece",
+      "lat": 36.462,
+      "lng": 25.3758,
+      "priceRange": "From $220 / session",
+      "cuisine": "Portrait photography",
+      "rating": 4.9,
+      "reviews": 463,
+      "host": {
+        "name": "Dimitra",
+        "bio": "Wedding and portrait photographer with twelve seasons on the caldera. Shoots film and digital; her proposal shots have gone viral more than once."
+      },
+      "description": "Sunrise or blue-hour portrait sessions through Oia's lanes and rooftops — engagements, honeymoons, families, or a solo shoot against the domes. Dimitra scouts quiet corners the day before, moves fast between spots before the crowds build, and delivers 60 edited images within 72 hours. Flowing-dress rental and a champagne finish on a private rooftop available as add-ons.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=1200&q=80",
+          "alt": "Vintage camera with printed photographs and a map"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1529877331144-7f0d10ad5fc7?w=1200&q=80",
+          "alt": "Portrait subject seated on a rooftop above the caldera"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=1200&q=80",
+          "alt": "Oia's iconic blue domes above the Aegean"
+        }
+      ]
+    }
+  ]
+}
