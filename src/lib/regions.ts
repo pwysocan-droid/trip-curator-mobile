@@ -11,7 +11,7 @@ export const REGIONS: Region[] = [
     id: 'provence',
     name: 'Provence',
     country: 'France',
-    file: 'airbnb-mock-data.json',
+    file: 'provence.json',
     aliases: ["provence-alpes-côte d'azur", 'french riviera', "côte d'azur", 'luberon', 'aix-en-provence', 'arles', 'avignon', 'cannes', 'nice', 'marseille', 'menton'],
   },
   {
